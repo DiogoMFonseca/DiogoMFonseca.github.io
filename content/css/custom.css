@@ -1,0 +1,59 @@
+
+/* Banner */
+.masthead {
+    height: 50vh;
+    min-height: 500px;
+    background-image: url('../images/banner2.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#grad-top {
+    background: rgba(34, 37, 41, 0) linear-gradient(to bottom, rgba(34, 37, 41, 0) 10%, rgba(26, 26, 26, .1) 40%, rgba(26, 26, 26, .5) 75%, rgba(26, 26, 26, 1) 100%) repeat scroll 0 0;
+    position: relative;
+    margin-top: -200px;
+    height: 200px;
+}
+#grad-bottom {
+    background: rgba(34, 37, 41, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 10%, rgba(34, 37, 41, .1) 40%, rgba(34, 37, 41, .5) 75%, rgba(34, 37, 41, 1) 100%) repeat scroll 0 0;
+    position: relative;
+    margin-top: -200px;
+    height: 200px;
+}
+
+/* Page body and widget config */
+body {
+    background-color: #222529;
+}
+.widget {
+    width: auto;
+    height: 50%;
+}
+
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Random gradient */
+#grad1 {
+    height: 300px;
+    background-color: black;
+    background-image: linear-gradient(black, #222529);
+}
+
+/* TESTS */
+#aboutus {
+    background-image:
+    linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
+    url('../images/bot.png');
+    width: 80%;
+    height: 400px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}
