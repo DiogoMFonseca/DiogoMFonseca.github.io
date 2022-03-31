@@ -8,6 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="content/css/custom.css">
+    <link rel="stylesheet" href="content/css/custom.scss">
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
             integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
@@ -15,6 +16,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
             integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
             crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/95a02bd20d.js"></script>
 
     <title>Diogo Fonseca</title>
 </head>
@@ -47,8 +49,9 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center centered">
-                <h1 class="text-white">D I O G O &nbsp;&nbsp;F O N S E C A</h1>
-                <p class="lead text-white">Automation & Optimization</p>
+                <a href="#" class="glitch" data-glitch="DIOGO FONSECA">DIOGO FONSECA</a>
+                <!--<h1 class="text-white">D I O G O &nbsp;&nbsp;F O N S E C A</h1>
+                <p class="lead text-white">Automation & Optimization</p>-->
             </div>
         </div>
     </div>
@@ -66,7 +69,6 @@
         <div class="col-3 d-none d-md-block">
         </div>
         <div class="col mx-auto d-flex justify-content-center">
-
             I'm passionate about robotics and automation in general.
             <br>
             It all began in 2016 when I started my journey in a big multinational company.
@@ -88,50 +90,23 @@
 <br><br>
 <hr>
 <div class="container" id="Services">
-    <div class="row gap-5">
+    <div class="row gap-3">
         <p class="fs-1 text-white text-center">Services</p>
         <div class="col d-flex justify-content-center">
-            <div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <div class="card-header"><h4>AUTOMATION</h4></div>
-                        <div class="card-body">
-                            <img src="content/images/automation.png" class="img-fluid" style="width: 13rem;"
-                                 alt="Automation">
-                        </div>
+            <div class="card border-0">
+                <div class="face face1">
+                    <div class="content">
+                        <img src="content/images/automation.png" class="img-fluid" style="width: 13rem;"
+                             alt="Automation">
+                        <h3>AUTOMATION</h3>
                     </div>
-                    <div class="flip-card-back">
-                        <br>
-                        <br>
-                        <h3>Services:</h3>
-                        <br>
-                        <p>- RPA Developer;<br>
+                </div>
+                <div class="face face2">
+                    <div class="content">
+                        <p>- RPA Development;<br>
                             - RPA Consulting;<br>
                             - Back Office;<br>
                             - Process Improvement;</p>
-                        <button type="button" class="btn btn-secondary">Know More</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col d-flex justify-content-center">
-            <div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <div class="card-header"><h4>eCOMMERCE</h4></div>
-                        <div class="card-body">
-                            <img src="content/images/online-shopping.png" class="img-fluid" style="width: 13rem;"
-                                 alt="Automation">
-                        </div>
-                    </div>
-                    <div class="flip-card-back">
-                        <br>
-                        <br>
-                        <h3>Services:</h3>
-                        <br>
-                        <p class="card-text">- ERP Integration;</p>
-                        <br>
-                        <br>
                         <br>
                         <button type="button" class="btn btn-secondary">Know More</button>
                     </div>
@@ -139,23 +114,36 @@
             </div>
         </div>
         <div class="col d-flex justify-content-center">
-            <div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">
-                        <div class="card-header"><h4>DATA VISUALIZATION</h4></div>
-                        <div class="card-body">
-                            <img src="content/images/business-report.png" class="img-fluid" style="width: 13rem;"
-                                 alt="Automation">
-                        </div>
+            <div class="card border-0">
+                <div class="face face1">
+                    <div class="content">
+                        <img src="content/images/online-shopping.png" class="img-fluid" style="width: 13rem;"
+                             alt="eCommerce">
+                        <h3>eCOMMERCE</h3>
                     </div>
-                    <div class="flip-card-back">
+                </div>
+                <div class="face face2">
+                    <div class="content">
+                        <p>- ERP Integration;</p>
                         <br>
-                        <br>
-                        <h3>Services:</h3>
-                        <br>
-                        <p class="card-text">- KPI Reporting;<br>
+                        <button type="button" class="btn btn-secondary">Know More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col d-flex justify-content-center">
+            <div class="card border-0">
+                <div class="face face1">
+                    <div class="content">
+                        <img src="content/images/business-report.png" class="img-fluid" style="width: 13rem;"
+                             alt="DataVisualization">
+                        <h3>DATA VISUALIZATION</h3>
+                    </div>
+                </div>
+                <div class="face face2">
+                    <div class="content">
+                        <p>- KPI Reporting;<br>
                             - Dashboards;</p>
-                        <br>
                         <br>
                         <button type="button" class="btn btn-secondary">Know More</button>
                     </div>
@@ -260,5 +248,11 @@
     $('.flip').hover(function(){
         $(this).find('.card').toggleClass('flipped');
     });
+
+
+
+
+
+
 </script>
 </html>
