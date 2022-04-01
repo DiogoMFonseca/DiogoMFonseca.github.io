@@ -35,6 +35,7 @@ body {
 .container .card{
   position: relative;
   background: #222529;
+  border-radius: 25px;
 }
 .container .card .face{
   width:300px;
