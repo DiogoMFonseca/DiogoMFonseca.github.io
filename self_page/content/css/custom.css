@@ -180,17 +180,29 @@ a:hover {
  .glitch:after {
 	 color: crimson/*#d878f2 #f0f*/;
 	 z-index: -2;
+
+	 /* Remove for hover */
+	 animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both 5;
+	 animation-iteration-count: infinite;
 }
  .glitch:before {
 	 color: aqua/*#b9b4f2 #0ff*/;
 	 z-index: -1;
+
+	 /* Remove for hover */
+	 animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both 5;
+	 animation-iteration-count: infinite;
 }
+/* Remove for hover
  .glitch:hover:before {
 	 animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both 5;
+	 animation-iteration-count: infinite;
 }
  .glitch:hover:after {
 	 animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both 5;
+	 animation-iteration-count: infinite;
 }
+*/
  @media only screen and (max-width: 400px) {
 	 .glitch {
 		 font-size: 3em;
