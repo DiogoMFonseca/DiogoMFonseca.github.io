@@ -2,10 +2,34 @@
 .masthead {
     height: 50vh;
     min-height: 500px;
-    background-image: url('../images/banner2.jpeg');
+    background-image: url('../images/banners/banner.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+.masthead2 {
+    height: 50vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(transparent, #222529 95%), linear-gradient(#222529, transparent 25%), url('../images/banners/banner2.jpeg');/*url('../images/banner0.jpeg');*/
+}
+.masthead1 {
+    height: 50vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(transparent, #222529 95%), linear-gradient(#222529, transparent 25%), url('../images/banners/banner1.jpg');/* url('../images/banner3.webp');*/
+}
+.masthead3 {
+    height: 50vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(transparent, #222529 95%), linear-gradient(#222529, transparent 25%), url('../images/banners/banner3.jpeg');
 }
 #grad-top {
     background: rgba(34, 37, 41, 0) linear-gradient(to bottom, rgba(34, 37, 41, 0) 10%, rgba(26, 26, 26, .1) 40%, rgba(26, 26, 26, .5) 75%, rgba(26, 26, 26, 1) 100%) repeat scroll 0 0;

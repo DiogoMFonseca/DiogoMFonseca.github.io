@@ -33,10 +33,6 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-link text-secondary" href="../">Home</a>
-                <a class="nav-link text-secondary" href="#Automation">Automation</a>
-                <a class="nav-link text-secondary" href="#eCommerce">eCommerce</a>
-                <a class="nav-link text-secondary" href="#DataVisualization">Data</a>
-                <a class="nav-link text-secondary" href="#Contacts">Contact Us</a>
             </div>
         </div>
     </div>
@@ -65,16 +61,15 @@
         <div class="col-3 d-none d-md-block">
         </div>
         <div class="col mx-auto d-flex justify-content-center">
-
             <br><br>
-            By getting familiar with Kaizen methodologies we figured out that, sometimes, companies don't need
-            automation, they just need simplification and standardization of their services.
-            <br><br>
-            With 10+ years of experience and a capable team of Business Analysts, Data Engineers and Developers,
-            we are customer driven and will help you understand your needs,
-            by finding solutions for problems that you didn't even know you have.
-            <br><br>
-            We're data driven and will provide fully detailed reports of capital savings.
+            <div class="list-group">
+                <button type="button" class="list-group-item list-group-item-action" aria-current="true">Chatbots</button>
+                <button type="button" class="list-group-item list-group-item-action">Web Scrappers</button>
+                <button type="button" class="list-group-item list-group-item-action">OCR</button>
+                <button type="button" class="list-group-item list-group-item-action">PDF to Word</button>
+                <button type="button" class="list-group-item list-group-item-action">Excel Macros / VBA</button>
+                <button type="button" class="list-group-item list-group-item-action">API</button>
+            </div>
         </div>
         <div class="col-3 d-none d-md-block">
         </div>
@@ -144,106 +139,13 @@
 </div>
 <br><br>
 <div style="overflow-y: visible;height: 100px;"></div>
-<div class="container" id="Contacts">
-    <p class="fs-1 text-white text-center">Contact Us</p>
-    <br>
-    <div class="row text-white d-flex justify-content-center text-left justify-content-center">
-        <img src="../self_page/content/images/chatbot.png" class="img-fluid" alt="AboutUs" style="width: 10rem;">
-        <p>
-    </div>
-    <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
-        <div class="col-3 d-none d-md-block">
-        </div>
-        <div class="col justify-content-center">
-            <form action="" method="POST" id="ContactForm">
-                <div class="mb-3">
-                    <label for="FormControlInputName" class="form-label text-white">Name</label>
-                    <input type="text" name="Name" class="form-control" id="FormControlInputName"
-                           placeholder="John Doe">
-                </div>
-                <div class="mb-3">
-                    <label for="FormControlInputEmail" class="form-label text-white">Email</label>
-                    <input type="email" name="Email" class="form-control" id="FormControlInputEmail"
-                           placeholder="name@example.com">
-                </div>
-                <div class="mb-3">
-                    <label for="FormControlInputText" class="form-label text-white">Description</label>
-                    <textarea class="form-control" name="Description" id="FormControlInputText"
-                              placeholder="Please send a quotation for XXX and YYY. Thank you." rows="3"></textarea>
-                </div>
-                <button type="button" name="submit" class="btn btn-submit">Submit</button>
-                <!--<input type="submit" name="submit" class="btn btn-submit" value="Submit">-->
-            </form>
-        </div>
-        <div class="col-3 d-none d-md-block">
-        </div>
-    </div>
-</div>
-<div style="overflow-y: visible;height: 100px;"></div>
 <div class="container">
     <footer class="py-3 my-4">
         <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Features</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
+            <li class="nav-item"><a href="mailto:geral@inavstract.com" class="nav-link px-2 text-muted">geral@inavstract.com</a></li>
         </ul>
         <p class="text-center text-muted">&copy; 2022 Inavstract</p>
     </footer>
 </div>
-<div class="modal" tabindex="-1" id="myModal">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Request Submitted</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
-                    <img src="../self_page/content/images/email.png" class="img-fluid" alt="EmailSent"
-                         style="width: 15rem;">
-                </div>
-                <div class="row d-flex justify-content-center text-lef justify-content-center">
-                    <div class="col-3 d-none d-md-block">
-                    </div>
-                    <div class="col mx-auto d-flex justify-content-center">
-                        Thank you for contacting us.
-                        <br><br>
-                        A copy of your request has been sent to your inbox.
-                        <br>
-                        Please check your SPAM folder.
-                        <br><br>
-                        We will reach out to you as soon as possible.
-                    </div>
-                    <div class="col-3 d-none d-md-block">
-                    </div>
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
-<script>
-    $('#ContactForm > button').click(function(e) {
-        e.preventDefault();
-        $.ajax({
-            type: 'POST',
-            url: 'self_page/scripts/email_send.php',
-            data: {
-                Name: $('#FormControlInputName').val(),
-                Email: $('#FormControlInputEmail').val(),
-                Description: $('#FormControlInputText').val(),
-                submit: 'submit',
-            },
-            success: function (data) {
-                $('#myModal').modal('show');
-            }
-        });
-    });
-
-</script>
 </body>
 </html>
