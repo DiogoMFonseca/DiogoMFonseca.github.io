@@ -17,8 +17,9 @@
             integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
             crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/95a02bd20d.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
-    <title>INAVSTRACT</title>
+    <title>Inavstract</title>
 </head>
 
 <body>
@@ -32,7 +33,19 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-link text-secondary" href="#AboutUs">About Us</a>
-                <a class="nav-link text-secondary" href="#Services">Services</a>
+                <!--<a class="nav-link text-secondary" href="#Services">Services</a>-->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-muted" href="#Services" id="navbarDropdownMenuLink"
+                       role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Services
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <li><a class="dropdown-item" href="Services/#Automation">Automation</a></li>
+                        <li><a class="dropdown-item" href="Services/#eCommerce">eCommerce</a></li>
+                        <li><a class="dropdown-item" href="Services/#DataVisualization">Data</a></li>
+                    </ul>
+                </li>
+                <a class="nav-link text-secondary" href="#Project">Ways of Working</a>
                 <a class="nav-link text-secondary" href="#Contacts">Contact Us</a>
             </div>
         </div>
@@ -43,13 +56,14 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center centered">
-                <a href="#" class="glitch" data-glitch="INAVSTRACT">INAVSTRACT</a>
+                <a href="#" class="glitch" data-glitch="INAVSTRACT" style="font-size:4rem;">INAVSTRACT</a>
             </div>
         </div>
     </div>
 </header>
 <div id="grad-bottom"></div>
 <br><br>
+<div style="overflow-y: visible;height: 100px;"></div>
 <div class="container" id="AboutUs">
     <p class="fs-1 text-white text-center">About Us</p>
     <br>
@@ -61,26 +75,25 @@
         <div class="col-3 d-none d-md-block">
         </div>
         <div class="col mx-auto d-flex justify-content-center">
-            I'm passionate about robotics and automation in general.
-            <br>
-            It all began in 2016 when I started my journey in a big multinational company.
-            That's when I discovered that the average person spends half their day navigating multiple IT systems,
-            filling out paper forms, waiting for approvals from their managements, etc...
+            This story begins in 2016 when we went on a journey in a big multinational company.
+            That's when we discovered that the average person spends half their day navigating multiple IT systems:
+            filling out paper forms, waiting for their managers' approvals, etc...
             <br><br>
-            In time I got familiar with Kaizen methodologies and that's when it hit me... Sometimes companies don't need
+            By getting familiar with Kaizen methodologies we figured out that, sometimes, companies don't need
             automation, they just need simplification and standardization of their services.
             <br><br>
-            With over 5 years experience, both as a Business Analyst and Developer, I can combine the best of 2
-            worlds.<br>
-            I will find solutions for problems that you didn't even realize you have, and provide fully detailed reports
-            with the project savings.
+            With 10+ years of experience and a capable team of Business Analysts, Data Engineers and Developers,
+            we are customer driven and will help you understand your needs,
+            by finding solutions for problems that you didn't even know you have.
+            <br><br>
+            We're data driven and will provide fully detailed reports of capital savings.
         </div>
         <div class="col-3 d-none d-md-block">
         </div>
     </div>
 </div>
 <br><br>
-<hr>
+<div style="overflow-y: visible;height: 100px;"></div>
 <div class="container" id="Services">
     <div class="row gap-3">
         <p class="fs-1 text-white text-center">Services</p>
@@ -95,12 +108,16 @@
                 </div>
                 <div class="face face2">
                     <div class="content">
-                        <p>- RPA Development;<br>
-                            - RPA Consulting;<br>
+                        <p>
+                            - Consulting;<br>
+                            - AI / ML;<br>
+                            - RPA / Scripts;<br>
                             - Back Office;<br>
-                            - Process Improvement;</p>
+                        </p>
                         <br>
-                        <button type="button" class="btn btn-secondary">Know More</button>
+                        <button type="button" onclick="location.href='Services/#Automation'" class="btn btn-secondary">
+                            Know More
+                        </button>
                     </div>
                 </div>
             </div>
@@ -116,9 +133,14 @@
                 </div>
                 <div class="face face2">
                     <div class="content">
-                        <p>- ERP Integration;</p>
+                        <p>
+                            - ERP Integration;<br>
+                            - Webpages;<br>
+                        </p>
                         <br>
-                        <button type="button" class="btn btn-secondary">Know More</button>
+                        <button type="button" onclick="location.href='Services/#eCommerce'" class="btn btn-secondary">
+                            Know More
+                        </button>
                     </div>
                 </div>
             </div>
@@ -137,7 +159,9 @@
                         <p>- KPI Reporting;<br>
                             - Dashboards;</p>
                         <br>
-                        <button type="button" class="btn btn-secondary">Know More</button>
+                        <button type="button" onclick="location.href='Services/#DataVisualization'"
+                                class="btn btn-secondary">Know More
+                        </button>
                     </div>
                 </div>
             </div>
@@ -145,8 +169,70 @@
     </div>
 </div>
 <br><br>
-<hr>
-<div class="container">
+<div class="container" id="Project">
+    <p class="fs-1 text-white text-center">Ways of Working</p>
+    <br>
+    <div class="row gap-3 text-white">
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 25rem;border:0;text-align: center;">
+                <div class="card-body">
+                    <h2 class="card-title">Planning</h2>
+                    <br>
+                    <img src="../self_page/content/images/list.png" class="img-fluid" alt="Planning"
+                         style="width: 10rem;">
+                    <br><br>
+                    <p class="card-text text-start">
+                        <!--Our team of specialists will go above and beyond to understand your needs and advise on whether
+                        the solution will be good or not, proposing alternatives in necessary.
+                        <br>-->
+                        It all starts with a maturity assessment and a strategic road map that aligns with your business
+                        priorities.
+                        <br><br>
+                        You can count on our specialists to design the best solution, because automating a bad process
+                        will only magnify its inefficiency.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 25rem;border:0;text-align: center;">
+                <div class="card-body">
+                    <h2 class="card-title">Implementation</h2>
+                    <br>
+                    <img src="../self_page/content/images/productivity.png" class="img-fluid" alt="Implementation"
+                         style="width: 10rem;">
+                    <br><br>
+                    <p class="card-text text-start">
+                        The team has extensive deployment experience across a variety of business, IT and industrial
+                        settings.
+                        <br><br>
+                        Our priority is to build client's trust by respecting project milestones, engaging with your
+                        needs and providing training materials.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 25rem;border:0;text-align: center;">
+                <div class="card-body">
+                    <h2 class="card-title">Customer Care</h2>
+                    <br>
+                    <img src="../self_page/content/images/healthcare.png" class="img-fluid" alt="Care"
+                         style="width: 10rem;">
+                    <br><br>
+                    <p class="card-text text-start">
+                        The infrastructures need to exist even after the projects are "over".
+                        <br>
+                        Our team will keep the services running, patching bugs, resolving dependency issues, etc...
+                        <br><br>
+                        Sit back, relax and enjoy. We'll handle it.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--<div class="container">
     <h1 class="text-white text-center">Project Steps</h1>
     <br>
     <div class="row">
@@ -197,21 +283,21 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <br><br>
-<hr>
+<div style="overflow-y: visible;height: 100px;"></div>
 <div class="container" id="Contacts">
     <p class="fs-1 text-white text-center">Contact Us</p>
     <br>
-    <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
-        <img src="self_page/content/images/chatbot.png" class="img-fluid" alt="AboutUs" style="width: 15rem;">
+    <div class="row text-white d-flex justify-content-center text-left justify-content-center">
+        <img src="self_page/content/images/chatbot.png" class="img-fluid" alt="AboutUs" style="width: 10rem;">
         <p>
     </div>
     <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
         <div class="col-3 d-none d-md-block">
         </div>
         <div class="col justify-content-center">
-            <form action="self_page/scripts/email_send.php" method="POST">
+            <form action="" method="POST" id="ContactForm">
                 <div class="mb-3">
                     <label for="FormControlInputName" class="form-label text-white">Name</label>
                     <input type="text" name="Name" class="form-control" id="FormControlInputName"
@@ -227,8 +313,7 @@
                     <textarea class="form-control" name="Description" id="FormControlInputText"
                               placeholder="Please send a quotation for XXX and YYY. Thank you." rows="3"></textarea>
                 </div>
-                <!--<button type="button" name="submit" class="btn btn-submit">Submit</button>-->
-                <input type="submit" name="submit" class="btn btn-submit" value="Submit">
+                <button type="button" name="submit" class="btn btn-submit">Submit</button>
             </form>
         </div>
         <div class="col-3 d-none d-md-block">
@@ -236,5 +321,68 @@
     </div>
 </div>
 <br><br>
+<div class="container">
+    <footer class="py-3 my-4">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
+            <li class="nav-item"><a href="#AboutUs" class="nav-link px-2 text-muted">About</a></li>
+            <li class="nav-item"><a href="#Services" class="nav-link px-2 text-muted">Services</a></li>
+            <li class="nav-item"><a href="#Contacts" class="nav-link px-2 text-muted">Contact</a></li>
+        </ul>
+        <p class="text-center text-muted">&copy; Inavstract</p>
+    </footer>
+</div>
+<div class="modal" tabindex="-1" id="myModal">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Request Submitted</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
+                    <img src="self_page/content/images/email.png" class="img-fluid" alt="EmailSent"
+                         style="width: 15rem;">
+                </div>
+                <div class="row d-flex justify-content-center text-lef justify-content-center">
+                    <div class="col-3 d-none d-md-block">
+                    </div>
+                    <div class="col mx-auto d-flex justify-content-center">
+                        Thank you for contacting us.
+                        <br><br>
+                        A copy of your request has been sent to your inbox.
+                        <br>
+                        Please check your SPAM folder.
+                        <br><br>
+                        We will reach out to you as soon as possible.
+                    </div>
+                    <div class="col-3 d-none d-md-block">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $('#ContactForm > button').click(function(e) {
+        e.preventDefault();
+        $.ajax({
+            type: 'POST',
+            url: 'self_page/scripts/email_send.php',
+            data: {
+                Name: $('#FormControlInputName').val(),
+                Email: $('#FormControlInputEmail').val(),
+                Description: $('#FormControlInputText').val(),
+                submit: 'submit',
+            },
+            success: function (data) {
+                $('#myModal').modal('show');
+            }
+        });
+    });
+</script>
 </body>
 </html>
