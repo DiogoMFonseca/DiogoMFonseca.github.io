@@ -40,8 +40,8 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li><a class="dropdown-item" href="Services/#Automation">Automation</a></li>
-                        <li><a class="dropdown-item" href="Services/#eCommerce">eCommerce</a></li>
-                        <li><a class="dropdown-item" href="Services/#DataVisualization">Data</a></li>
+                        <li><a class="dropdown-item" href="Services/#WebService">Web Services</a></li>
+                        <li><a class="dropdown-item" href="Services/#DataVisualization">Data Visualization</a></li>
                     </ul>
                 </li>
                 <a class="nav-link text-secondary" href="#Project">Ways of Working</a>
@@ -55,7 +55,8 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center centered">
-                <a href="#" class="glitch" data-glitch="INAVSTRACT" style="font-size:4rem;">INAVSTRACT</a>
+                <a href="#" class="glitch d-none d-sm-block" data-glitch="INAVSTRACT" style="font-size:4rem;">INAVSTRACT</a>
+                <a href="#" class="glitch d-sm-none d-block" data-glitch="INAVSTRACT" style="font-size:3rem;">INAVSTRACT</a>
             </div>
         </div>
     </div>
@@ -66,11 +67,11 @@
 <div class="container" id="AboutUs">
     <p class="fs-1 text-white text-center">About Us</p>
     <br>
-    <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
+    <div class="row text-white d-flex justify-content-center text-left">
         <img src="self_page/content/images/team.png" class="img-fluid" alt="AboutUs"
              style="width: 26rem;">
     </div>
-    <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
+    <div class="row text-white d-flex justify-content-center text-left">
         <div class="col-3 d-none d-md-block">
         </div>
         <div class="col mx-auto d-flex justify-content-center">
@@ -127,19 +128,20 @@
             <div class="card border-0">
                 <div class="face face1">
                     <div class="content">
-                        <img src="self_page/content/images/online-shopping.png" class="img-fluid" style="width: 13rem;"
-                             alt="eCommerce">
-                        <h3>eCOMMERCE</h3>
+                        <img src="self_page/content/images/web.png" class="img-fluid" style="width: 13rem;"
+                             alt="WebServices">
+                        <h3>Web Services</h3>
                     </div>
                 </div>
                 <div class="face face2">
                     <div class="content">
                         <p>
                             - ERP Integration;<br>
-                            - Webpages;<br>
+                            - eCommerce;<br>
+                            - Portfolios;<br>
                         </p>
                         <br>
-                        <button type="button" onclick="location.href='Services/#eCommerce'" class="btn btn-secondary">
+                        <button type="button" onclick="location.href='Services/#WebService'" class="btn btn-secondary">
                             Know More
                         </button>
                     </div>
@@ -150,7 +152,7 @@
             <div class="card border-0">
                 <div class="face face1">
                     <div class="content">
-                        <img src="self_page/content/images/business-report.png" class="img-fluid" style="width: 13rem;"
+                        <img src="self_page/content/images/analytics.png" class="img-fluid" style="width: 13rem;"
                              alt="DataVisualization">
                         <h3>DATA VISUALIZATION</h3>
                     </div>
@@ -181,7 +183,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img src="../self_page/content/images/list.png" class="img-fluid" alt="Planning"
-                             style="width:300px;">
+                             style="max-width:300px;">
                         <br><br>
                         <h3 class="text-white">Planning</h3>
                     </div>
@@ -206,7 +208,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img src="../self_page/content/images/productivity.png" class="img-fluid" alt="Implementation"
-                             style="width:300px;">
+                             style="max-width:300px;">
                         <br><br>
                         <h3 class="text-white">Implementation</h3>
                     </div>
@@ -231,7 +233,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img src="../self_page/content/images/healthcare.png" class="img-fluid" alt="Care"
-                             style="width:300px;">
+                             style="max-width:300px;">
                         <br><br>
                         <h3 class="text-white">Customer Care</h3>
                     </div>
@@ -312,11 +314,11 @@
 <div class="container" id="Contacts">
     <p class="fs-1 text-white text-center">Contact Us</p>
     <br>
-    <div class="row text-white d-flex justify-content-center text-left justify-content-center">
+    <div class="row text-white d-flex justify-content-center text-left">
         <img src="self_page/content/images/chatbot.png" class="img-fluid" alt="AboutUs" style="width: 10rem;">
         <p>
     </div>
-    <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
+    <div class="row text-white d-flex justify-content-center text-left">
         <div class="col-3 d-none d-md-block">
         </div>
         <div class="col justify-content-center">
@@ -336,7 +338,9 @@
                     <textarea class="form-control" name="Description" id="FormControlInputText"
                               placeholder="Please send a quotation for XXX and YYY. Thank you." rows="3"></textarea>
                 </div>
-                <button type="button" name="submit" class="btn btn-submit">Submit</button>
+                <div class="d-flex justify-content-center">
+                    <button type="button" name="submit" class="btn btn-warning btn-lg">Submit</button>
+                </div>
             </form>
         </div>
         <div class="col-3 d-none d-md-block">
@@ -403,7 +407,6 @@
             }
         });
     });
-
 </script>
 </body>
 </html>
