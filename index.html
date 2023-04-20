@@ -35,7 +35,7 @@
             </ul>
             <form class="d-flex disabled">
                 <a class="nav-link" href="#" tabindex="-1">
-                    <span>Made with Love</span>
+                    <span>Made with Love &hearts;</span>
                 </a>
             </form>
         </div>
@@ -80,30 +80,24 @@
     //
     // VIEW ONLY
     //
-fetch('https://people.mindera.com/api/timeoff/user/1772', { mode: 'no-cors' })
-  .then(response => response.json())
-  .then(input => {
-    const output = input.map(item => {
-      const title = item.type === 'FULL_DAY' ? 'All day' : 'First half';
-      const id = item.id;
-      const start = item.start_date;
-      const end = item.end_date;
-      const color = '#378006';
-      const textColor = 'black';
+    const params = new URLSearchParams(window.location.search);
+    const listParam = params.get('list');
 
-      return {
-        title,
-        id,
-        start,
-        end,
-        color,
-        textColor
-      };
-    });
+    // Parse the parameter into an array
+    const list = JSON.parse(decodeURIComponent(listParam));
 
-    console.log(output);
-  })
-  .catch(error => console.error(error));
+    // Map the array to the desired structure
+    const events = list.map(item => ({
+        title: item.type,
+        id: item.id,
+        start: item.start_date,
+        end: item.end_date,
+        color: '#378006',
+        textColor: 'black'
+    }));
+
+    // Log the resulting array
+    console.log(events);
 
 
   document.addEventListener('DOMContentLoaded', function() {
