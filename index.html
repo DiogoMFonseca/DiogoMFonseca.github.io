@@ -16,7 +16,7 @@
 
 </head>
 <body>
-<nav class="navbar navbar-expand-lg {% navbar_text_color user %} navbar-custom">
+<nav class="navbar navbar-expand-lg navbar-light navbar-custom">
     <div class="container-fluid">
         <!--<img src="{% static '/images/logos/logo_text1.png' %}" alt="FisioPlus" width="150">-->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
@@ -41,7 +41,24 @@
     </div>
 </nav>
 <main>
-
+    <section class="h-100">
+        <div class="container">
+            <p></p>
+            <div class="row my-5"></div>
+    
+            <div class="row my-5 justify-content-sm-center h-100">
+                <div class="col-xxl-4 col-xl-5 col-lg-5 col-md-7 col-sm-9">
+                    <h1 class="text-center">Calendar</h1>
+                </div>
+            </div>
+    
+            <div id='calendar'></div>
+    
+            <p></p>
+            <div class="row"></div>
+            <p></p>
+        </div>
+    </section>
 </main>
 </body>
 </html>
@@ -50,3 +67,63 @@
 <style>
 
 </style>
+<script src='/static/fullcalendar/dist/index.global.js'></script>
+<script>
+    //
+    // VIEW ONLY
+    //
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+
+
+    var today = new Date();
+    var dd = String(today.getDate()).padStart(2, '0');
+    var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+    var yyyy = today.getFullYear();
+    today = yyyy + '-' + mm + '-'  + dd;
+
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      initialDate: today,
+      //initialView: 'timeGridWeek',
+      nowIndicator: true,
+      headerToolbar: {
+        left: 'prev,next today',
+        center: 'title',
+        right: 'dayGridMonth,timeGridWeek,timeGridDay,listWeek'
+      },
+      navLinks: true, // can click day/week names to navigate views
+      weekNumberCalculation: 'ISO',
+
+    			locale: 'en', // 'pt'
+    			slotDuration: '01:00:00',
+
+    			//businessHours: true, // display business hours
+    			businessHours: [ // specify an array instead
+                    {
+                        daysOfWeek: [ 1, 2, 3, 4, 5 ], // Monday, Tuesday, Wednesday, Thursday, Friday
+                        startTime: '08:30', // 8:30
+                        endTime: '20:30' // 20:30
+                    },
+                    {
+                        daysOfWeek: [ 6, 0 ], // Saturday, Sunday
+                        startTime: '08:30', // 8:30
+                        endTime: '20:30' // 20:30
+                    }
+                ],
+      editable: false,
+      selectable: true,
+      selectMirror: true,
+      dayMaxEvents: true, // allow "more" link when too many events
+      events: '#',
+    //   eventClick: function(info) {
+    //     console.log(info.event);
+    //     if (info.event.url) {
+    //         window.open(info.event.url, "_blank");
+    //         return false;
+    //     }
+    //   }
+    });
+    calendar.refetchEvents();
+    calendar.render();
+  });
+</script>
