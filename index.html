@@ -53,13 +53,14 @@
                 </div>
             </div>
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12">
                     <div class="d-flex justify-content-center align-items-center">
-                        <div id='calendar' style="max-width: 1200px;"></div>
+                        
                     </div>
                 </div>
-            </div>
+            </div> -->
+            <div id='calendar' style="max-width: 1000px;"></div>
     
             <p></p>
             <div class="row"></div>
@@ -79,7 +80,7 @@
     //
     // VIEW ONLY
     //
-fetch('https://people.mindera.com/api/timeoff/user/1772')
+fetch('https://people.mindera.com/api/timeoff/user/1772', { mode: 'no-cors' })
   .then(response => response.json())
   .then(input => {
     const output = input.map(item => {
