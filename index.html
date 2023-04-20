@@ -54,9 +54,9 @@
             </div>
 
             <div class="row">
-                <div class="col">
+                <div class="col-12">
                     <div class="d-flex justify-content-center align-items-center">
-                        <div id='calendar' style="max-width: 800px;"></div>
+                        <div id='calendar' style="max-width: 1200px;"></div>
                     </div>
                 </div>
             </div>
@@ -79,6 +79,32 @@
     //
     // VIEW ONLY
     //
+fetch('https://people.mindera.com/api/timeoff/user/1772')
+  .then(response => response.json())
+  .then(input => {
+    const output = input.map(item => {
+      const title = item.type === 'FULL_DAY' ? 'All day' : 'First half';
+      const id = item.id;
+      const start = item.start_date;
+      const end = item.end_date;
+      const color = '#378006';
+      const textColor = 'black';
+
+      return {
+        title,
+        id,
+        start,
+        end,
+        color,
+        textColor
+      };
+    });
+
+    console.log(output);
+  })
+  .catch(error => console.error(error));
+
+
   document.addEventListener('DOMContentLoaded', function() {
     var calendarEl = document.getElementById('calendar');
 
