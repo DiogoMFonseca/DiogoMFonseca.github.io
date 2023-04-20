@@ -1,425 +1,51 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="self_page/content/images/tabicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar</title>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="self_page/content/css/custom.css">
+    <link rel="stylesheet" href="static/css/dataTables.bootstrap5.min.css">
 
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
-            integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
-            crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
-            integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
-            crossorigin="anonymous"></script>
-    <script src="https://kit.fontawesome.com/95a02bd20d.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="static/js/jquery-3.6.3.js"></script>
+    <script type="text/javascript" src="static/js/moment.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
 
-    <title>Inavstract</title>
+    <link rel="icon" href="static/images/crutches.png" />
+
 </head>
-
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-lg {% navbar_text_color user %} navbar-custom">
     <div class="container-fluid">
-        <a class="navbar-brand text-white" href="#">Intelligent Automation</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <!--<img src="{% static '/images/logos/logo_text1.png' %}" alt="FisioPlus" width="150">-->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
+                aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-                <a class="nav-link text-secondary" href="#AboutUs">About Us</a>
-                <!--<a class="nav-link text-secondary" href="#Services">Services</a>-->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-muted" href="#Services" id="navbarDropdownMenuLink"
-                       role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Services
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="Services/#Automation">Automation</a></li>
-                        <li><a class="dropdown-item" href="Services/#WebService">Web Services</a></li>
-                        <li><a class="dropdown-item" href="Services/#DataVisualization">Data Visualization</a></li>
-                    </ul>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link text-muted" aria-current="page" href="">&mdash;&mdash;</a>
                 </li>
-                <a class="nav-link text-secondary" href="#Project">Ways of Working</a>
-                <a class="nav-link text-secondary" href="#Contacts">Contact Us</a>
-            </div>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+            </ul>
+            <form class="d-flex disabled">
+                <a class="nav-link" href="#" tabindex="-1">
+                    <span>Cenas</span>
+                </a>
+            </form>
         </div>
     </div>
 </nav>
-
-<header class="masthead">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center centered">
-                <a href="#" class="glitch d-none d-sm-block" data-glitch="INAVSTRACT"
-                   style="font-size:4rem;">INAVSTRACT</a>
-                <a href="#" class="glitch d-sm-none d-block" data-glitch="INAVSTRACT"
-                   style="font-size:3rem;">INAVSTRACT</a>
-            </div>
-        </div>
-    </div>
-</header>
-<div id="grad-bottom"></div>
-<br><br>
-<div style="overflow-y: visible;height: 100px;"></div>
-<div id="image-background-about-us">
-    <div class="container" id="AboutUs">
-        <br><br>
-        <p class="fs-1 text-white text-center">About Us</p>
-        <br>
-        <div class="row text-white d-flex justify-content-center text-left">
-            <img src="self_page/content/images/team.png" class="img-fluid" alt="AboutUs"
-                 style="width: 26rem;">
-        </div>
-        <div class="row text-white d-flex justify-content-center text-left">
-            <div class="col-3 d-none d-md-block">
-            </div>
-            <div class="col mx-auto d-flex justify-content-center">
-                This story begins in 2016 when we went on a journey in a big multinational company.
-                That's when we discovered that the average person spends half their day navigating multiple IT systems:
-                filling out paper forms, waiting for their managers' approvals, etc...
-                <br><br>
-                By getting familiar with Kaizen methodologies we figured out that, sometimes, companies don't need
-                automation, they just need simplification and standardization of their services.
-                <br><br>
-                With 10+ years of experience and a capable team of Business Analysts, Data Engineers and Developers,
-                we are customer driven and will help you understand your needs,
-                by finding solutions for problems that you didn't even know you have.
-                <br><br>
-                We're data driven and will provide fully detailed reports of capital savings.
-            </div>
-            <div class="col-3 d-none d-md-block">
-            </div>
-        </div>
-    </div>
-</div>
-<br><br>
-<!--<div class="masthead1"></div>-->
-<div style="overflow-y: visible;height: 100px;"></div>
-<div class="container" id="Services">
-    <div class="row gap-3">
-        <p class="fs-1 text-white text-center">Services</p>
-        <div class="col d-flex justify-content-center">
-            <div class="card border-0">
-                <div class="face face1">
-                    <div class="content">
-                        <img src="self_page/content/images/automation.png" class="img-fluid" style="width: 13rem;"
-                             alt="Automation">
-                        <h3>AUTOMATION</h3>
-                    </div>
-                </div>
-                <div class="face face2">
-                    <div class="content">
-                        <p>
-                            - Consulting;<br>
-                            - AI / ML;<br>
-                            - RPA / Scripts;<br>
-                            - Back Office;<br>
-                        </p>
-                        <br>
-                        <button type="button" onclick="location.href='Services/#Automation'" class="btn btn-secondary">
-                            Know More
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col d-flex justify-content-center">
-            <div class="card border-0">
-                <div class="face face1">
-                    <div class="content">
-                        <img src="self_page/content/images/web.png" class="img-fluid" style="width: 13rem;"
-                             alt="WebServices">
-                        <h3>Web Services</h3>
-                    </div>
-                </div>
-                <div class="face face2">
-                    <div class="content">
-                        <p>
-                            - ERP Integration;<br>
-                            - eCommerce;<br>
-                            - Portfolios;<br>
-                        </p>
-                        <br>
-                        <button type="button" onclick="location.href='Services/#WebService'" class="btn btn-secondary">
-                            Know More
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col d-flex justify-content-center">
-            <div class="card border-0">
-                <div class="face face1">
-                    <div class="content">
-                        <img src="self_page/content/images/analytics.png" class="img-fluid" style="width: 13rem;"
-                             alt="DataVisualization">
-                        <h3>DATA VISUALIZATION</h3>
-                    </div>
-                </div>
-                <div class="face face2">
-                    <div class="content">
-                        <p>- KPI Reporting;<br>
-                            - Dashboards;</p>
-                        <br>
-                        <button type="button" onclick="location.href='Services/#DataVisualization'"
-                                class="btn btn-secondary">Know More
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--<div class="masthead2"></div>-->
-<br><br>
-<div id="image-background-project">
-    <div class="container" id="Project">
-        <br><br>
-        <p class="fs-1 text-white text-center">Ways of Working</p>
-        <br><br>
-        <div class="row gap-3 text-white">
-            <div class="col d-flex justify-content-center">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front">
-                            <img src="../self_page/content/images/list.png" class="img-fluid" alt="Planning"
-                                 style="max-width:300px;">
-                            <br><br>
-                            <h3 class="text-white">Planning</h3>
-                        </div>
-                        <div class="flip-card-back">
-                            <br>
-                            <h1>Planning</h1>
-                            <br>
-                            <p class="card-text text-middle">
-                                <br>
-                                It all starts with a maturity assessment and a strategic road map that aligns with your
-                                business
-                                priorities.
-                                <br><br>
-                                You can count on our specialists to design the best solution, because automating a bad
-                                process
-                                will only magnify its inefficiency.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col d-flex justify-content-center">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front">
-                            <img src="../self_page/content/images/execution.png" class="img-fluid" alt="Implementation"
-                                 style="max-width:300px;">
-                            <br><br>
-                            <h3 class="text-white">Implementation</h3>
-                        </div>
-                        <div class="flip-card-back">
-                            <br>
-                            <h1>Implementation</h1>
-                            <br>
-                            <p class="card-text text-middle">
-                                <br>
-                                The team has extensive deployment experience across a variety of business, IT and
-                                industrial
-                                settings.
-                                <br><br>
-                                Our priority is to build client's trust by respecting project milestones, engaging with
-                                your
-                                needs and providing training materials.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col d-flex justify-content-center">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front">
-                            <img src="../self_page/content/images/healthcare.png" class="img-fluid" alt="Care"
-                                 style="max-width:300px;">
-                            <br><br>
-                            <h3 class="text-white">Customer Care</h3>
-                        </div>
-                        <div class="flip-card-back">
-                            <br>
-                            <h1>Customer Care</h1>
-                            <br>
-                            <p class="card-text text-middle">
-                                <br>
-                                The infrastructures need to exist even after the projects are "over".
-                                <br>
-                                Our team will keep the services running, patching bugs, resolving dependency issues,
-                                etc...
-                                <br><br>
-                                Sit back, relax and enjoy. We'll handle it.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--<div class="container">
-    <h1 class="text-white text-center">Project Steps</h1>
-    <br>
-    <div class="row">
-        <div class="col-12">
-            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0"
-                            class="active"
-                            aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
-                            aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
-                            aria-label="Slide 3"></button>
-                </div>
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="self_page/content/images/rpa/rpa7.jpeg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h1 class="outlined">Planning</h1>
-                            <h3 class="outlined">Automating a bad process will magnify its inefficiency.</h3>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="self_page/content/images/rpa/rpa6.jpeg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h1 class="outlined">Execution</h1>
-                            <h3 class="outlined">Buckle up, enjoy the technological ride.</h3>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="self_page/content/images/rpa/rpa8.jpeg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h1 class="outlined">Monitoring</h1>
-                            <h3 class="outlined">Relax, your business is in great hands.</h3>
-                        </div>
-                    </div>
-                </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
-                        data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
-                        data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
-            </div>
-        </div>
-    </div>
-</div>-->
-<br><br>
-<!--<div class="masthead3"></div>-->
-<div id="image-background-contacts">
-    <div style="overflow-y: visible;height: 100px;"></div>
-    <div class="container" id="Contacts">
-        <p class="fs-1 text-white text-center">Contact Us</p>
-        <br>
-        <div class="row text-white d-flex justify-content-center text-left">
-            <img src="self_page/content/images/chatbot.png" class="img-fluid" alt="AboutUs" style="width: 10rem;">
-            <p>
-        </div>
-        <div class="row text-white d-flex justify-content-center text-left">
-            <div class="col-3 d-none d-md-block">
-            </div>
-            <div class="col justify-content-center">
-                <form action="" method="POST" id="ContactForm">
-                    <div class="mb-3">
-                        <label for="FormControlInputName" class="form-label text-white">Name</label>
-                        <input type="text" name="Name" class="form-control" id="FormControlInputName"
-                               placeholder="John Doe">
-                    </div>
-                    <div class="mb-3">
-                        <label for="FormControlInputEmail" class="form-label text-white">Email</label>
-                        <input type="email" name="Email" class="form-control" id="FormControlInputEmail"
-                               placeholder="name@example.com">
-                    </div>
-                    <div class="mb-3">
-                        <label for="FormControlInputText" class="form-label text-white">Description</label>
-                        <textarea class="form-control" name="Description" id="FormControlInputText"
-                                  placeholder="Please send a quotation for XXX and YYY. Thank you." rows="3"></textarea>
-                    </div>
-                    <div class="d-flex justify-content-center">
-                        <button type="button" name="submit" class="btn btn-warning btn-lg">Submit</button>
-                    </div>
-                </form>
-            </div>
-            <div class="col-3 d-none d-md-block">
-            </div>
-        </div>
-    </div>
-</div>
-<br><br>
-<div class="container">
-    <footer class="py-3 my-4">
-        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-            <li class="nav-item"><a href="mailto:geral@inavstract.com" class="nav-link px-2 text-muted">geral@inavstract.com</a>
-            </li>
-        </ul>
-        <p class="text-center text-muted">&copy; 2022 Inavstract</p>
-    </footer>
-</div>
-<div class="modal" tabindex="-1" id="myModal">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Request Submitted</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div class="row text-white d-flex justify-content-center text-lef justify-content-center">
-                    <img src="self_page/content/images/email.png" class="img-fluid" alt="EmailSent"
-                         style="width: 15rem;">
-                </div>
-                <div class="row d-flex justify-content-center text-lef justify-content-center">
-                    <div class="col-3 d-none d-md-block">
-                    </div>
-                    <div class="col mx-auto d-flex justify-content-center">
-                        Thank you for contacting us.
-                        <br><br>
-                        A copy of your request has been sent to your inbox.
-                        <br>
-                        Please check your SPAM folder.
-                        <br><br>
-                        We will reach out to you as soon as possible.
-                    </div>
-                    <div class="col-3 d-none d-md-block">
-                    </div>
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
-<script>
-    $('#ContactForm > button').click(function(e) {
-        e.preventDefault();
-        $.ajax({
-            type: 'POST',
-            url: 'self_page/scripts/email_send.php',
-            data: {
-                Name: $('#FormControlInputName').val(),
-                Email: $('#FormControlInputEmail').val(),
-                Description: $('#FormControlInputText').val(),
-                submit: 'submit',
-            },
-            success: function (data) {
-                $('#myModal').modal('show');
-            }
-        });
-    });
-</script>
+<main>
+    
+</main>
 </body>
 </html>
+
+<style>
+
+</style>
