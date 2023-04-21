@@ -87,20 +87,24 @@
     //
     // VIEW ONLY
     //
-    const form = document.querySelector('form');
-    const input = form.querySelector('input[name="list"]');
-    const data = JSON.parse(input.value);
 
-    const parsedData = data.map(item => ({
-        title: 'All day',
-        id: item.id,
-        start: item.start_date,
-        end: item.end_date,
-        color: '#378006',
-        textColor: 'black'
-    }));
+    const nameInput = document.getElementById('list');
 
-  console.log(parsedData);
+    nameInput.addEventListener('input', (event) => {
+        const input = event.target.value;
+        const data = JSON.parse(input.value);
+
+        const parsedData = data.map(item => ({
+            title: 'All day',
+            id: item.id,
+            start: item.start_date,
+            end: item.end_date,
+            color: '#378006',
+            textColor: 'black'
+        }));
+        
+        console.log(parsedData);
+    });
 
 
   document.addEventListener('DOMContentLoaded', function() {
