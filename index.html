@@ -96,14 +96,24 @@
         const data = JSON.parse(inputValue);
 
         const parsedData = data.map(item => {
+            let title = "";
             let start = item.start_date;
             let end = item.end_date;
             if (item.type === "FIRST_PART_OF_DAY") {
                 start += "T13:00";
                 end += "T17:00";
+                title = 'Morning';
+            }
+            else if (item.type === "SECOND_PART_OF_DAY") {
+                start += "T08:00";
+                end += "T12:00";
+                title = "Afternoon";
+            }
+            else {
+                title = 'All day';
             }
             return {
-                title: 'All day',
+                title: title,
                 id: item.id,
                 start,
                 end,
