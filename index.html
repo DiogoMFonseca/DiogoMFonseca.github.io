@@ -95,16 +95,24 @@
         inputValue = document.getElementById("myInput").value;
         const data = JSON.parse(inputValue);
 
-        const parsedData = data.map(item => ({
-            title: 'All day',
-            id: item.id,
-            start: item.start_date,
-            end: item.end_date,
-            color: '#1563F5',
-            textColor: 'white'
-        }));
+        const parsedData = data.map(item => {
+            let start = item.start_date;
+            let end = item.end_date;
+            if (item.type === "FIRST_PART_OF_DAY") {
+                start += "T13:00";
+                end += "T17:00";
+            }
+            return {
+                title: 'All day',
+                id: item.id,
+                start,
+                end,
+                color: '#1563F5',
+                textColor: 'white'
+            };
+        });
 
-        
+
         var calendarEl = document.getElementById('calendar');
 
         var today = new Date();
@@ -140,7 +148,7 @@
         selectable: true,
         selectMirror: true,
         dayMaxEvents: true, 
-        events: '#',
+        events: parsedData,
         });
         calendar.refetchEvents();
         calendar.render();
