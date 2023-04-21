@@ -53,13 +53,19 @@
                 </div>
             </div>
 
-            <!-- <div class="row">
+            div class="row">
                 <div class="col-12">
                     <div class="d-flex justify-content-center align-items-center">
-                        
+                        <form id="myForm" method="POST">
+                            <div class="mb-3">
+                                <label for="exampleInputEmail1" class="form-label">Events</label>
+                                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="list" placeholder="Enter event list">>
+                            </div>
+                            <input type="submit" value="Submit">
+                        </form>
                     </div>
                 </div>
-            </div> -->
+            </div>
             <div id='calendar' style="max-width: 1000px;"></div>
     
             <p></p>
@@ -80,15 +86,12 @@
     //
     // VIEW ONLY
     //
-    const params = new URLSearchParams(window.location.search);
-    const listParam = params.get('list');
+    const form = document.querySelector('form');
+    const input = form.querySelector('input[name="list"]');
+    const data = JSON.parse(input.value);
 
-    // Parse the parameter into an array
-    const list = JSON.parse(decodeURIComponent(listParam));
-
-    // Map the array to the desired structure
-    const events = list.map(item => ({
-        title: item.type,
+    const parsedData = data.map(item => ({
+        title: 'All day',
         id: item.id,
         start: item.start_date,
         end: item.end_date,
@@ -96,8 +99,7 @@
         textColor: 'black'
     }));
 
-    // Log the resulting array
-    console.log(events);
+  console.log(parsedData);
 
 
   document.addEventListener('DOMContentLoaded', function() {
