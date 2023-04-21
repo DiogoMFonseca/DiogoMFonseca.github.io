@@ -67,11 +67,12 @@
                 </div>
             </div>
 
+            <div id='calendar'></div>
+
             <p></p>
             <div class="row"></div>
             <p></p>
         </div>
-        <div id='calendar' style="max-width: 1000px;"></div>
     </section>
 </main>
 </body>
@@ -84,7 +85,7 @@
 <script src='/static/fullcalendar/dist/index.global.js'></script>
 <script>
     //
-    // VIEW ONLY
+    // VIEW ONLY https://people.mindera.com/api/timeoff/user/{}?status=APPROVED
     //
     let inputValue = "";
 
@@ -92,8 +93,6 @@
         event.preventDefault(); // Prevent the form from submitting
 
         inputValue = document.getElementById("myInput").value;
-        console.log(inputValue);
-
         const data = JSON.parse(inputValue);
 
         const parsedData = data.map(item => ({
@@ -105,70 +104,13 @@
             textColor: 'black'
         }));
 
-        console.log(parsedData);
-
-
-
         var calendarEl = document.getElementById('calendar');
-
-
-        var today = new Date();
-        var dd = String(today.getDate()).padStart(2, '0');
-        var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
-        var yyyy = today.getFullYear();
-        today = yyyy + '-' + mm + '-'  + dd;
-
         var calendar = new FullCalendar.Calendar(calendarEl, {
-        initialDate: today,
-        //initialView: 'timeGridWeek',
-        nowIndicator: true,
-        headerToolbar: {
-            left: 'prev,next today',
-            center: 'title',
-            right: 'dayGridMonth,timeGridWeek,timeGridDay,listWeek'
-        },
-        navLinks: true, // can click day/week names to navigate views
-        weekNumberCalculation: 'ISO',
-
-                    locale: 'en', // 'pt'
-                    slotDuration: '01:00:00',
-
-                    //businessHours: true, // display business hours
-                    businessHours: [ // specify an array instead
-                        {
-                            daysOfWeek: [ 1, 2, 3, 4, 5 ], // Monday, Tuesday, Wednesday, Thursday, Friday
-                            startTime: '08:00', // 8:30
-                            endTime: '20:00' // 20:30
-                        },
-                    ],
-        editable: false,
-        selectable: true,
-        selectMirror: true,
-        dayMaxEvents: true, 
-        events: parsedData,
+            events: parsedData,
         });
         calendar.refetchEvents();
         calendar.render();
     }
-
-
-    // const nameInput = document.getElementById('list');
-
-    // nameInput.addEventListener('input', (event) => {
-    //     const input = event.target.value;
-    //     const data = JSON.parse(input.value);
-
-    //     const parsedData = data.map(item => ({
-    //         title: 'All day',
-    //         id: item.id,
-    //         start: item.start_date,
-    //         end: item.end_date,
-    //         color: '#378006',
-    //         textColor: 'black'
-    //     }));
-        
-    //     console.log(parsedData);
-    // });
 
 
   document.addEventListener('DOMContentLoaded', function() {
