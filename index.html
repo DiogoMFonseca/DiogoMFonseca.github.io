@@ -104,9 +104,43 @@
             textColor: 'white'
         }));
 
+        
         var calendarEl = document.getElementById('calendar');
+
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, '0');
+        var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+        var yyyy = today.getFullYear();
+        today = yyyy + '-' + mm + '-'  + dd;
+
         var calendar = new FullCalendar.Calendar(calendarEl, {
-            events: parsedData,
+        initialDate: today,
+        //initialView: 'timeGridWeek',
+        nowIndicator: true,
+        headerToolbar: {
+            left: 'prev,next today',
+            center: 'title',
+            right: 'dayGridMonth,timeGridWeek,timeGridDay,listWeek'
+        },
+        navLinks: true, // can click day/week names to navigate views
+        weekNumberCalculation: 'ISO',
+
+                    locale: 'en', // 'pt'
+                    slotDuration: '01:00:00',
+
+                    //businessHours: true, // display business hours
+                    businessHours: [ // specify an array instead
+                        {
+                            daysOfWeek: [ 1, 2, 3, 4, 5 ], // Monday, Tuesday, Wednesday, Thursday, Friday
+                            startTime: '08:00', // 8:30
+                            endTime: '20:00' // 20:30
+                        },
+                    ],
+        editable: false,
+        selectable: true,
+        selectMirror: true,
+        dayMaxEvents: true, 
+        events: '#',
         });
         calendar.refetchEvents();
         calendar.render();
