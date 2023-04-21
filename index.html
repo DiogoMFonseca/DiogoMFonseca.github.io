@@ -54,12 +54,12 @@
             </div>
 
             <div class="row">
-                <div class="col-12">
+                <div class="col mx-auto">
                     <div class="d-flex justify-content-center align-items-center">
                         <form id="myForm">
                             <div class="mb-3">
                                 <label for="exampleInputEmail1" class="form-label">Events</label>
-                                <input type="text" oninput="updateValue()" class="form-control" id="myInput" name="list" placeholder="Enter event list"/>
+                                <input type="text" class="form-control" id="myInput" name="list" placeholder="Enter event list"/>
                             </div>
                             <input type="submit" value="Submit">
                         </form>
@@ -67,8 +67,14 @@
                 </div>
             </div>
             
-            <div id='calendar' style="max-width: 1000px;"></div>
-    
+            <div class="row">
+                <div class="col mx-auto">
+                    <div class="d-flex justify-content-center align-items-center"></div>
+                        <div id='calendar' style="max-width: 1000px;"></div>
+                    </div>
+                </div>
+            </div>
+
             <p></p>
             <div class="row"></div>
             <p></p>
@@ -87,13 +93,15 @@
     //
     // VIEW ONLY
     //
-
     let inputValue = "";
 
-    function updateValue() {
+    form.addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent the form from submitting
+
         inputValue = document.getElementById("myInput").value;
         console.log(inputValue);
-    }
+    });
+
 
     // const nameInput = document.getElementById('list');
 
