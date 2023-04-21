@@ -56,10 +56,10 @@
             <div class="row">
                 <div class="col-12">
                     <div class="d-flex justify-content-center align-items-center">
-                        <form id="myForm" method="POST">
+                        <form id="myForm">
                             <div class="mb-3">
                                 <label for="exampleInputEmail1" class="form-label">Events</label>
-                                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="list" placeholder="Enter event list"/>
+                                <input type="text" oninput="updateValue()" class="form-control" id="myInput" name="list" placeholder="Enter event list"/>
                             </div>
                             <input type="submit" value="Submit">
                         </form>
@@ -88,23 +88,30 @@
     // VIEW ONLY
     //
 
-    const nameInput = document.getElementById('list');
+    let inputValue = "";
 
-    nameInput.addEventListener('input', (event) => {
-        const input = event.target.value;
-        const data = JSON.parse(input.value);
+    function updateValue() {
+        inputValue = document.getElementById("myInput").value;
+        console.log(inputValue);
+    }
 
-        const parsedData = data.map(item => ({
-            title: 'All day',
-            id: item.id,
-            start: item.start_date,
-            end: item.end_date,
-            color: '#378006',
-            textColor: 'black'
-        }));
+    // const nameInput = document.getElementById('list');
+
+    // nameInput.addEventListener('input', (event) => {
+    //     const input = event.target.value;
+    //     const data = JSON.parse(input.value);
+
+    //     const parsedData = data.map(item => ({
+    //         title: 'All day',
+    //         id: item.id,
+    //         start: item.start_date,
+    //         end: item.end_date,
+    //         color: '#378006',
+    //         textColor: 'black'
+    //     }));
         
-        console.log(parsedData);
-    });
+    //     console.log(parsedData);
+    // });
 
 
   document.addEventListener('DOMContentLoaded', function() {
