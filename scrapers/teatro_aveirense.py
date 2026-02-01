@@ -73,28 +73,20 @@ def _parse_event_item(item) -> Optional[Dict]:
     Parses a specific .programa_item div based on the provided HTML structure.
     """
     # 1. TÍTULO E SUBTÍTULO
-    # Estrutura: <h2>Titulo<span>Subtitulo</span></h2>
     h2 = item.find('h2')
     if not h2:
         return None
 
-    # Extrair subtítulo (span) para não ficar colado ao título
     subtitle_tag = h2.find('span')
     subtitle = ""
     if subtitle_tag:
         subtitle = subtitle_tag.get_text(strip=True)
-        # Remover o span temporariamente para apanhar só o texto principal do h2
         subtitle_tag.extract()
 
     title_text = h2.get_text(strip=True)
-
-    # Recriar título completo
-    full_title = title_text
-    if subtitle:
-        full_title = f"{title_text} - {subtitle}"
+    full_title = f"{title_text} - {subtitle}" if subtitle else title_text
 
     # 2. DATA
-    # Estrutura: <div class="data">02 fevereiro</div>
     date_div = item.find('div', class_='data')
     start_date = None
     end_date = None
@@ -104,7 +96,6 @@ def _parse_event_item(item) -> Optional[Dict]:
         start_date, end_date = _parse_portuguese_date_string(date_text)
 
     # 3. LINK
-    # Estrutura: <a href="/pt/evento/...">
     link_tag = item.find('a', href=True)
     url = BASE_URL
     if link_tag:
@@ -112,7 +103,6 @@ def _parse_event_item(item) -> Optional[Dict]:
         url = BASE_URL + href if href.startswith('/') else href
 
     # 4. IMAGEM
-    # Estrutura: <img src="/imagens/eventos/...">
     img_tag = item.find('img', src=True)
     image_url = None
     if img_tag:
@@ -120,19 +110,17 @@ def _parse_event_item(item) -> Optional[Dict]:
         image_url = BASE_URL + src if src.startswith('/') else src
 
     # 5. CATEGORIA (Tags)
-    # Estrutura: <div class="categoria">...<span>Teatro</span></div>
     tags = [SOURCE_NAME]
     cat_div = item.find('div', class_='categoria')
     if cat_div:
-        # Pega todos os spans, ignorando o "sr-only" se possível, ou pega o último texto
         spans = cat_div.find_all('span')
         for span in spans:
             txt = span.get_text(strip=True)
-            if txt and "Categoria" not in txt: # Ignora o label acessível
+            if txt and "Categoria" not in txt:
                 tags.append(txt)
 
     # 6. LOCALIZAÇÃO
-    location = "Teatro Aveirense" # Default, pois não está explícito no card
+    location = "Teatro Aveirense"
 
     return {
         'title': full_title,
@@ -142,17 +130,14 @@ def _parse_event_item(item) -> Optional[Dict]:
         'url': url,
         'image_url': image_url,
         'source': SOURCE_NAME,
-        'tags': tags
+        'tags': tags,
+        'all_day': True  # <--- NOVA FLAG IMPORTANTE
     }
 
 
 def _parse_portuguese_date_string(date_text: str) -> Tuple[Optional[str], Optional[str]]:
     """
-    Parses complex Portuguese date strings into ISO formats.
-    Examples:
-    - "02 fevereiro"
-    - "13-14 março"
-    - "26 abril - 03 maio"
+    Parses complex Portuguese date strings into YYYY-MM-DD formats (No time).
     """
     if not date_text:
         return None, None
@@ -160,23 +145,22 @@ def _parse_portuguese_date_string(date_text: str) -> Tuple[Optional[str], Option
     date_text = date_text.lower().replace('.', ' ').strip()
     current_year = datetime.now().year
 
-    # Helper para converter "02 fevereiro" em datetime
+    # Helper para converter "02 fevereiro" em string YYYY-MM-DD
     def make_date(day, month_name, year):
         month = MONTHS.get(month_name)
         if not month:
             return None
-        return datetime(year, month, int(day)).isoformat()
+        # ALTERAÇÃO AQUI: strftime('%Y-%m-%d') remove as horas T00:00:00
+        return datetime(year, month, int(day)).strftime('%Y-%m-%d')
 
     try:
         # Caso 1: Intervalo meses diferentes "26 abril - 03 maio"
-        # Regex: numero texto - numero texto
         match_diff_months = re.match(r'(\d+)\s+([a-zç]+)\s*-\s*(\d+)\s+([a-zç]+)', date_text)
         if match_diff_months:
             d1, m1, d2, m2 = match_diff_months.groups()
             return make_date(d1, m1, current_year), make_date(d2, m2, current_year)
 
         # Caso 2: Intervalo mesmo mês "13-14 março"
-        # Regex: numero-numero texto
         match_same_month = re.match(r'(\d+)\s*-\s*(\d+)\s+([a-zç]+)', date_text)
         if match_same_month:
             d1, d2, m1 = match_same_month.groups()
@@ -187,7 +171,7 @@ def _parse_portuguese_date_string(date_text: str) -> Tuple[Optional[str], Option
         if match_single:
             d1, m1 = match_single.groups()
             iso_date = make_date(d1, m1, current_year)
-            return iso_date, None # End date is None for single events
+            return iso_date, None
 
     except Exception as e:
         logger.warning(f"Date parsing failed for '{date_text}': {e}")

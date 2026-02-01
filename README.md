@@ -75,15 +75,15 @@ python main.py
 ## 🎯 Fontes de Dados
 
 ### ✅ Implementadas
-- **Teatro Aveirense** - Endpoint AJAX direto
+- [x] **Teatro Aveirense** 
 
 ### 🔜 Próximas Implementações
-- GrETUA (Grupo Experimental de Teatro da UA)
-- Avenida Café-Concerto
-- VIC // Aveiro Arts House
-- Câmara Municipal de Aveiro
-- Fábrica Centro Ciência Viva
-- Museu de Aveiro
+- [ ] GrETUA (Grupo Experimental de Teatro da UA)
+- [ ] Avenida Café-Concerto
+- [ ] VIC // Aveiro Arts House
+- [ ] Câmara Municipal de Aveiro
+- [ ] Fábrica Centro Ciência Viva
+- [ ] Museu de Aveiro
 
 ## 📊 Formato de Dados
 
@@ -110,7 +110,7 @@ O workflow `.github/workflows/scrape.yml`:
 - Executa diariamente às 08:00 UTC
 - Instala Chrome + ChromeDriver
 - Executa scrapers
-- Commita resultados automaticamente
+- Faz commit de resultados automaticamente
 - Pode ser executado manualmente via GitHub UI
 
 ## 🛡️ Anti-Bot Detection
@@ -129,9 +129,18 @@ Os logs são guardados em `scraper.log` e também são visíveis nos outputs do 
 
 Pull requests são bem-vindos! Para mudanças maiores, abra uma issue primeiro.
 
+## ⚠️ Disclaimer (Aviso Legal)
+Este projeto é desenvolvido para fins estritamente educativos e de divulgação cultural sem fins lucrativos.
+
+Propriedade Intelectual: Todos os dados (títulos, imagens, descrições) pertencem às respetivas instituições e organizações culturais. Este projeto apenas indexa links públicos.
+
+Responsabilidade: O autor não se responsabiliza por erros na informação, cancelamentos de eventos ou alterações nos sites de origem.
+
+Remoção: Se é representante de alguma entidade e deseja que os seus eventos não apareçam aqui, por favor abra uma Issue e a fonte será removida imediatamente.
+
 ## 📄 Licença
 
-MIT
+Distribuído sob a licença MIT. Veja o ficheiro LICENSE para mais detalhes. Basicamente: use por sua conta e risco.
 
 ## 👤 Autor
 
