@@ -89,6 +89,7 @@ function normalizeSource(sourceName) {
     const s = sourceName.toLowerCase();
     if (s.includes('teatro')) return 'teatro';
     if (s.includes('gretua')) return 'gretua';
+    if (s.includes('aveiroon')) return 'aveiroon';
     if (s.includes('avenida')) return 'avenida';
     if (s.includes('vic')) return 'vic';
     return 'default';
@@ -182,6 +183,8 @@ function showEventModal(event) {
     const modalTitle = document.getElementById('modalTitle');
     const modalBody = document.getElementById('modalBody');
     const modalLink = document.getElementById('modalLink');
+    // Nota: É melhor instanciar o Modal fora ou verificar se já existe para evitar leaks,
+    // mas para este scope funciona assim:
     const bsModal = new bootstrap.Modal(document.getElementById('eventModal'));
 
     // Título
@@ -196,18 +199,38 @@ function showEventModal(event) {
         hour: '2-digit',
         minute: '2-digit'
     };
-    const dateStr = event.start.toLocaleDateString('pt-PT', dateOpts);
+    // Tratamento de erro caso a data seja inválida
+    let dateStr = "Data a anunciar";
+    if (event.start) {
+        dateStr = event.start.toLocaleDateString('pt-PT', dateOpts);
+    }
 
-    // Construir HTML do corpo
+    // Construir HTML do corpo (Metadados)
     let html = `
         <div class="mb-3 text-muted"><i class="bi bi-calendar3"></i> ${dateStr}</div>
-        <div class="mb-3"><i class="bi bi-geo-alt"></i> <strong>Local:</strong> ${event.extendedProps.location}</div>
+        <div class="mb-3"><i class="bi bi-geo-alt"></i> <strong>Local:</strong> ${event.extendedProps.location || 'Aveiro'}</div>
         <div class="mb-3"><span class="badge bg-secondary">${event.extendedProps.source}</span></div>
     `;
 
-    // Imagem (se existir)
+    // --- ALTERAÇÃO: Imagem com Proxy ---
     if (event.extendedProps.image_url) {
-        html += `<img src="${event.extendedProps.image_url}" class="img-fluid rounded mb-3" alt="${event.title}">`;
+        const originalUrl = event.extendedProps.image_url;
+
+        // Configuração do Proxy:
+        // url: encodeURIComponent garante que caracteres especiais no link original não partem o pedido
+        // w=600: Redimensiona para 600px de largura (bom para modal)
+        // output=webp: Converte para formato moderno e leve
+        // il: 'intelligent layout' (opcional, remove se cortar cabeças)
+        const proxyUrl = `https://wsrv.nl/?url=${encodeURIComponent(originalUrl)}&w=600&output=webp`;
+
+        html += `
+            <div class="text-center mb-3">
+                <img src="${proxyUrl}" 
+                     class="img-fluid rounded shadow-sm" 
+                     alt="${event.title}" 
+                     style="max-height: 400px; width: auto; object-fit: cover;"
+                     onerror="this.onerror=null; this.src='${originalUrl}';"> 
+            </div>`;
     }
 
     modalBody.innerHTML = html;
@@ -216,6 +239,7 @@ function showEventModal(event) {
     if (event.extendedProps.url_original) {
         modalLink.href = event.extendedProps.url_original;
         modalLink.style.display = 'inline-block';
+        modalLink.innerHTML = `Ver Detalhes <i class="bi bi-box-arrow-up-right ms-1"></i>`;
     } else {
         modalLink.style.display = 'none';
     }

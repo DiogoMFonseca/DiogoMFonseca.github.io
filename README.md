@@ -76,12 +76,12 @@ python main.py
 
 ### ✅ Implementadas
 - [x] **Teatro Aveirense** 
+- [x] Câmara Municipal de Aveiro
+- [x] GrETUA (Grupo Experimental de Teatro da UA)
 
 ### 🔜 Próximas Implementações
-- [ ] GrETUA (Grupo Experimental de Teatro da UA)
 - [ ] Avenida Café-Concerto
 - [ ] VIC // Aveiro Arts House
-- [ ] Câmara Municipal de Aveiro
 - [ ] Fábrica Centro Ciência Viva
 - [ ] Museu de Aveiro
 

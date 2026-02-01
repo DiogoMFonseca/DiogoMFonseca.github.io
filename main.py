@@ -32,8 +32,7 @@ logger = logging.getLogger(__name__)
 SCRAPERS = [
     'scrapers.teatro_aveirense',
     'scrapers.aveiroon',
-    # Add more scrapers here as they are implemented:
-    # 'scrapers.gretua',
+    'scrapers.gretua',
     # 'scrapers.avenida_cafe',
 ]
 
