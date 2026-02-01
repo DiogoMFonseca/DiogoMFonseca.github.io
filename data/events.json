@@ -1,0 +1,527 @@
+[
+  {
+    "id": "7f1a8d3f5f583012",
+    "title": "To be or not to be Shakespeare - that's the question - com Cláudia Jardim e Diogo Bento",
+    "start_date": "2026-02-02T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/to-be-or-not-to-be-shakespeare-thats-the-question-trilogia/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/to-be-or-not-to-be-shakespeare-thats-the-question-com-claudia-jardim-e-diogo-bento_img695fa04c05b1e.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Workshop"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.643510"
+  },
+  {
+    "id": "c0c7b60000f6cc29",
+    "title": "Hamlet, Sou Eu - Trilogia Shakespeare / Teatro Praga",
+    "start_date": "2026-02-03T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/hamlet-sou-eu/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/hamlet-sou-eu-trilogia-shakespeare-teatro-praga_img693ff56b18690.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.646783"
+  },
+  {
+    "id": "348c6523f1ed8a4f",
+    "title": "Romeu & Julieta - Trilogia Shakespeare / Teatro Praga",
+    "start_date": "2026-02-05T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/romeu-ju/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/romeu-julieta-trilogia-shakespeare-teatro-praga_img693ff6585f204.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.649988"
+  },
+  {
+    "id": "0a3975915d4b2209",
+    "title": "William ShakeskKkKKkk - Trilogia Shakespeare / Teatro Praga",
+    "start_date": "2026-02-05T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/william-shakeskkkkkkk/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/william-shakeskkkkkkk-trilogia-shakespeare-teatro-praga_img696a3306ae177.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Cinema"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.651002"
+  },
+  {
+    "id": "94d8f7d33c5b0ea4",
+    "title": "MacBad - Trilogia Shakespeare / Teatro Praga",
+    "start_date": "2026-02-07T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/macbad-trilogia-shakespeare-teatro-praga/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/macbad-trilogia-shakespeare-teatro-praga_img69396cc9648d5.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.652198"
+  },
+  {
+    "id": "389318c35c60842e",
+    "title": "Justa - Os Filmes das Nossas Terças",
+    "start_date": "2026-02-10T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/justa-os-filmes-das-nossas-tercas/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/justa-os-filmes-das-nossas-tercas_img696f6c02c18a3.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Cinema"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.654049"
+  },
+  {
+    "id": "25b38e1bdba50144",
+    "title": "Class Enemy - De Nigel Williams / Encenação Manuel Tur",
+    "start_date": "2026-02-13T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/class-enemy/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/class-enemy-de-nigel-williams-encenacao-manuel-tur_img69778953c9359.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.654993"
+  },
+  {
+    "id": "0f3915bd8c8a68d0",
+    "title": "José Pinhal Post-Mortem Experience - Festival Montepio 'às vezes o amor'",
+    "start_date": "2026-02-14T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/jose-pinhal-post-mortem-experience/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/jose-pinhal-post-mortem-experience-festival-montepio-as-vezes-o-amor_img693ac11892d3e.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.656175"
+  },
+  {
+    "id": "aa428ea95b62211c",
+    "title": "A Cronologia da Água - Os Filmes das Nossas Terças",
+    "start_date": "2026-02-17T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/a-cronologia-da-agua-os-filmes-das-nossas-tercas/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/a-cronologia-da-agua-os-filmes-das-nossas-tercas_img696f6cf34480f.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Cinema"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.657263"
+  },
+  {
+    "id": "3465a3acc10a237d",
+    "title": "Masterclass Intensiva - \"Quando Vem a Taciturna de Limiar em Limiar o Presente Frágil\"",
+    "start_date": "2026-02-18T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/masterclass-intensiva-quando-vem-a-taciturna-de-limiar-em-limiar-o-presente-fragil/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/masterclass-intensiva-quando-vem-a-taciturna-de-limiar-em-limiar-o-presente-fragil_img69677eeab8b17.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Workshop"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.659050"
+  },
+  {
+    "id": "46e573c0775ca36b",
+    "title": "Quando Vem a Taciturna de Limiar em Limiar o Presente Frágil - De Hugo Calhim Cristóvão e Joana Von Mayer Trindade",
+    "start_date": "2026-02-20T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/quando-vem-a-taciturna-de-limiar-em-limiar-o-presente-fragil/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/quando-vem-a-taciturna-de-limiar-em-limiar-o-presente-fragil-de-hugo-calhim-cristovao-e-joana-von-mayer-trindade_img693ac237917bc.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Dança"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.660614"
+  },
+  {
+    "id": "64908234cb62acf2",
+    "title": "Camané",
+    "start_date": "2026-02-21T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/camane/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/camane_img693ac2b50a14f.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.663746"
+  },
+  {
+    "id": "9f29c83260c48aa7",
+    "title": "A Poesia das Pequenas Coisas - Arte no Tempo [ESTREIA]",
+    "start_date": "2026-02-22T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/a-poesia-das-pequenas-coisas-arte-no-tempo/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/a-poesia-das-pequenas-coisas-arte-no-tempo-estreia_img6973551643319.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.665197"
+  },
+  {
+    "id": "245fdda3c0aad0d0",
+    "title": "Lubo - Os Filmes das Nossas Terças",
+    "start_date": "2026-02-24T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/lubo-os-filmes-das-nossas-tercas/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/lubo-os-filmes-das-nossas-tercas_img696f6dbf3abd6.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Cinema"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.666249"
+  },
+  {
+    "id": "184bc01425d411e1",
+    "title": "Mirror People - Ciclo Novas Quintas",
+    "start_date": "2026-02-26T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/mirror-people/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/mirror-people-ciclo-novas-quintas_img693ad5f63d258.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.667787"
+  },
+  {
+    "id": "2b8eebf7e19e15e0",
+    "title": "Do Tirar Pelo Natural - Eddy Becquart & João Garcia Miguel",
+    "start_date": "2026-02-27T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/do-tirar-pelo-natural/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/do-tirar-pelo-natural-eddy-becquart-joao-garcia-miguel_img693ad6dd91175.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Multidisciplinar"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.668796"
+  },
+  {
+    "id": "6030d436b5897f8c",
+    "title": "Ricardo Ribeiro",
+    "start_date": "2026-03-05T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/ricardo-ribeiro/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/ricardo-ribeiro_img693ad768a210a.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.670325"
+  },
+  {
+    "id": "01507d5ab0547899",
+    "title": "Isto Não Passa na TV - John Mendes",
+    "start_date": "2026-03-07T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/isto-nao-passa-na-tv/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/isto-nao-passa-na-tv-john-mendes_img693ada391eb2b.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Stand Up"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.671398"
+  },
+  {
+    "id": "b6944737d64036d5",
+    "title": "Prémio Nacional de Arquitetura em Madeira",
+    "start_date": "2026-03-12T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/premio-nacional-de-arquitetura-em-madeira/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/premio-nacional-de-arquitetura-em-madeira_img693adb43818a8.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Cerimónia"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.673376"
+  },
+  {
+    "id": "430eb0176179beab",
+    "title": "Sexo e a Idade - Uma comédia de Roberto Pereira com encenação de Adriano Luz",
+    "start_date": "2026-03-13T00:00:00",
+    "end_date": "2026-03-14T00:00:00",
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/sexo-e-a-idade/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/sexo-e-a-idade-uma-comedia-de-roberto-pereira_img68fa551f7dfec.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.676436"
+  },
+  {
+    "id": "6386768c49790031",
+    "title": "Se um momento os teus olhos me pudessem ver - De Luís Mestre",
+    "start_date": "2026-03-20T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/se-um-momento-os-teus-olhos-me-pudessem-ver/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/se-um-momento-os-teus-olhos-me-pudessem-ver-de-luis-mestre_img693ff8f07e1da.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.677478"
+  },
+  {
+    "id": "3c45eb7cf70bbe75",
+    "title": "Pierrot Lunaire - Ars ad Hoc e Ana Caseiro",
+    "start_date": "2026-03-22T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/pierrot-lunaire/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/pierrot-lunaire-ars-ad-hoc-e-ana-caseiro_img693adc462aaf2.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.679136"
+  },
+  {
+    "id": "94048a5bf0d39eb5",
+    "title": "Oficina de Escrita Dramática - Teatro Nova Europa",
+    "start_date": "2026-03-24T00:00:00",
+    "end_date": "2026-03-28T00:00:00",
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/oficina-de-escrita-dramatica/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/oficina-de-escrita-dramatica-teatro-nova-europa_img6970f8c183993.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Workshop"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.680414"
+  },
+  {
+    "id": "8bbdf9093eb8b321",
+    "title": "Festival END - Encontros de Novas Dramaturgias / Colectivo84 [ESTREIA]",
+    "start_date": "2026-03-27T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/festival-end/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/festival-end-encontros-de-novas-dramaturgias-colectivo84-estreia_img693c047257f6e.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.682193"
+  },
+  {
+    "id": "a3a556540d7ea68d",
+    "title": "O Figurante - Mateus Solano",
+    "start_date": "2026-03-28T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/o-figurante/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/o-figurante-mateus-solano_img693c0569dec20.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.683818"
+  },
+  {
+    "id": "f78058154e82e4d0",
+    "title": "Raquel Martins - Ciclo Novas Quintas",
+    "start_date": "2026-04-02T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/raquel-martins/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/raquel-martins-ciclo-novas-quintas_img693c061e4f480.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.684752"
+  },
+  {
+    "id": "053b8a31d6e85c52",
+    "title": "Pigmalião - Gerson Batista e João Fino",
+    "start_date": "2026-04-04T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/pigmaleao/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/pigmaliao-gerson-batista-e-joao-fino_img693c0756a8aa0.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Ópera"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.685987"
+  },
+  {
+    "id": "96003229efb28537",
+    "title": "Festival Termómetro - 30ª Edição",
+    "start_date": "2026-04-09T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/term/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/festival-termometro-30-edicao_img693c086f11c3b.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.688481"
+  },
+  {
+    "id": "e40d6f57ecd5c3e8",
+    "title": "The Amy Winehouse Band",
+    "start_date": "2026-04-10T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/the-amy-winehouse-band/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/the-amy-winehouse-band_img694a8b5dd6d36.png",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.690228"
+  },
+  {
+    "id": "e0a4b4235a159326",
+    "title": "Cara de Espelho",
+    "start_date": "2026-04-11T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/cara-de-espelho/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/cara-de-espelho_img693c090dbdf6e.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.692563"
+  },
+  {
+    "id": "4981591fd577af5d",
+    "title": "A Liberdade a Passar Por Aqui - Companhia de Música Teatral",
+    "start_date": "2026-04-12T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/a-liberdade-a-passar-por-aqui/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/a-liberdade-a-passar-por-aqui-companhia-de-musica-teatral_img693c0b32a4e68.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.693775"
+  },
+  {
+    "id": "5a5787fbbbcff935",
+    "title": "PAUS - Enterro",
+    "start_date": "2026-04-16T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/paus/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/paus-enterro_img693c4d86222bd.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.696187"
+  },
+  {
+    "id": "a7a95d350213212e",
+    "title": "O Nome - De Jon Fosse / Encenação Nuno Cardoso [ESTREIA]",
+    "start_date": "2026-04-25T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/o-nome/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/o-nome-de-jon-fosse-encenacao-nuno-cardoso-estreia_img693c4e6b25590.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.697164"
+  },
+  {
+    "id": "64db7365779e88ae",
+    "title": "Aveiro_Síntese 2026 - Bienal de Música Electroacústica",
+    "start_date": "2026-04-26T00:00:00",
+    "end_date": "2026-05-03T00:00:00",
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/aveiro-sintese-2026-bienal-de-musica-electroacustica/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/aveiro-sintese-2026-bienal-de-musica-electroacustica_img693c4f29a1128.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Música"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.700061"
+  },
+  {
+    "id": "9243c719be951b48",
+    "title": "A Morte do Diabo - Fragmentos de uma opereta de Eça de Queirós pela Banda Amizade - Banda Sinfónica de Aveiro",
+    "start_date": "2026-05-30T00:00:00",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://www.teatroaveirense.pt/pt/evento/a-morte-do-diabo/",
+    "image_url": "https://www.teatroaveirense.pt/imagens/eventos/a-morte-do-diabo-fragmentos-de-uma-opereta-de-eca-de-queiros-pela-banda-amizade-banda-sinfonica-de-aveiro_img6978a158e1e96.jpg",
+    "source": "Teatro Aveirense",
+    "tags": [
+      "Teatro Aveirense",
+      "Ópera"
+    ],
+    "scraped_at": "2026-02-01T15:30:00.701112"
+  }
+]

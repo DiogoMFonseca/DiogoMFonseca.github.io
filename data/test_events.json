@@ -1,0 +1,31 @@
+[
+  {
+    "id": "b1a4c3b5049889d6",
+    "title": "Concerto de Teste",
+    "start_date": "2026-02-06T15:16:01.066823",
+    "end_date": null,
+    "location": "Teatro Aveirense",
+    "url": "https://example.com/event1",
+    "image_url": "https://example.com/image1.jpg",
+    "source": "Test Source",
+    "tags": [
+      "Música",
+      "Concerto"
+    ],
+    "scraped_at": "2026-02-01T15:16:01.066871"
+  },
+  {
+    "id": "e02403a2b0b4853c",
+    "title": "Peça de Teatro",
+    "start_date": "2026-02-11T15:16:01.066838",
+    "end_date": null,
+    "location": "GrETUA",
+    "url": "https://example.com/event2",
+    "image_url": "https://example.com/image2.jpg",
+    "source": "Test Source",
+    "tags": [
+      "Teatro"
+    ],
+    "scraped_at": "2026-02-01T15:16:01.067626"
+  }
+]
