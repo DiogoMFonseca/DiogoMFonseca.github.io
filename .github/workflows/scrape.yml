@@ -2,16 +2,15 @@ name: Daily Scraper - Aveiro Cultural Events
 
 on:
   schedule:
-    # Run daily at 08:00 UTC (09:00 Portugal time in winter, 10:00 in summer)
     - cron: '0 8 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   scrape-events:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Required to push changes back to repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -28,13 +27,8 @@ jobs:
         with:
           chrome-version: stable
 
-      - name: Install ChromeDriver
-        uses: nanasess/setup-chromedriver@v2
-
       - name: Display Chrome version
-        run: |
-          google-chrome --version
-          chromedriver --version
+        run: google-chrome --version
 
       - name: Install Python dependencies
         run: |
@@ -57,7 +51,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload artifacts (for debugging)
+      - name: Upload artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
