@@ -1,8 +1,8 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const calendarEl = document.getElementById('calendar');
     const loadingSpinner = document.getElementById('loadingSpinner');
     const filterContainer = document.getElementById('filterButtons');
-    
+
     // Elementos de Estatística
     const statTotal = document.getElementById('totalEvents');
     const statMonth = document.getElementById('thisMonth');
@@ -12,7 +12,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const calendar = new FullCalendar.Calendar(calendarEl, {
         initialView: 'dayGridMonth',
         locale: 'pt',
-        height: '100%', // IMPORTANTE: Ocupa a altura toda do pai
+        height: 'auto',        // Deixa o calendário crescer conforme necessário
+        contentHeight: 'auto', // Garante que as células têm tamanho
+        aspectRatio: 1.35,     // Mantém uma proporção agradável
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
@@ -23,10 +25,10 @@ document.addEventListener('DOMContentLoaded', function() {
             month: 'Mês',
             list: 'Lista'
         },
-        eventClick: function(info) {
+        eventClick: function (info) {
             showEventModal(info.event);
         },
-        eventDidMount: function(info) {
+        eventDidMount: function (info) {
             // Tooltip simples ao passar o rato
             info.el.title = info.event.title;
         }
@@ -68,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
             updateStats(events);
 
             // 6. Atualizar data de "Last Update" no header
-            document.getElementById('lastUpdate').innerHTML = 
+            document.getElementById('lastUpdate').innerHTML =
                 `<i class="bi bi-check-circle-fill text-success"></i> Atualizado`;
 
         })
@@ -98,7 +100,7 @@ function normalizeSource(sourceName) {
 function generateFilters(events, calendar) {
     const sources = [...new Set(events.map(e => e.source))];
     const container = document.getElementById('filterButtons');
-    
+
     // Limpar botões (mantendo o "Todos")
     // container.innerHTML = '<button class="btn filter-btn active" data-filter="all">Todos</button>';
 
@@ -126,11 +128,11 @@ function generateFilters(events, calendar) {
 
     // Reativar o botão "Todos"
     const btnAll = container.querySelector('[data-filter="all"]');
-    if(btnAll) {
+    if (btnAll) {
         btnAll.onclick = () => {
             document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
             btnAll.classList.add('active');
-            
+
             calendar.getEvents().forEach(evt => evt.setProp('display', 'auto'));
         };
     }
@@ -161,12 +163,12 @@ function updateStats(events) {
     if (futureEvents.length > 0) {
         const nextDate = futureEvents[0];
         const diffTime = Math.abs(nextDate - now);
-        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
-        
+        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
         let text = diffDays + " dias";
         if (diffDays === 0) text = "Hoje!";
         if (diffDays === 1) text = "Amanhã";
-        
+
         document.getElementById('nextEventDays').textContent = text;
     } else {
         document.getElementById('nextEventDays').textContent = "-";
@@ -186,7 +188,14 @@ function showEventModal(event) {
     modalTitle.textContent = event.title;
 
     // Data Formatada
-    const dateOpts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute:'2-digit' };
+    const dateOpts = {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+    };
     const dateStr = event.start.toLocaleDateString('pt-PT', dateOpts);
 
     // Construir HTML do corpo
