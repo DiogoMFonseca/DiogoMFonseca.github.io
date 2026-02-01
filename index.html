@@ -15,85 +15,105 @@
 </head>
 <body class="d-flex flex-column min-vh-100">
 
-    <header class="bg-white border-bottom py-3 shadow-sm sticky-top">
-        <div class="container d-flex justify-content-between align-items-center">
-            <h1 class="h5 m-0 fw-bold text-dark">
-                <i class="bi bi-geo-alt-fill text-danger"></i> Aveiro Cultural
-            </h1>
-            <small id="lastUpdate" class="text-muted" style="font-size: 0.75rem;">
-                <i class="bi bi-arrow-clockwise"></i> Atualizado hoje
-            </small>
-        </div>
-    </header>
+<header class="bg-white border-bottom py-3 shadow-sm sticky-top">
+    <div class="container d-flex justify-content-between align-items-center">
+        <h1 class="h5 m-0 fw-bold text-dark">
+            <i class="bi bi-geo-alt-fill text-danger"></i> Aveiro Cultural
+        </h1>
+        <small id="lastUpdate" class="text-muted" style="font-size: 0.75rem;">
+            <i class="bi bi-arrow-clockwise"></i> Atualizado hoje
+        </small>
+    </div>
+</header>
 
-    <main class="flex-grow-1 py-4">
-        <div class="container">
+<main class="flex-grow-1 py-4">
+    <div class="container">
 
-            <div class="row justify-content-center">
+        <div class="row justify-content-center">
 
-                <div class="col-12 col-md-10 col-lg-10 col-xl-10">
+            <div class="col-12 col-md-10 col-lg-10 col-xl-10">
 
-                    <div id="filterButtons" class="d-flex justify-content-center gap-2 mb-3 flex-wrap">
-                        <button class="btn btn-sm btn-outline-dark filter-btn active rounded-pill px-3" data-filter="all">Todos</button>
+                <div id="filterButtons" class="d-flex justify-content-center gap-2 mb-3 flex-wrap">
+                    <button class="btn btn-sm btn-outline-dark filter-btn active rounded-pill px-3" data-filter="all">
+                        Todos
+                    </button>
+                </div>
+
+                <div class="calendar-card p-3 p-md-4 position-relative">
+                    <div id="calendar"></div>
+
+                    <div id="loadingSpinner" class="position-absolute top-50 start-50 translate-middle text-center">
+                        <div class="spinner-border text-primary" role="status"></div>
+                        <p class="small text-muted mt-2">A carregar...</p>
                     </div>
+                </div>
 
-                    <div class="calendar-card p-3 p-md-4 position-relative">
-                        <div id="calendar"></div>
-
-                        <div id="loadingSpinner" class="position-absolute top-50 start-50 translate-middle text-center">
-                            <div class="spinner-border text-primary" role="status"></div>
-                            <p class="small text-muted mt-2">A carregar...</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </main>
-
-    <footer class="bg-white border-top py-3 mt-auto">
-        <div class="container">
-            <div class="row text-center text-muted small">
-                <div class="col-4">
-                    <div class="fw-bold text-dark fs-5" id="totalEvents">-</div>
-                    <div>Eventos</div>
-                </div>
-                <div class="col-4 border-start border-end">
-                    <div class="fw-bold text-dark fs-5" id="thisMonth">-</div>
-                    <div>Este Mês</div>
-                </div>
-                <div class="col-4">
-                    <div class="fw-bold text-dark fs-5" id="nextEventDays">-</div>
-                    <div>Próximo</div>
-                </div>
-            </div>
-            <div class="text-center mt-3 text-muted" style="font-size: 0.7rem;">
-                Dev by <a href="https://github.com/DiogoMFonseca" class="text-decoration-none text-secondary">Diogo Fonseca</a>
-            </div>
-        </div>
-    </footer>
-
-    <div class="modal fade" id="eventModal" tabindex="-1">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content border-0 shadow">
-                <div class="modal-header border-0">
-                    <h5 class="modal-title fw-bold" id="modalTitle">Título</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-                </div>
-                <div class="modal-body" id="modalBody">
-                    </div>
-                <div class="modal-footer border-0 justify-content-center">
-                    <a href="#" id="modalLink" class="btn btn-primary w-100 rounded-pill" target="_blank">
-                        Ver Detalhes <i class="bi bi-box-arrow-up-right ms-1"></i>
-                    </a>
-                </div>
             </div>
         </div>
     </div>
+</main>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/locales/pt.global.min.js"></script>
-    <script src="static/js/main.js"></script>
+<footer class="bg-white border-top py-3 mt-auto">
+    <div class="container">
+        <div class="row text-center text-muted small">
+            <div class="col-4">
+                <div class="fw-bold text-dark fs-5" id="totalEvents">-</div>
+                <div>Eventos</div>
+            </div>
+            <div class="col-4 border-start border-end">
+                <div class="fw-bold text-dark fs-5" id="thisMonth">-</div>
+                <div>Este Mês</div>
+            </div>
+            <div class="col-4">
+                <div class="fw-bold text-dark fs-5" id="nextEventDays">-</div>
+                <div>Próximo</div>
+            </div>
+        </div>
+
+        <div class="text-center mt-3">
+            <div class="d-flex justify-content-center align-items-center gap-2 flex-wrap text-muted"
+                 style="font-size: 0.7rem;">
+
+                    <span>
+                        Made with &#10084; by <a href="https://github.com/DiogoMFonseca"
+                                  class="text-decoration-none text-secondary fw-bold">Diogo Fonseca</a>
+                    </span>
+
+                <span style="opacity: 0.3;">|</span>
+
+                <a href="https://www.flaticon.com/free-icons/event" title="event icons" target="_blank"
+                   rel="noopener noreferrer"
+                   class="text-decoration-none text-muted"
+                   style="font-size: 0.55rem; opacity: 0.4;">
+                    Ticket icon by Freepik
+                </a>
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="modal fade" id="eventModal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content border-0 shadow">
+            <div class="modal-header border-0">
+                <h5 class="modal-title fw-bold" id="modalTitle">Título</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body" id="modalBody">
+            </div>
+            <div class="modal-footer border-0 justify-content-center">
+                <a href="#" id="modalLink" class="btn btn-primary w-100 rounded-pill" target="_blank">
+                    Ver Detalhes <i class="bi bi-box-arrow-up-right ms-1"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/locales/pt.global.min.js"></script>
+<script src="static/js/main.js"></script>
 </body>
 </html>

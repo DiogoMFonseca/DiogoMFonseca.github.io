@@ -136,7 +136,7 @@ Propriedade Intelectual: Todos os dados (títulos, imagens, descrições) perten
 
 Responsabilidade: O autor não se responsabiliza por erros na informação, cancelamentos de eventos ou alterações nos sites de origem.
 
-Remoção: Se é representante de alguma entidade e deseja que os seus eventos não apareçam aqui, por favor abra uma Issue e a fonte será removida imediatamente.
+Remoção: Se é representante de alguma entidade e deseja que os seus eventos não apareçam aqui, por favor abra uma [Issue](https://github.com/DiogoMFonseca/DiogoMFonseca.github.io/issues) e a fonte será removida imediatamente.
 
 ## 📄 Licença
 
