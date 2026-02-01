@@ -31,6 +31,7 @@ logger = logging.getLogger(__name__)
 # List of scraper modules to run
 SCRAPERS = [
     'scrapers.teatro_aveirense',
+    'scrapers.aveiroon',
     # Add more scrapers here as they are implemented:
     # 'scrapers.gretua',
     # 'scrapers.avenida_cafe',
