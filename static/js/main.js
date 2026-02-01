@@ -12,6 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const calendar = new FullCalendar.Calendar(calendarEl, {
         initialView: 'dayGridMonth',
         locale: 'pt',
+        fixedWeekCount: false,       // Se false, o calendário terá 4, 5 ou 6 semanas conforme necessário
+        showNonCurrentDates: false,  // (Opcional) Esconde os dias do mês seguinte/anterior para ficar mais limpo
         height: 'auto',        // Deixa o calendário crescer conforme necessário
         contentHeight: 'auto', // Garante que as células têm tamanho
         aspectRatio: 1.35,     // Mantém uma proporção agradável
@@ -98,17 +100,35 @@ function normalizeSource(sourceName) {
 /**
  * Gera os botões de filtro no topo com base nas fontes existentes
  */
+/**
+ * Gera os botões de filtro no topo com base nas fontes existentes
+ */
 function generateFilters(events, calendar) {
     const sources = [...new Set(events.map(e => e.source))];
     const container = document.getElementById('filterButtons');
 
-    // Limpar botões (mantendo o "Todos")
-    // container.innerHTML = '<button class="btn filter-btn active" data-filter="all">Todos</button>';
+    // Mante o botão "Todos" e limpa o resto se necessário,
+    // mas como o 'Todos' já está no HTML estático, vamos apenas adicionar os novos.
+    // Nota: Se quiseres limpar dinamicamente para não duplicar se recarregares:
+    // container.innerHTML = '<button class="btn btn-sm filter-btn active" data-filter="all">Todos</button>';
+
+    // Garantir que não duplicamos botões se a função correr 2x
+    // Vamos limpar tudo EXCEPTO o botão "Todos"
+    const allBtn = container.querySelector('[data-filter="all"]');
+    container.innerHTML = '';
+    if (allBtn) container.appendChild(allBtn);
 
     sources.forEach(source => {
         const btn = document.createElement('button');
-        btn.className = 'btn filter-btn';
+
+        // Obter o "slug" da fonte (ex: 'teatro', 'aveiroon')
+        const sourceSlug = normalizeSource(source);
+
+        // Adicionar classes: classe base + classe de cor específica
+        btn.className = `btn btn-sm filter-btn btn-${sourceSlug}`;
+
         btn.textContent = source;
+
         btn.onclick = () => {
             // Remover classe active de todos
             document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -117,6 +137,7 @@ function generateFilters(events, calendar) {
             // Filtrar calendário
             const allEvents = calendar.getEvents();
             allEvents.forEach(evt => {
+                // Compara a fonte do evento com o texto do botão
                 if (evt.extendedProps.source === source) {
                     evt.setProp('display', 'auto');
                 } else {
@@ -127,13 +148,14 @@ function generateFilters(events, calendar) {
         container.appendChild(btn);
     });
 
-    // Reativar o botão "Todos"
+    // Reativar o botão "Todos" (caso tenha perdido o event listener ao limpar o HTML ou reload)
     const btnAll = container.querySelector('[data-filter="all"]');
     if (btnAll) {
         btnAll.onclick = () => {
             document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
             btnAll.classList.add('active');
 
+            // Mostrar todos
             calendar.getEvents().forEach(evt => evt.setProp('display', 'auto'));
         };
     }
