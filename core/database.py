@@ -174,8 +174,15 @@ class EventDatabase:
 
         events = self.get_future_events()
 
+        # Create JSON with metadata
+        data = {
+            'last_updated': datetime.now().isoformat(),
+            'total_events': len(events),
+            'events': events
+        }
+
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(events, f, ensure_ascii=False, indent=2)
+            json.dump(data, f, ensure_ascii=False, indent=2)
 
         logger.info(f"Exported {len(events)} events to {output_path}")
         return output_path

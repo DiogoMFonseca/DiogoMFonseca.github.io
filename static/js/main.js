@@ -17,15 +17,16 @@ document.addEventListener('DOMContentLoaded', function () {
         height: 'auto',        // Deixa o calendário crescer conforme necessário
         contentHeight: 'auto', // Garante que as células têm tamanho
         aspectRatio: 1.35,     // Mantém uma proporção agradável
+        dayMaxEvents: true,    // Limita eventos por dia e mostra "+X more" - adapta automaticamente
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
-            right: 'dayGridMonth,listMonth'
+            right: 'dayGridMonth,listWeek'
         },
         buttonText: {
             today: 'Hoje',
             month: 'Mês',
-            list: 'Lista'
+            list: 'Semana',
         },
         eventClick: function (info) {
             showEventModal(info.event);
@@ -48,8 +49,12 @@ document.addEventListener('DOMContentLoaded', function () {
             // 1. Esconder o Loading
             loadingSpinner.style.display = 'none';
 
+            // Extract events array from the new structure
+            const eventsData = data.events || data; // Fallback to old format if needed
+            const lastUpdated = data.last_updated; // Get the actual timestamp
+
             // 2. Preparar os eventos para o FullCalendar
-            const events = data.map(event => ({
+            const events = eventsData.map(event => ({
                 id: event.id,
                 title: event.title,
                 start: event.start_date,
@@ -72,8 +77,39 @@ document.addEventListener('DOMContentLoaded', function () {
             updateStats(events);
 
             // 6. Atualizar data de "Last Update" no header
-            document.getElementById('lastUpdate').innerHTML =
-                `<i class="bi bi-check-circle-fill text-success"></i> Atualizado`;
+            if (lastUpdated) {
+                const updateDate = new Date(lastUpdated);
+                const now = new Date();
+
+                // Calculate difference in days
+                const diffTime = now - updateDate;
+                const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+                let updateText;
+                if (diffDays === 0) {
+                    // Today - just show "Atualizado hoje"
+                    updateText = `<i class="bi bi-check-circle-fill text-success"></i> Atualizado hoje`;
+                } else if (diffDays === 1) {
+                    // Yesterday
+                    updateText = `<i class="bi bi-check-circle-fill text-success"></i> Atualizado ontem`;
+                } else if (diffDays <= 2) {
+                    // 2 days ago - still compact
+                    updateText = `<i class="bi bi-check-circle-fill text-success"></i> Atualizado há ${diffDays} dias`;
+                } else {
+                    // Older than 2 days - show full date but more compact
+                    const dateStr = updateDate.toLocaleDateString('pt-PT', {
+                        day: '2-digit',
+                        month: '2-digit'
+                    });
+                    updateText = `<i class="bi bi-clock-history"></i> ${dateStr}`;
+                }
+
+                document.getElementById('lastUpdate').innerHTML = updateText;
+            } else {
+                // Fallback if no timestamp in data
+                document.getElementById('lastUpdate').innerHTML =
+                    `<i class="bi bi-check-circle-fill text-success"></i> Atualizado`;
+            }
 
         })
         .catch(error => {
