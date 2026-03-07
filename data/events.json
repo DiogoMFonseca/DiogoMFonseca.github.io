@@ -1,82 +1,7 @@
 {
-  "last_updated": "2026-03-06T08:50:32.608141",
-  "total_events": 116,
+  "last_updated": "2026-03-07T08:41:04.027534",
+  "total_events": 111,
   "events": [
-    {
-      "id": "01507d5ab0547899",
-      "title": "Isto Não Passa na TV - John Mendes",
-      "start_date": "2026-03-07",
-      "end_date": null,
-      "location": "Teatro Aveirense",
-      "url": "https://www.teatroaveirense.pt/pt/evento/isto-nao-passa-na-tv/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/isto-nao-passa-na-tv-john-mendes_img693ada391eb2b.jpg",
-      "source": "Teatro Aveirense",
-      "tags": [
-        "Teatro Aveirense",
-        "Stand Up"
-      ],
-      "scraped_at": "2026-03-06T08:50:24.052789"
-    },
-    {
-      "id": "a5a92462f3d9dd55",
-      "title": "Isto Não Passa na TV",
-      "start_date": "2026-03-07",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/isto-nao-passa-na-tv/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/02/John_Mendes_1.png.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-03-06T08:50:29.121952"
-    },
-    {
-      "id": "8cf88518ad9095c7",
-      "title": "Feira dos Moços",
-      "start_date": "2026-03-07",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-dos-mocos/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/Apanha.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Literatura"
-      ],
-      "scraped_at": "2026-03-06T08:50:29.116415"
-    },
-    {
-      "id": "6227d7a72351f912",
-      "title": "Portugal Triste: Fotografia Vernacular nos séculos XIX e XX",
-      "start_date": "2026-03-07",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/portugal-triste-fotografia-vernacular-no-seculo-xix/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/portugal_triste-scaled.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Exposicoes"
-      ],
-      "scraped_at": "2026-03-06T08:50:29.117438"
-    },
-    {
-      "id": "21d66998eeacb3e4",
-      "title": "Nem um passo atrás!",
-      "start_date": "2026-03-07",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/nem-um-passo-atras/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/STORY.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Musica"
-      ],
-      "scraped_at": "2026-03-06T08:50:29.115381"
-    },
     {
       "id": "bf11f4b2d4f7b256",
       "title": "Gala 50 anos - Centro Infantil de Eixo",
@@ -105,7 +30,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-03-06T08:50:24.054305"
+      "scraped_at": "2026-03-07T08:40:30.781422"
     },
     {
       "id": "726f12c392f51689",
@@ -150,7 +75,7 @@
         "Teatro Aveirense",
         "Cerimónia"
       ],
-      "scraped_at": "2026-03-06T08:50:24.055646"
+      "scraped_at": "2026-03-07T08:40:30.787265"
     },
     {
       "id": "5b1762cf0a00636c",
@@ -180,7 +105,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-03-06T08:50:24.057032"
+      "scraped_at": "2026-03-07T08:40:30.788509"
     },
     {
       "id": "e6d165ab9f988474",
@@ -255,7 +180,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-03-06T08:50:24.058200"
+      "scraped_at": "2026-03-07T08:40:30.789541"
     },
     {
       "id": "e72d8ecf543ad0ab",
@@ -315,7 +240,7 @@
         "GrETUA",
         "Formação"
       ],
-      "scraped_at": "2026-03-06T08:50:32.599486"
+      "scraped_at": "2026-03-07T08:41:04.019183"
     },
     {
       "id": "e62f89a3483e5b07",
@@ -375,7 +300,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-03-06T08:50:24.059396"
+      "scraped_at": "2026-03-07T08:40:30.790643"
     },
     {
       "id": "93897a342017f6d2",
@@ -390,7 +315,7 @@
         "GrETUA",
         "Teatro e Dança"
       ],
-      "scraped_at": "2026-03-06T08:50:32.600962"
+      "scraped_at": "2026-03-07T08:41:04.020969"
     },
     {
       "id": "f6e13a440709cfb3",
@@ -450,7 +375,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.060382"
+      "scraped_at": "2026-03-07T08:40:30.791720"
     },
     {
       "id": "7751b03d407db420",
@@ -495,7 +420,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-03-06T08:50:32.602351"
+      "scraped_at": "2026-03-07T08:41:04.022037"
     },
     {
       "id": "94048a5bf0d39eb5",
@@ -510,7 +435,7 @@
         "Teatro Aveirense",
         "Workshop"
       ],
-      "scraped_at": "2026-03-06T08:50:24.061451"
+      "scraped_at": "2026-03-07T08:40:30.792655"
     },
     {
       "id": "ed35b8ba99aace62",
@@ -525,7 +450,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-03-06T08:50:24.062526"
+      "scraped_at": "2026-03-07T08:40:30.793758"
     },
     {
       "id": "c8a04dee65d03334",
@@ -630,7 +555,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-03-06T08:50:24.063871"
+      "scraped_at": "2026-03-07T08:40:30.794741"
     },
     {
       "id": "f8162300cd087d89",
@@ -645,7 +570,7 @@
         "GrETUA",
         "Académicos"
       ],
-      "scraped_at": "2026-03-06T08:50:32.603550"
+      "scraped_at": "2026-03-07T08:41:04.023181"
     },
     {
       "id": "76d77421bd486b6d",
@@ -675,7 +600,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-03-06T08:50:24.065368"
+      "scraped_at": "2026-03-07T08:40:30.795626"
     },
     {
       "id": "015bd700d30f9ec5",
@@ -765,7 +690,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-03-06T08:50:24.066400"
+      "scraped_at": "2026-03-07T08:40:30.796640"
     },
     {
       "id": "d1a777fd83c81449",
@@ -810,7 +735,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.067655"
+      "scraped_at": "2026-03-07T08:40:30.797894"
     },
     {
       "id": "0e5a7f2383bc5ed3",
@@ -870,7 +795,7 @@
         "Teatro Aveirense",
         "Ópera"
       ],
-      "scraped_at": "2026-03-06T08:50:24.068661"
+      "scraped_at": "2026-03-07T08:40:30.798997"
     },
     {
       "id": "8b1688c240379313",
@@ -900,7 +825,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-03-06T08:50:32.604921"
+      "scraped_at": "2026-03-07T08:41:04.024212"
     },
     {
       "id": "48b33f4dbc826562",
@@ -930,7 +855,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.070057"
+      "scraped_at": "2026-03-07T08:40:30.800087"
     },
     {
       "id": "2911bf4e2c49cb55",
@@ -960,7 +885,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.071173"
+      "scraped_at": "2026-03-07T08:40:30.801054"
     },
     {
       "id": "e0a4b4235a159326",
@@ -975,7 +900,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.072492"
+      "scraped_at": "2026-03-07T08:40:30.802058"
     },
     {
       "id": "4371257b296e6573",
@@ -1035,7 +960,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.073463"
+      "scraped_at": "2026-03-07T08:40:30.803072"
     },
     {
       "id": "702dc81e051e083a",
@@ -1050,7 +975,7 @@
         "GrETUA",
         "Literatura"
       ],
-      "scraped_at": "2026-03-06T08:50:32.606172"
+      "scraped_at": "2026-03-07T08:41:04.025373"
     },
     {
       "id": "49c827a4d6d3a824",
@@ -1110,7 +1035,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.074640"
+      "scraped_at": "2026-03-07T08:40:30.804044"
     },
     {
       "id": "a4ea96983e310351",
@@ -1215,7 +1140,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-03-06T08:50:24.076010"
+      "scraped_at": "2026-03-07T08:40:30.805070"
     },
     {
       "id": "64db7365779e88ae",
@@ -1230,7 +1155,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.077043"
+      "scraped_at": "2026-03-07T08:40:30.806080"
     },
     {
       "id": "31d259e18073bfed",
@@ -1350,7 +1275,7 @@
         "Teatro Aveirense",
         "Ópera"
       ],
-      "scraped_at": "2026-03-06T08:50:24.078150"
+      "scraped_at": "2026-03-07T08:40:30.807050"
     },
     {
       "id": "da7f3a68afbf59da",
@@ -1365,7 +1290,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-06T08:50:24.080067"
+      "scraped_at": "2026-03-07T08:40:30.808078"
     },
     {
       "id": "8e4fecb4cb21e49c",
@@ -1425,7 +1350,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-03-06T08:50:24.082039"
+      "scraped_at": "2026-03-07T08:40:30.809131"
     },
     {
       "id": "9d4b77f678f969ff",
