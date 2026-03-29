@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-03-28T08:51:32.454973",
-  "total_events": 86,
+  "last_updated": "2026-03-29T08:52:30.907957",
+  "total_events": 84,
   "events": [
-    {
-      "id": "e509a7704c468941",
-      "title": "Concerto Coral Sinfónico",
-      "start_date": "2026-03-29",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/concerto-coral-sinfonico/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/0P0A5159-scaled.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Musica"
-      ],
-      "scraped_at": "2026-03-28T08:51:29.158780"
-    },
-    {
-      "id": "41893ae7c4d048c7",
-      "title": "II Encontro de Coros Santa Joana",
-      "start_date": "2026-03-29",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/ii-encontro-de-corossanta-joana/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/29MAR26_IIEncontro_de_Coros_Santa_Joana_1.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Musica"
-      ],
-      "scraped_at": "2026-03-28T08:51:29.161189"
-    },
     {
       "id": "af4e7f2267c3ff66",
       "title": "Concerto pela Banda Sinfónica da EACMCGA",
@@ -45,7 +15,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.162522"
+      "scraped_at": "2026-03-29T08:52:27.466944"
     },
     {
       "id": "cb7ad469f3d236f0",
@@ -60,7 +30,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-03-28T08:51:23.454863"
+      "scraped_at": "2026-03-29T08:52:18.235001"
     },
     {
       "id": "d1a777fd83c81449",
@@ -75,7 +45,7 @@
         "AveiroOn",
         "Cinema"
       ],
-      "scraped_at": "2026-03-28T08:51:29.163744"
+      "scraped_at": "2026-03-29T08:52:27.470513"
     },
     {
       "id": "85f3626b1bfacb8a",
@@ -90,7 +60,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.165087"
+      "scraped_at": "2026-03-29T08:52:27.471551"
     },
     {
       "id": "d0c4b5828c5cd785",
@@ -105,7 +75,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.166233"
+      "scraped_at": "2026-03-29T08:52:27.472578"
     },
     {
       "id": "36db07d1db7b2f8c",
@@ -120,7 +90,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.167428"
+      "scraped_at": "2026-03-29T08:52:27.473665"
     },
     {
       "id": "c14685e3e4196bcd",
@@ -135,7 +105,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.168603"
+      "scraped_at": "2026-03-29T08:52:27.474563"
     },
     {
       "id": "f78058154e82e4d0",
@@ -150,7 +120,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.456161"
+      "scraped_at": "2026-03-29T08:52:18.236460"
     },
     {
       "id": "0e5a7f2383bc5ed3",
@@ -165,7 +135,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.169717"
+      "scraped_at": "2026-03-29T08:52:27.475598"
     },
     {
       "id": "4230ebf4be08fadd",
@@ -180,7 +150,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.171029"
+      "scraped_at": "2026-03-29T08:52:27.476538"
     },
     {
       "id": "6da2fad5fa290194",
@@ -195,7 +165,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.172316"
+      "scraped_at": "2026-03-29T08:52:27.477496"
     },
     {
       "id": "053b8a31d6e85c52",
@@ -210,7 +180,7 @@
         "Teatro Aveirense",
         "Ópera"
       ],
-      "scraped_at": "2026-03-28T08:51:23.457370"
+      "scraped_at": "2026-03-29T08:52:18.237597"
     },
     {
       "id": "8b1688c240379313",
@@ -225,7 +195,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.173668"
+      "scraped_at": "2026-03-29T08:52:27.478373"
     },
     {
       "id": "4cb35aa025fc5d8b",
@@ -240,7 +210,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.175022"
+      "scraped_at": "2026-03-29T08:52:27.479329"
     },
     {
       "id": "39a9d4c2f8725b19",
@@ -255,7 +225,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-03-28T08:51:32.450805"
+      "scraped_at": "2026-03-29T08:52:30.902247"
     },
     {
       "id": "48b33f4dbc826562",
@@ -270,7 +240,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.176383"
+      "scraped_at": "2026-03-29T08:52:27.480425"
     },
     {
       "id": "96003229efb28537",
@@ -285,7 +255,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.458696"
+      "scraped_at": "2026-03-29T08:52:18.238853"
     },
     {
       "id": "2911bf4e2c49cb55",
@@ -300,7 +270,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.178022"
+      "scraped_at": "2026-03-29T08:52:27.481303"
     },
     {
       "id": "04c519198f7a72e5",
@@ -315,7 +285,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.179730"
+      "scraped_at": "2026-03-29T08:52:27.482230"
     },
     {
       "id": "e40d6f57ecd5c3e8",
@@ -330,7 +300,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.460001"
+      "scraped_at": "2026-03-29T08:52:18.239881"
     },
     {
       "id": "e0a4b4235a159326",
@@ -345,7 +315,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.461199"
+      "scraped_at": "2026-03-29T08:52:18.240946"
     },
     {
       "id": "4371257b296e6573",
@@ -360,7 +330,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.181533"
+      "scraped_at": "2026-03-29T08:52:27.483201"
     },
     {
       "id": "77a599a6dd1b94dd",
@@ -375,7 +345,7 @@
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-03-28T08:51:29.183334"
+      "scraped_at": "2026-03-29T08:52:27.486230"
     },
     {
       "id": "b8db9a13225526c6",
@@ -390,7 +360,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.184637"
+      "scraped_at": "2026-03-29T08:52:27.487563"
     },
     {
       "id": "010e3f0d0b7ac509",
@@ -405,7 +375,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.185933"
+      "scraped_at": "2026-03-29T08:52:27.488886"
     },
     {
       "id": "4981591fd577af5d",
@@ -420,7 +390,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.462366"
+      "scraped_at": "2026-03-29T08:52:18.241966"
     },
     {
       "id": "2516e972f5eb94aa",
@@ -435,7 +405,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.187151"
+      "scraped_at": "2026-03-29T08:52:27.490062"
     },
     {
       "id": "702dc81e051e083a",
@@ -450,7 +420,7 @@
         "GrETUA",
         "Literatura"
       ],
-      "scraped_at": "2026-03-28T08:51:32.452713"
+      "scraped_at": "2026-03-29T08:52:30.904792"
     },
     {
       "id": "49c827a4d6d3a824",
@@ -465,7 +435,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.188272"
+      "scraped_at": "2026-03-29T08:52:27.490958"
     },
     {
       "id": "7cd0861814cb6e93",
@@ -480,7 +450,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.189474"
+      "scraped_at": "2026-03-29T08:52:27.491903"
     },
     {
       "id": "e5953903f79e4819",
@@ -495,7 +465,7 @@
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-03-28T08:51:29.190986"
+      "scraped_at": "2026-03-29T08:52:27.492885"
     },
     {
       "id": "3ea9e9254074df46",
@@ -510,7 +480,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.192114"
+      "scraped_at": "2026-03-29T08:52:27.493850"
     },
     {
       "id": "5a5787fbbbcff935",
@@ -525,7 +495,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.463494"
+      "scraped_at": "2026-03-29T08:52:18.242984"
     },
     {
       "id": "a4ea96983e310351",
@@ -540,7 +510,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.193635"
+      "scraped_at": "2026-03-29T08:52:27.494849"
     },
     {
       "id": "80549100710ea11f",
@@ -555,7 +525,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.194839"
+      "scraped_at": "2026-03-29T08:52:27.495773"
     },
     {
       "id": "ab3ca3502cb2a601",
@@ -570,7 +540,7 @@
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-03-28T08:51:29.196099"
+      "scraped_at": "2026-03-29T08:52:27.496831"
     },
     {
       "id": "1dd0c4057270ed91",
@@ -585,7 +555,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.197450"
+      "scraped_at": "2026-03-29T08:52:27.497818"
     },
     {
       "id": "c383ae9ccbcb50f2",
@@ -600,7 +570,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.198643"
+      "scraped_at": "2026-03-29T08:52:27.498704"
     },
     {
       "id": "f5215b4b56752142",
@@ -615,7 +585,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.199931"
+      "scraped_at": "2026-03-29T08:52:27.499986"
     },
     {
       "id": "eea10daf9b47afbd",
@@ -630,7 +600,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.201576"
+      "scraped_at": "2026-03-29T08:52:27.500993"
     },
     {
       "id": "478045e6688fbb48",
@@ -645,7 +615,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.202728"
+      "scraped_at": "2026-03-29T08:52:27.502126"
     },
     {
       "id": "fc50a9c1f57d47e3",
@@ -660,7 +630,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.204018"
+      "scraped_at": "2026-03-29T08:52:27.503074"
     },
     {
       "id": "a7a95d350213212e",
@@ -675,7 +645,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-03-28T08:51:23.464790"
+      "scraped_at": "2026-03-29T08:52:18.243912"
     },
     {
       "id": "37311b8fe63cf774",
@@ -690,7 +660,7 @@
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-03-28T08:51:29.205093"
+      "scraped_at": "2026-03-29T08:52:27.504049"
     },
     {
       "id": "64db7365779e88ae",
@@ -705,7 +675,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.467031"
+      "scraped_at": "2026-03-29T08:52:18.245018"
     },
     {
       "id": "55e55f10f9b5c410",
@@ -720,7 +690,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.206589"
+      "scraped_at": "2026-03-29T08:52:27.505048"
     },
     {
       "id": "79208c40183dafff",
@@ -735,7 +705,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.208653"
+      "scraped_at": "2026-03-29T08:52:27.506030"
     },
     {
       "id": "aa5ac1faeeb40c62",
@@ -750,7 +720,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.210653"
+      "scraped_at": "2026-03-29T08:52:27.506982"
     },
     {
       "id": "dcaa327232734249",
@@ -765,7 +735,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-03-28T08:51:29.212515"
+      "scraped_at": "2026-03-29T08:52:27.508109"
     },
     {
       "id": "a82a9d8f3b70470e",
@@ -780,7 +750,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.214019"
+      "scraped_at": "2026-03-29T08:52:27.509071"
     },
     {
       "id": "b1da48d89d3a3231",
@@ -795,7 +765,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.215227"
+      "scraped_at": "2026-03-29T08:52:27.509955"
     },
     {
       "id": "dcc1b6c0efbed185",
@@ -810,7 +780,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.216226"
+      "scraped_at": "2026-03-29T08:52:27.510902"
     },
     {
       "id": "0494dfb7936c8e5d",
@@ -825,7 +795,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.217210"
+      "scraped_at": "2026-03-29T08:52:27.511816"
     },
     {
       "id": "31d259e18073bfed",
@@ -840,7 +810,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.218594"
+      "scraped_at": "2026-03-29T08:52:27.512873"
     },
     {
       "id": "5b3ec4577f92e3e0",
@@ -855,7 +825,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.221611"
+      "scraped_at": "2026-03-29T08:52:27.515298"
     },
     {
       "id": "9807443cd4ed9535",
@@ -870,7 +840,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.220073"
+      "scraped_at": "2026-03-29T08:52:27.513877"
     },
     {
       "id": "9243c719be951b48",
@@ -885,7 +855,7 @@
         "Teatro Aveirense",
         "Ópera"
       ],
-      "scraped_at": "2026-03-28T08:51:23.469091"
+      "scraped_at": "2026-03-29T08:52:18.245904"
     },
     {
       "id": "da7f3a68afbf59da",
@@ -900,7 +870,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-03-28T08:51:23.470747"
+      "scraped_at": "2026-03-29T08:52:18.246862"
     },
     {
       "id": "8e4fecb4cb21e49c",
@@ -915,7 +885,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.226180"
+      "scraped_at": "2026-03-29T08:52:27.516403"
     },
     {
       "id": "dccba0f8e6bd12b1",
@@ -930,7 +900,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-03-28T08:51:29.227480"
+      "scraped_at": "2026-03-29T08:52:27.517410"
     },
     {
       "id": "641e9480ab2af89b",
@@ -945,7 +915,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.231908"
+      "scraped_at": "2026-03-29T08:52:27.519426"
     },
     {
       "id": "de2f8ee69ce5451d",
@@ -960,7 +930,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.230237"
+      "scraped_at": "2026-03-29T08:52:27.518499"
     },
     {
       "id": "a18f507db3b49e0f",
@@ -975,7 +945,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-03-28T08:51:23.472625"
+      "scraped_at": "2026-03-29T08:52:18.247840"
     },
     {
       "id": "9d4b77f678f969ff",
@@ -990,7 +960,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.233128"
+      "scraped_at": "2026-03-29T08:52:27.520370"
     },
     {
       "id": "46279daf2fc8ed36",
@@ -1005,7 +975,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.234581"
+      "scraped_at": "2026-03-29T08:52:27.521411"
     },
     {
       "id": "fbfb75fc567880a2",
@@ -1020,7 +990,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.236317"
+      "scraped_at": "2026-03-29T08:52:27.522358"
     },
     {
       "id": "36daf0ddc68a12b6",
@@ -1035,7 +1005,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.237645"
+      "scraped_at": "2026-03-29T08:52:27.523236"
     },
     {
       "id": "6727fad7466088ed",
@@ -1050,7 +1020,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.239423"
+      "scraped_at": "2026-03-29T08:52:27.524181"
     },
     {
       "id": "9db3921c8052a09d",
@@ -1065,7 +1035,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.240680"
+      "scraped_at": "2026-03-29T08:52:27.525150"
     },
     {
       "id": "aa53858868395afa",
@@ -1080,7 +1050,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.242357"
+      "scraped_at": "2026-03-29T08:52:27.526033"
     },
     {
       "id": "4c278767fd5b9d73",
@@ -1095,7 +1065,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.244127"
+      "scraped_at": "2026-03-29T08:52:27.526979"
     },
     {
       "id": "7a7c725e9e967bbe",
@@ -1110,7 +1080,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.245159"
+      "scraped_at": "2026-03-29T08:52:27.527869"
     },
     {
       "id": "f51e5daa9baffe14",
@@ -1125,7 +1095,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.246696"
+      "scraped_at": "2026-03-29T08:52:27.528850"
     },
     {
       "id": "082c8f15926c308a",
@@ -1140,7 +1110,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.248329"
+      "scraped_at": "2026-03-29T08:52:27.529807"
     },
     {
       "id": "edea3b59ba7328a7",
@@ -1155,7 +1125,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.249812"
+      "scraped_at": "2026-03-29T08:52:27.531003"
     },
     {
       "id": "fd3cadc637f58088",
@@ -1170,7 +1140,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.251612"
+      "scraped_at": "2026-03-29T08:52:27.532035"
     },
     {
       "id": "91cd2c522dca018c",
@@ -1185,7 +1155,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.253124"
+      "scraped_at": "2026-03-29T08:52:27.532941"
     },
     {
       "id": "9163f534eb4ea8c9",
@@ -1200,7 +1170,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.254800"
+      "scraped_at": "2026-03-29T08:52:27.533995"
     },
     {
       "id": "595ca7702778e050",
@@ -1215,7 +1185,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.256096"
+      "scraped_at": "2026-03-29T08:52:27.534891"
     },
     {
       "id": "c1db4a502ca5c8b6",
@@ -1230,7 +1200,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.257668"
+      "scraped_at": "2026-03-29T08:52:27.535831"
     },
     {
       "id": "6fc08a0436734f89",
@@ -1245,7 +1215,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.259328"
+      "scraped_at": "2026-03-29T08:52:27.536793"
     },
     {
       "id": "bea52c23b1262ac5",
@@ -1260,7 +1230,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.260925"
+      "scraped_at": "2026-03-29T08:52:27.537843"
     },
     {
       "id": "80382f99214e106b",
@@ -1275,7 +1245,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.262648"
+      "scraped_at": "2026-03-29T08:52:27.538860"
     },
     {
       "id": "e1ae8eb0c41bd3ca",
@@ -1290,7 +1260,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-03-28T08:51:29.263696"
+      "scraped_at": "2026-03-29T08:52:27.539826"
     }
   ]
 }
