@@ -1,67 +1,7 @@
 {
-  "last_updated": "2026-05-21T11:32:44.583187",
-  "total_events": 109,
+  "last_updated": "2026-05-22T10:57:20.037815",
+  "total_events": 105,
   "events": [
-    {
-      "id": "5fbb34f1baa644eb",
-      "title": "Canais da Arte | CreArt 3.0",
-      "start_date": "2026-05-22",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/canais-da-arte-creart-3-0/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/mercado_peixe1.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-05-21T11:32:41.149012"
-    },
-    {
-      "id": "7055232b7f0c72b8",
-      "title": "Mercado de Cacia",
-      "start_date": "2026-05-22",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/mercado-de-cacia/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/grupo_folclorico_cacia4.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-05-21T11:32:41.146834"
-    },
-    {
-      "id": "8c40dc91d93e20d8",
-      "title": "Evento Sociocomunitário | Rede INCLUIR+ 2026",
-      "start_date": "2026-05-22",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/rede-incluir/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/CartazGeralEvento_2026.png.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-05-21T11:32:41.145670"
-    },
-    {
-      "id": "d6e98563d3443a6d",
-      "title": "Dia Internacional dos Museus",
-      "start_date": "2026-05-22",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/dia-internacional-dos-museus/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Dia_Int_Museus_1.png",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-05-21T11:32:41.147891"
-    },
     {
       "id": "511e35aa87730778",
       "title": "Festival da Interculturalidade 2026",
@@ -69,13 +9,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/festival-da-interculturalidade-2026/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/CartazGeralEvento_incluir_maio_1.png.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/CartazGeralEvento_incluir_maio_1.png",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.155373"
+      "scraped_at": "2026-05-22T10:57:16.880570"
     },
     {
       "id": "445cd8abcc6af249",
@@ -90,7 +30,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-05-21T11:32:44.575018"
+      "scraped_at": "2026-05-22T10:57:20.029433"
     },
     {
       "id": "8d772bee9fe33d98",
@@ -99,13 +39,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/bom-dia-ceramica-2026/",
-      "image_url": null,
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/Bom_Dia_Ceramica2026_2.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.152361"
+      "scraped_at": "2026-05-22T10:57:16.881700"
     },
     {
       "id": "595d0829b6733c8f",
@@ -114,13 +54,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/foco-na-descoberta-23o-edicao-do-concurso-aveiro-jovem-criador/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/23_maio_Lupa_jovem_criador_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/23_maio_Lupa_jovem_criador_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.154126"
+      "scraped_at": "2026-05-22T10:57:16.883644"
     },
     {
       "id": "6865c481f039a803",
@@ -135,7 +75,7 @@
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-05-21T11:32:41.151270"
+      "scraped_at": "2026-05-22T10:57:16.884707"
     },
     {
       "id": "641b16d6c2d0000a",
@@ -150,7 +90,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.150105"
+      "scraped_at": "2026-05-22T10:57:16.882698"
     },
     {
       "id": "0494dfb7936c8e5d",
@@ -159,13 +99,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-maio-2/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.157669"
+      "scraped_at": "2026-05-22T10:57:16.885708"
     },
     {
       "id": "03de6c74fbe59464",
@@ -174,13 +114,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/bom-dia-ceramica-2026-2/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/bom_dia_ceramica_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/Bom_Dia_Ceramica2026_2.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.156580"
+      "scraped_at": "2026-05-22T10:57:16.886762"
     },
     {
       "id": "8fe5a141c96307b1",
@@ -189,13 +129,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/contos-cantos-e-poemas-trimagisto-prescricoes-culturais/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/25MAI26_Prescricoes_Culturais_Contos_Trimagisto_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/25MAI26_Prescricoes_Culturais_Contos_Trimagisto_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.158803"
+      "scraped_at": "2026-05-22T10:57:16.887823"
     },
     {
       "id": "87d0d9534a7983a9",
@@ -210,7 +150,7 @@
         "Teatro Aveirense",
         "Workshop"
       ],
-      "scraped_at": "2026-05-21T11:32:34.916526"
+      "scraped_at": "2026-05-22T10:57:08.597921"
     },
     {
       "id": "b94358e683d30964",
@@ -225,7 +165,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-05-21T11:32:34.917701"
+      "scraped_at": "2026-05-22T10:57:08.599706"
     },
     {
       "id": "31d259e18073bfed",
@@ -234,13 +174,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/aconselhamento-educacional-2/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/Aconselhamento_mai.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/Aconselhamento_mai.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.159888"
+      "scraped_at": "2026-05-22T10:57:16.890473"
     },
     {
       "id": "040fd765e5ebd170",
@@ -249,13 +189,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/brava-raiz-candida-da-luz-prescricoes-culturais/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/27MAI26_Prescricoes_Culturais_Brava_Riaz_1.png.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/27MAI26_Prescricoes_Culturais_Brava_Riaz_1.png",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-05-21T11:32:41.161096"
+      "scraped_at": "2026-05-22T10:57:16.888820"
     },
     {
       "id": "5b3ec4577f92e3e0",
@@ -285,7 +225,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.163301"
+      "scraped_at": "2026-05-22T10:57:16.892524"
     },
     {
       "id": "e62f89a3483e5b07",
@@ -294,13 +234,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/quintas-com-tricot-e-outras-coisas-3/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/02/Tricot_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/02/Tricot_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.162241"
+      "scraped_at": "2026-05-22T10:57:16.891450"
     },
     {
       "id": "98a9af731011df4a",
@@ -309,13 +249,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/poetry-slam-de-aveiro-3/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/PoetrySlamAveiro_29maio.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/PoetrySlamAveiro_29maio.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-05-21T11:32:41.167963"
+      "scraped_at": "2026-05-22T10:57:16.896433"
     },
     {
       "id": "67dea4e9c45fe7ea",
@@ -330,7 +270,7 @@
         "GrETUA",
         "Formação"
       ],
-      "scraped_at": "2026-05-21T11:32:44.576573"
+      "scraped_at": "2026-05-22T10:57:20.031323"
     },
     {
       "id": "c48ad56aec6c9e79",
@@ -345,7 +285,7 @@
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-05-21T11:32:41.165559"
+      "scraped_at": "2026-05-22T10:57:16.893502"
     },
     {
       "id": "ff7f8423d1356fe8",
@@ -354,13 +294,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/mercado-do-brincar/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/ManuelFirmino_8.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Mercado.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.166761"
+      "scraped_at": "2026-05-22T10:57:16.894399"
     },
     {
       "id": "e215b185a64d7303",
@@ -369,13 +309,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/grisalde-vozes-femininas-pela-orquestra-das-beiras/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Grisalde_Quarteto_Feminino_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Grisalde_Quarteto_Feminino_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-05-21T11:32:41.164522"
+      "scraped_at": "2026-05-22T10:57:16.895328"
     },
     {
       "id": "9243c719be951b48",
@@ -390,7 +330,7 @@
         "Teatro Aveirense",
         "Ópera"
       ],
-      "scraped_at": "2026-05-21T11:32:34.918868"
+      "scraped_at": "2026-05-22T10:57:08.600785"
     },
     {
       "id": "c1498715bc860ae9",
@@ -399,13 +339,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/a-morte-do-diabo-opereta/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/a_morte_do_diabo.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/a_morte_do_diabo.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-05-21T11:32:41.169724"
+      "scraped_at": "2026-05-22T10:57:16.897460"
     },
     {
       "id": "81f9eb54ffde67ed",
@@ -414,13 +354,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/sessao-de-contos-e-musica-para-bebes-por-to-ze-novais-e-sofia-morais/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Bebeteca_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Bebeteca_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-05-21T11:32:41.172070"
+      "scraped_at": "2026-05-22T10:57:16.900485"
     },
     {
       "id": "4822a5c36c713d2b",
@@ -435,7 +375,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.173284"
+      "scraped_at": "2026-05-22T10:57:16.899533"
     },
     {
       "id": "e08d0dc23c57d039",
@@ -450,7 +390,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.170909"
+      "scraped_at": "2026-05-22T10:57:16.898487"
     },
     {
       "id": "fc3c5b2190cd35da",
@@ -465,7 +405,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-05-21T11:32:41.176641"
+      "scraped_at": "2026-05-22T10:57:16.902317"
     },
     {
       "id": "ffd752524377ab79",
@@ -474,13 +414,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/dia-da-crianca/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Dia_Crianca_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Dia_Crianca_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.175357"
+      "scraped_at": "2026-05-22T10:57:16.901428"
     },
     {
       "id": "76a5078305034739",
@@ -495,7 +435,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.174339"
+      "scraped_at": "2026-05-22T10:57:16.903310"
     },
     {
       "id": "c81b2a236d06ff48",
@@ -510,7 +450,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-05-21T11:32:34.920266"
+      "scraped_at": "2026-05-22T10:57:08.602044"
     },
     {
       "id": "e83c192edd2b3a4f",
@@ -525,7 +465,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-05-21T11:32:34.921301"
+      "scraped_at": "2026-05-22T10:57:08.603247"
     },
     {
       "id": "221b7fabff191b8e",
@@ -534,13 +474,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/only-duos/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/Only-Duos_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/Only-Duos_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.177731"
+      "scraped_at": "2026-05-22T10:57:16.904486"
     },
     {
       "id": "11be8025174591c3",
@@ -555,7 +495,7 @@
         "GrETUA",
         "Teatro e Dança"
       ],
-      "scraped_at": "2026-05-21T11:32:44.577853"
+      "scraped_at": "2026-05-22T10:57:20.032452"
     },
     {
       "id": "7d334ab09257f03d",
@@ -564,13 +504,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/caminho-de-santiago-a-vela-2026/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/DJI_0177_cais_do_sal.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/DJI_0177_cais_do_sal.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.178801"
+      "scraped_at": "2026-05-22T10:57:16.905485"
     },
     {
       "id": "e23351d604a17011",
@@ -579,13 +519,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/recitais-finais-do-8o-grau/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Foto_5_EACMCGA_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Foto_5_EACMCGA_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-05-21T11:32:41.179884"
+      "scraped_at": "2026-05-22T10:57:16.908382"
     },
     {
       "id": "897d61098a11cff3",
@@ -594,13 +534,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/evento-final-das-residencias-artisticas-steam/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/ResidenciasSTEAM_ThumbnailNoticia_PT-copy.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/ResidenciasSTEAM_ThumbnailNoticia_PT-copy.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.181085"
+      "scraped_at": "2026-05-22T10:57:16.906460"
     },
     {
       "id": "076567ecbd51dffd",
@@ -615,7 +555,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.182407"
+      "scraped_at": "2026-05-22T10:57:16.907375"
     },
     {
       "id": "ffb6c66142fc76f9",
@@ -630,7 +570,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.183629"
+      "scraped_at": "2026-05-22T10:57:16.909259"
     },
     {
       "id": "da7f3a68afbf59da",
@@ -645,7 +585,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-05-21T11:32:34.922334"
+      "scraped_at": "2026-05-22T10:57:08.604453"
     },
     {
       "id": "c2d9963bce358b19",
@@ -654,13 +594,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/the-simon-garfunkel-story/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/the_simon_garfunkel_story_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/the_simon_garfunkel_story_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-05-21T11:32:41.184895"
+      "scraped_at": "2026-05-22T10:57:16.910197"
     },
     {
       "id": "c9fe9136713e2d14",
@@ -675,7 +615,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-05-21T11:32:44.579116"
+      "scraped_at": "2026-05-22T10:57:20.033532"
     },
     {
       "id": "cc2f523e5f4e2d1d",
@@ -684,12 +624,12 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/semana-educacao/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/0P0A7873_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/0P0A7873_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn"
       ],
-      "scraped_at": "2026-05-21T11:32:41.186041"
+      "scraped_at": "2026-05-22T10:57:16.912107"
     },
     {
       "id": "f36240cf4f62b081",
@@ -698,13 +638,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/semana-internacional-dos-arquivos/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Semana_Internacional_Arquivos_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Semana_Internacional_Arquivos_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-05-21T11:32:41.187125"
+      "scraped_at": "2026-05-22T10:57:16.911121"
     },
     {
       "id": "7da5b62322a408a2",
@@ -713,13 +653,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/concerto-final-de-ano/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Foto_4_EACMCGA_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Foto_4_EACMCGA_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-05-21T11:32:41.188190"
+      "scraped_at": "2026-05-22T10:57:16.913124"
     },
     {
       "id": "62aff7d244fc13ea",
@@ -728,13 +668,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/evento-final-do-concurso-uma-ideia-um-projeto-uma-acao/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Uma_Ideia_um_Projeto.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Uma_Ideia_um_Projeto.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.189452"
+      "scraped_at": "2026-05-22T10:57:16.914113"
     },
     {
       "id": "ffb72d8d1edbfa6a",
@@ -743,13 +683,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/mais-que-po-de-arroz-mulheres-em-1900/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Exposicao_Po_de_Arroz_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Exposicao_Po_de_Arroz_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Exposicoes"
       ],
-      "scraped_at": "2026-05-21T11:32:41.190467"
+      "scraped_at": "2026-05-22T10:57:16.915117"
     },
     {
       "id": "fcb6adf73cc361ef",
@@ -764,7 +704,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-05-21T11:32:34.923521"
+      "scraped_at": "2026-05-22T10:57:08.605528"
     },
     {
       "id": "55469b301ccf9de6",
@@ -773,13 +713,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/onyx/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/onyx-piny_2.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/onyx-piny_2.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.192614"
+      "scraped_at": "2026-05-22T10:57:16.915994"
     },
     {
       "id": "e1b23814497fe219",
@@ -788,13 +728,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/semana-cultural/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Foto_6_EACMCGA_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Foto_6_EACMCGA_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-05-21T11:32:41.191661"
+      "scraped_at": "2026-05-22T10:57:16.916967"
     },
     {
       "id": "633eb1d7d8c74da7",
@@ -809,7 +749,7 @@
         "Teatro Aveirense",
         "Multidisciplinar"
       ],
-      "scraped_at": "2026-05-21T11:32:34.924678"
+      "scraped_at": "2026-05-22T10:57:08.606512"
     },
     {
       "id": "04d46a33f1b0b5f9",
@@ -818,13 +758,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/18-pontos/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/18-pontos-andreia-ribeiro-da-silva.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/18-pontos-andreia-ribeiro-da-silva.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.193751"
+      "scraped_at": "2026-05-22T10:57:16.917890"
     },
     {
       "id": "1e4c6ad8fab8cf35",
@@ -839,7 +779,7 @@
         "GrETUA",
         "Concertos"
       ],
-      "scraped_at": "2026-05-21T11:32:44.580510"
+      "scraped_at": "2026-05-22T10:57:20.034583"
     },
     {
       "id": "8e4fecb4cb21e49c",
@@ -848,13 +788,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-6/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.194977"
+      "scraped_at": "2026-05-22T10:57:16.918764"
     },
     {
       "id": "b7af50361bb5dd38",
@@ -863,13 +803,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/festa-arte-nova/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Festa_Arte_Nova_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/Festa_Arte_Nova_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.196155"
+      "scraped_at": "2026-05-22T10:57:16.919709"
     },
     {
       "id": "0ee9bfc571c001fd",
@@ -878,13 +818,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/curso-de-treinadores-de-surfing-grau-i/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/curso_Treinadores_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/curso_Treinadores_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.197362"
+      "scraped_at": "2026-05-22T10:57:16.920896"
     },
     {
       "id": "1f17f67e4d1d1b91",
@@ -899,7 +839,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-05-21T11:32:34.925641"
+      "scraped_at": "2026-05-22T10:57:08.607528"
     },
     {
       "id": "7cd0861814cb6e93",
@@ -908,13 +848,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/origami-da-ria-oficinas-com-vida/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/origami_na_ria.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/origami_na_ria.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.200664"
+      "scraped_at": "2026-05-22T10:57:16.924088"
     },
     {
       "id": "e5953903f79e4819",
@@ -923,13 +863,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/biblioteca-municipal-itinerante-prescricoes-culturais/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/Biblioteca-Itenerante-0015-scaled.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/Biblioteca-Itenerante-0015-scaled.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-05-21T11:32:41.199559"
+      "scraped_at": "2026-05-22T10:57:16.923078"
     },
     {
       "id": "dccba0f8e6bd12b1",
@@ -938,13 +878,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/plantas-medicinais-cinco-plantas-que-mudaram-o-rumo-da-historia/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/flora_na_casa_1.png.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/03/flora_na_casa_1.png",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.198442"
+      "scraped_at": "2026-05-22T10:57:16.921989"
     },
     {
       "id": "199739808f6d277b",
@@ -959,7 +899,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-05-21T11:32:34.926949"
+      "scraped_at": "2026-05-22T10:57:08.608497"
     },
     {
       "id": "0e33295124c2f01f",
@@ -968,13 +908,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/conversas-na-casa-geracoes-que-cuidam/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/casa_2022.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/casa_2022.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.202150"
+      "scraped_at": "2026-05-22T10:57:16.925125"
     },
     {
       "id": "b5f7d90c7d76042b",
@@ -989,7 +929,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-05-21T11:32:34.928545"
+      "scraped_at": "2026-05-22T10:57:08.609507"
     },
     {
       "id": "6647896e76ef5331",
@@ -998,13 +938,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/peddy-paper-a-descoberta-da-cidade/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/20_junho_Descoberta_cidade1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/20_junho_Descoberta_cidade1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.203327"
+      "scraped_at": "2026-05-22T10:57:16.926097"
     },
     {
       "id": "2fcb2d534fe713d6",
@@ -1013,13 +953,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/xiv-rota-da-mamoa/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/cartaz_rota_mamoa_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/cartaz_rota_mamoa_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.204311"
+      "scraped_at": "2026-05-22T10:57:16.927208"
     },
     {
       "id": "c2e86ec5fb4f7675",
@@ -1028,13 +968,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/junho-florido-oficinas-com-vida/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/florido_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/florido_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.205446"
+      "scraped_at": "2026-05-22T10:57:16.929219"
     },
     {
       "id": "409519357459d4ae",
@@ -1043,13 +983,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/contos-tradicionais-e-outros-que-tais-gusta-santos-prescricoes-culturais/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/24JUN26_Contos_Tradicionais_Gusta_Costa_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/24JUN26_Contos_Tradicionais_Gusta_Costa_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.206392"
+      "scraped_at": "2026-05-22T10:57:16.928177"
     },
     {
       "id": "7ef03bacff339c58",
@@ -1064,7 +1004,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-05-21T11:32:34.929667"
+      "scraped_at": "2026-05-22T10:57:08.610614"
     },
     {
       "id": "c545ec69d31d8e3a",
@@ -1073,13 +1013,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/uma-aventura-no-atlas-visita-guiada/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/09/MMF_LFA_20200902_037.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/09/MMF_LFA_20200902_037.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.208609"
+      "scraped_at": "2026-05-22T10:57:16.930265"
     },
     {
       "id": "3fb652f50e615b7a",
@@ -1088,13 +1028,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/com-trapos-e-farrapos-vamos-fazer-uma-boneca-de-meia-e-trapos/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/27_junho_mini_boneca_pano_1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/27_junho_mini_boneca_pano_1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.207600"
+      "scraped_at": "2026-05-22T10:57:16.931176"
     },
     {
       "id": "641e9480ab2af89b",
@@ -1103,13 +1043,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-junho/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.209663"
+      "scraped_at": "2026-05-22T10:57:16.932145"
     },
     {
       "id": "de2f8ee69ce5451d",
@@ -1124,7 +1064,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.210594"
+      "scraped_at": "2026-05-22T10:57:16.933114"
     },
     {
       "id": "bfbf1e8c023e7c4d",
@@ -1139,7 +1079,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-05-21T11:32:34.930810"
+      "scraped_at": "2026-05-22T10:57:08.611620"
     },
     {
       "id": "933ae7bed625b611",
@@ -1148,13 +1088,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/tardes-steam-na-casa-verao/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/TardesSteam_agenda.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/TardesSteam_agenda.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.211723"
+      "scraped_at": "2026-05-22T10:57:16.934940"
     },
     {
       "id": "1827fe3736ca1ed5",
@@ -1163,13 +1103,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/fiasco-companhia-marimbondo-prescricoes-culturais/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/29JUN26_Fiasco_Companhia_Marimbondo_1.png.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/29JUN26_Fiasco_Companhia_Marimbondo_1.png",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-05-21T11:32:41.213598"
+      "scraped_at": "2026-05-22T10:57:16.934051"
     },
     {
       "id": "a18f507db3b49e0f",
@@ -1184,7 +1124,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-05-21T11:32:34.931914"
+      "scraped_at": "2026-05-22T10:57:08.612838"
     },
     {
       "id": "a9a9c2d3d5f8ace1",
@@ -1199,7 +1139,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-05-21T11:32:34.933073"
+      "scraped_at": "2026-05-22T10:57:08.613822"
     },
     {
       "id": "9d4b77f678f969ff",
@@ -1208,13 +1148,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-7/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.214740"
+      "scraped_at": "2026-05-22T10:57:16.935889"
     },
     {
       "id": "173d7445307a790b",
@@ -1229,7 +1169,7 @@
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-05-21T11:32:34.934076"
+      "scraped_at": "2026-05-22T10:57:08.614851"
     },
     {
       "id": "f5edc4976cb1161b",
@@ -1244,7 +1184,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-05-21T11:32:34.935093"
+      "scraped_at": "2026-05-22T10:57:08.615801"
     },
     {
       "id": "46279daf2fc8ed36",
@@ -1253,13 +1193,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-julho/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.215971"
+      "scraped_at": "2026-05-22T10:57:16.940984"
     },
     {
       "id": "1c2627e6ec3446a9",
@@ -1274,7 +1214,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-05-21T11:32:34.936248"
+      "scraped_at": "2026-05-22T10:57:08.616923"
     },
     {
       "id": "fbfb75fc567880a2",
@@ -1289,7 +1229,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.217186"
+      "scraped_at": "2026-05-22T10:57:16.942169"
     },
     {
       "id": "7c6234a018d88648",
@@ -1304,7 +1244,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-05-21T11:32:34.937373"
+      "scraped_at": "2026-05-22T10:57:08.621177"
     },
     {
       "id": "1a7555db91957df4",
@@ -1319,7 +1259,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-05-21T11:32:34.938702"
+      "scraped_at": "2026-05-22T10:57:08.622286"
     },
     {
       "id": "7f6b35e76515f00a",
@@ -1334,7 +1274,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-05-21T11:32:34.939662"
+      "scraped_at": "2026-05-22T10:57:08.623375"
     },
     {
       "id": "36daf0ddc68a12b6",
@@ -1343,13 +1283,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-8/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.218386"
+      "scraped_at": "2026-05-22T10:57:16.943205"
     },
     {
       "id": "0a78d7c935b22015",
@@ -1364,7 +1304,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-05-21T11:32:34.941050"
+      "scraped_at": "2026-05-22T10:57:08.624304"
     },
     {
       "id": "6727fad7466088ed",
@@ -1373,13 +1313,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-agosto-edicao-extra/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.219421"
+      "scraped_at": "2026-05-22T10:57:16.944098"
     },
     {
       "id": "9db3921c8052a09d",
@@ -1388,13 +1328,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-agosto-edicao-extra-2/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.220483"
+      "scraped_at": "2026-05-22T10:57:16.945076"
     },
     {
       "id": "aa53858868395afa",
@@ -1403,13 +1343,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-agosto/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.221446"
+      "scraped_at": "2026-05-22T10:57:16.946169"
     },
     {
       "id": "4c278767fd5b9d73",
@@ -1424,7 +1364,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.222460"
+      "scraped_at": "2026-05-22T10:57:16.947170"
     },
     {
       "id": "7a7c725e9e967bbe",
@@ -1433,13 +1373,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-9/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.223464"
+      "scraped_at": "2026-05-22T10:57:16.948151"
     },
     {
       "id": "f51e5daa9baffe14",
@@ -1448,13 +1388,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-setembro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.224667"
+      "scraped_at": "2026-05-22T10:57:16.949058"
     },
     {
       "id": "082c8f15926c308a",
@@ -1469,7 +1409,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.225642"
+      "scraped_at": "2026-05-22T10:57:16.950038"
     },
     {
       "id": "edea3b59ba7328a7",
@@ -1478,13 +1418,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-outubro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.226582"
+      "scraped_at": "2026-05-22T10:57:16.950946"
     },
     {
       "id": "fd3cadc637f58088",
@@ -1493,13 +1433,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-outubro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.227816"
+      "scraped_at": "2026-05-22T10:57:16.951881"
     },
     {
       "id": "91cd2c522dca018c",
@@ -1514,7 +1454,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.228842"
+      "scraped_at": "2026-05-22T10:57:16.953019"
     },
     {
       "id": "53584efcd6d4bf5f",
@@ -1529,7 +1469,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-05-21T11:32:34.942399"
+      "scraped_at": "2026-05-22T10:57:08.625309"
     },
     {
       "id": "9163f534eb4ea8c9",
@@ -1538,13 +1478,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-novembro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.229947"
+      "scraped_at": "2026-05-22T10:57:16.953966"
     },
     {
       "id": "595ca7702778e050",
@@ -1553,13 +1493,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-novembro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.231017"
+      "scraped_at": "2026-05-22T10:57:16.954964"
     },
     {
       "id": "c1db4a502ca5c8b6",
@@ -1568,13 +1508,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-dezembro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.232085"
+      "scraped_at": "2026-05-22T10:57:16.955914"
     },
     {
       "id": "6fc08a0436734f89",
@@ -1589,7 +1529,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.233385"
+      "scraped_at": "2026-05-22T10:57:16.956960"
     },
     {
       "id": "bea52c23b1262ac5",
@@ -1598,13 +1538,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/artes-no-canal-dezembro-edicao-extra-2/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/artes1.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.234619"
+      "scraped_at": "2026-05-22T10:57:16.957977"
     },
     {
       "id": "80382f99214e106b",
@@ -1613,13 +1553,13 @@
       "end_date": null,
       "location": "Aveiro",
       "url": "https://aveiroon.cm-aveiro.pt/eventos/feira-das-velharias-dezembro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg.webp",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/12/Feira_das_Velharias.jpg",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.235751"
+      "scraped_at": "2026-05-22T10:57:16.958961"
     },
     {
       "id": "e1ae8eb0c41bd3ca",
@@ -1634,7 +1574,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-05-21T11:32:41.236881"
+      "scraped_at": "2026-05-22T10:57:16.959883"
     }
   ]
 }
