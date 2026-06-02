@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-06-01T13:45:19.340686",
-  "total_events": 80,
+  "last_updated": "2026-06-02T12:13:08.465261",
+  "total_events": 81,
   "events": [
-    {
-      "id": "c81b2a236d06ff48",
-      "title": "Romaria - Os Filmes das Nossas Terças | Sessão Especial",
-      "start_date": "2026-06-02",
-      "end_date": null,
-      "location": "Teatro Aveirense",
-      "url": "https://www.teatroaveirense.pt/pt/evento/romaria-os-filmes-das-nossas-tercas-sessao-especial/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/romaria-os-filmes-das-nossas-tercas-sessao-especial_img6a07495b6d21b.jpg",
-      "source": "Teatro Aveirense",
-      "tags": [
-        "Teatro Aveirense",
-        "Cinema"
-      ],
-      "scraped_at": "2026-06-01T13:45:07.081476"
-    },
     {
       "id": "e83c192edd2b3a4f",
       "title": "Only Duos - Companhia Nacional de Bailado",
@@ -30,7 +15,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-01T13:45:07.082778"
+      "scraped_at": "2026-06-02T12:12:34.672571"
     },
     {
       "id": "221b7fabff191b8e",
@@ -60,7 +45,7 @@
         "GrETUA",
         "Teatro e Dança"
       ],
-      "scraped_at": "2026-06-01T13:45:19.333838"
+      "scraped_at": "2026-06-02T12:13:08.454653"
     },
     {
       "id": "7d334ab09257f03d",
@@ -150,7 +135,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-01T13:45:07.084501"
+      "scraped_at": "2026-06-02T12:12:35.028275"
     },
     {
       "id": "c2d9963bce358b19",
@@ -180,7 +165,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-01T13:45:19.335707"
+      "scraped_at": "2026-06-02T12:13:08.457536"
     },
     {
       "id": "cc2f523e5f4e2d1d",
@@ -269,7 +254,7 @@
         "Teatro Aveirense",
         "Multidisciplinar"
       ],
-      "scraped_at": "2026-06-01T13:45:07.085406"
+      "scraped_at": "2026-06-02T12:12:35.029276"
     },
     {
       "id": "fcb6adf73cc361ef",
@@ -284,7 +269,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-01T13:45:07.086184"
+      "scraped_at": "2026-06-02T12:12:35.030188"
     },
     {
       "id": "55469b301ccf9de6",
@@ -329,7 +314,7 @@
         "Teatro Aveirense",
         "Multidisciplinar"
       ],
-      "scraped_at": "2026-06-01T13:45:07.087125"
+      "scraped_at": "2026-06-02T12:12:35.031038"
     },
     {
       "id": "04d46a33f1b0b5f9",
@@ -359,7 +344,7 @@
         "GrETUA",
         "Concertos"
       ],
-      "scraped_at": "2026-06-01T13:45:19.336912"
+      "scraped_at": "2026-06-02T12:13:08.459281"
     },
     {
       "id": "8e4fecb4cb21e49c",
@@ -392,6 +377,21 @@
       "scraped_at": "2026-06-01T13:45:15.889931"
     },
     {
+      "id": "df2ca67bc8688436",
+      "title": "Os Lusíadas como nunca os ouviu - Os Lusíadas de Lisboa à Índia Ida e Volta / António Fonseca",
+      "start_date": "2026-06-14",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/os-lusiadas-como-nunca-os-ouviu-os-lusiadas-de-lisboa-a-india-ida-e-volta/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/os-lusiadas-como-nunca-os-ouviu-os-lusiadas-de-lisboa-a-india-ida-e-volta_img6a107cd6ece40.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Performance/Leitura"
+      ],
+      "scraped_at": "2026-06-02T12:12:35.031894"
+    },
+    {
       "id": "0ee9bfc571c001fd",
       "title": "Curso de treinadores de Surfing Grau I",
       "start_date": "2026-06-15",
@@ -419,7 +419,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-01T13:45:07.088871"
+      "scraped_at": "2026-06-02T12:12:35.033251"
     },
     {
       "id": "7cd0861814cb6e93",
@@ -479,7 +479,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-01T13:45:07.089662"
+      "scraped_at": "2026-06-02T12:12:35.034131"
     },
     {
       "id": "0e33295124c2f01f",
@@ -509,7 +509,7 @@
         "GrETUA",
         "Concertos"
       ],
-      "scraped_at": "2026-06-01T13:45:19.337890"
+      "scraped_at": "2026-06-02T12:13:08.460939"
     },
     {
       "id": "b5f7d90c7d76042b",
@@ -524,7 +524,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-06-01T13:45:07.090642"
+      "scraped_at": "2026-06-02T12:12:35.034936"
     },
     {
       "id": "6647896e76ef5331",
@@ -554,7 +554,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-01T13:45:19.338933"
+      "scraped_at": "2026-06-02T12:13:08.461948"
     },
     {
       "id": "2fcb2d534fe713d6",
@@ -585,6 +585,21 @@
         "Eventos"
       ],
       "scraped_at": "2026-06-01T13:45:15.895910"
+    },
+    {
+      "id": "660744df9c76815d",
+      "title": "Figuras de Graça #2 | Alma Viva (2022)",
+      "start_date": "2026-06-22",
+      "end_date": null,
+      "location": "GrETUA",
+      "url": "https://www.viralagenda.com/pt/events/1807276/figuras-de-graca-2-alma-viva-2022",
+      "image_url": "https://cdn.viralagenda.com/images/events/ext/1807276-b2a8254be21425dac0bb0377947680d6.jpeg",
+      "source": "GrETUA",
+      "tags": [
+        "GrETUA",
+        "Cinema e Vídeo"
+      ],
+      "scraped_at": "2026-06-02T12:13:08.463145"
     },
     {
       "id": "c2e86ec5fb4f7675",
@@ -629,7 +644,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-01T13:45:07.091490"
+      "scraped_at": "2026-06-02T12:12:35.035758"
     },
     {
       "id": "c545ec69d31d8e3a",
@@ -704,7 +719,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-01T13:45:07.092342"
+      "scraped_at": "2026-06-02T12:12:35.036567"
     },
     {
       "id": "933ae7bed625b611",
@@ -749,7 +764,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-06-01T13:45:07.093225"
+      "scraped_at": "2026-06-02T12:12:35.037394"
     },
     {
       "id": "a9a9c2d3d5f8ace1",
@@ -764,7 +779,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-01T13:45:07.094049"
+      "scraped_at": "2026-06-02T12:12:35.038242"
     },
     {
       "id": "9d4b77f678f969ff",
@@ -794,7 +809,7 @@
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-06-01T13:45:07.094883"
+      "scraped_at": "2026-06-02T12:12:35.039001"
     },
     {
       "id": "f5edc4976cb1161b",
@@ -809,7 +824,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-01T13:45:07.095661"
+      "scraped_at": "2026-06-02T12:12:35.039811"
     },
     {
       "id": "46279daf2fc8ed36",
@@ -839,7 +854,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-01T13:45:07.096495"
+      "scraped_at": "2026-06-02T12:12:35.040573"
     },
     {
       "id": "fbfb75fc567880a2",
@@ -869,7 +884,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-01T13:45:07.097356"
+      "scraped_at": "2026-06-02T12:12:35.041419"
     },
     {
       "id": "1a7555db91957df4",
@@ -884,7 +899,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-06-01T13:45:07.098136"
+      "scraped_at": "2026-06-02T12:12:35.042190"
     },
     {
       "id": "7f6b35e76515f00a",
@@ -899,7 +914,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-01T13:45:07.099002"
+      "scraped_at": "2026-06-02T12:12:35.043038"
     },
     {
       "id": "36daf0ddc68a12b6",
@@ -929,7 +944,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-06-01T13:45:07.099831"
+      "scraped_at": "2026-06-02T12:12:35.043857"
     },
     {
       "id": "6727fad7466088ed",
@@ -1094,7 +1109,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-01T13:45:07.100664"
+      "scraped_at": "2026-06-02T12:12:35.044598"
     },
     {
       "id": "9163f534eb4ea8c9",
