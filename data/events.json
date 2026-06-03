@@ -1,52 +1,7 @@
 {
-  "last_updated": "2026-06-02T12:13:08.465261",
-  "total_events": 81,
+  "last_updated": "2026-06-03T12:47:58.167217",
+  "total_events": 79,
   "events": [
-    {
-      "id": "e83c192edd2b3a4f",
-      "title": "Only Duos - Companhia Nacional de Bailado",
-      "start_date": "2026-06-03",
-      "end_date": null,
-      "location": "Teatro Aveirense",
-      "url": "https://www.teatroaveirense.pt/pt/evento/only-duos/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/only-duos-companhia-nacional-de-bailado_img69d52ce8f159c.jpg",
-      "source": "Teatro Aveirense",
-      "tags": [
-        "Teatro Aveirense",
-        "Dança"
-      ],
-      "scraped_at": "2026-06-02T12:12:34.672571"
-    },
-    {
-      "id": "221b7fabff191b8e",
-      "title": "Only Duos",
-      "start_date": "2026-06-03",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/only-duos/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/Only-Duos_1.jpg",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-06-01T13:45:15.878238"
-    },
-    {
-      "id": "11be8025174591c3",
-      "title": "Quando Ainda Gostávamos Todos Uns dos Outros, do NAVIO",
-      "start_date": "2026-06-03",
-      "end_date": null,
-      "location": "GrETUA",
-      "url": "https://www.viralagenda.com/pt/events/1787017/quando-ainda-gostavamos-todos-uns-dos-outros-do-navio",
-      "image_url": "https://cdn.viralagenda.com/images/events/ext/1787017-55d68c0607d49a4120fe4b58f9d32391.jpeg",
-      "source": "GrETUA",
-      "tags": [
-        "GrETUA",
-        "Teatro e Dança"
-      ],
-      "scraped_at": "2026-06-02T12:13:08.454653"
-    },
     {
       "id": "7d334ab09257f03d",
       "title": "Caminho de Santiago à Vela 2026",
@@ -135,7 +90,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-02T12:12:35.028275"
+      "scraped_at": "2026-06-03T12:47:25.022878"
     },
     {
       "id": "c2d9963bce358b19",
@@ -165,7 +120,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-02T12:13:08.457536"
+      "scraped_at": "2026-06-03T12:47:58.160854"
     },
     {
       "id": "cc2f523e5f4e2d1d",
@@ -254,7 +209,7 @@
         "Teatro Aveirense",
         "Multidisciplinar"
       ],
-      "scraped_at": "2026-06-02T12:12:35.029276"
+      "scraped_at": "2026-06-03T12:47:25.023957"
     },
     {
       "id": "fcb6adf73cc361ef",
@@ -269,7 +224,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-02T12:12:35.030188"
+      "scraped_at": "2026-06-03T12:47:25.024860"
     },
     {
       "id": "55469b301ccf9de6",
@@ -314,7 +269,7 @@
         "Teatro Aveirense",
         "Multidisciplinar"
       ],
-      "scraped_at": "2026-06-02T12:12:35.031038"
+      "scraped_at": "2026-06-03T12:47:25.026270"
     },
     {
       "id": "04d46a33f1b0b5f9",
@@ -344,7 +299,7 @@
         "GrETUA",
         "Concertos"
       ],
-      "scraped_at": "2026-06-02T12:13:08.459281"
+      "scraped_at": "2026-06-03T12:47:58.161908"
     },
     {
       "id": "8e4fecb4cb21e49c",
@@ -389,7 +344,7 @@
         "Teatro Aveirense",
         "Performance/Leitura"
       ],
-      "scraped_at": "2026-06-02T12:12:35.031894"
+      "scraped_at": "2026-06-03T12:47:25.027140"
     },
     {
       "id": "0ee9bfc571c001fd",
@@ -419,7 +374,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-02T12:12:35.033251"
+      "scraped_at": "2026-06-03T12:47:25.028090"
     },
     {
       "id": "7cd0861814cb6e93",
@@ -479,7 +434,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-02T12:12:35.034131"
+      "scraped_at": "2026-06-03T12:47:25.029434"
     },
     {
       "id": "0e33295124c2f01f",
@@ -509,7 +464,7 @@
         "GrETUA",
         "Concertos"
       ],
-      "scraped_at": "2026-06-02T12:13:08.460939"
+      "scraped_at": "2026-06-03T12:47:58.162817"
     },
     {
       "id": "b5f7d90c7d76042b",
@@ -524,7 +479,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-06-02T12:12:35.034936"
+      "scraped_at": "2026-06-03T12:47:25.030333"
     },
     {
       "id": "6647896e76ef5331",
@@ -554,7 +509,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-02T12:13:08.461948"
+      "scraped_at": "2026-06-03T12:47:58.163783"
     },
     {
       "id": "2fcb2d534fe713d6",
@@ -599,7 +554,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-02T12:13:08.463145"
+      "scraped_at": "2026-06-03T12:47:58.164735"
     },
     {
       "id": "c2e86ec5fb4f7675",
@@ -644,7 +599,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-02T12:12:35.035758"
+      "scraped_at": "2026-06-03T12:47:25.031218"
     },
     {
       "id": "c545ec69d31d8e3a",
@@ -719,7 +674,22 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-02T12:12:35.036567"
+      "scraped_at": "2026-06-03T12:47:25.032093"
+    },
+    {
+      "id": "9e353eecbb48542e",
+      "title": "Oficina de Cocktails, com Francisco Faria e Rafael Madail",
+      "start_date": "2026-06-28",
+      "end_date": null,
+      "location": "GrETUA",
+      "url": "https://www.viralagenda.com/pt/events/1807277/oficina-de-cocktails-com-francisco-faria-e-rafael-madail",
+      "image_url": "https://cdn.viralagenda.com/images/events/ext/1807277-61a20a0ca7bbbc2990a9c7041dc688ff.jpeg",
+      "source": "GrETUA",
+      "tags": [
+        "GrETUA",
+        "Gastronomia"
+      ],
+      "scraped_at": "2026-06-03T12:47:58.165731"
     },
     {
       "id": "933ae7bed625b611",
@@ -764,7 +734,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-06-02T12:12:35.037394"
+      "scraped_at": "2026-06-03T12:47:25.033562"
     },
     {
       "id": "a9a9c2d3d5f8ace1",
@@ -779,7 +749,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-02T12:12:35.038242"
+      "scraped_at": "2026-06-03T12:47:25.034596"
     },
     {
       "id": "9d4b77f678f969ff",
@@ -809,7 +779,7 @@
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-06-02T12:12:35.039001"
+      "scraped_at": "2026-06-03T12:47:25.035515"
     },
     {
       "id": "f5edc4976cb1161b",
@@ -824,7 +794,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-02T12:12:35.039811"
+      "scraped_at": "2026-06-03T12:47:25.087923"
     },
     {
       "id": "46279daf2fc8ed36",
@@ -854,7 +824,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-02T12:12:35.040573"
+      "scraped_at": "2026-06-03T12:47:25.089159"
     },
     {
       "id": "fbfb75fc567880a2",
@@ -884,7 +854,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-02T12:12:35.041419"
+      "scraped_at": "2026-06-03T12:47:25.090821"
     },
     {
       "id": "1a7555db91957df4",
@@ -899,7 +869,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-06-02T12:12:35.042190"
+      "scraped_at": "2026-06-03T12:47:25.093873"
     },
     {
       "id": "7f6b35e76515f00a",
@@ -914,7 +884,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-02T12:12:35.043038"
+      "scraped_at": "2026-06-03T12:47:25.098485"
     },
     {
       "id": "36daf0ddc68a12b6",
@@ -944,7 +914,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-06-02T12:12:35.043857"
+      "scraped_at": "2026-06-03T12:47:25.099533"
     },
     {
       "id": "6727fad7466088ed",
@@ -1109,7 +1079,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-02T12:12:35.044598"
+      "scraped_at": "2026-06-03T12:47:25.100584"
     },
     {
       "id": "9163f534eb4ea8c9",
