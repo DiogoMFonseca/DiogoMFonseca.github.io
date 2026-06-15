@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-06-14T10:53:45.241229",
-  "total_events": 59,
+  "last_updated": "2026-06-15T14:35:01.102798",
+  "total_events": 58,
   "events": [
-    {
-      "id": "0ee9bfc571c001fd",
-      "title": "Curso de treinadores de Surfing Grau I",
-      "start_date": "2026-06-15",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/curso-de-treinadores-de-surfing-grau-i/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/curso_Treinadores_1.jpg",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-06-14T10:53:41.584608"
-    },
     {
       "id": "1f17f67e4d1d1b91",
       "title": "O Barqueiro - Os Filmes das Nossas Terças | Sessão Especial",
@@ -30,7 +15,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-14T10:53:30.989451"
+      "scraped_at": "2026-06-15T14:34:27.835897"
     },
     {
       "id": "7cd0861814cb6e93",
@@ -90,7 +75,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-14T10:53:30.990264"
+      "scraped_at": "2026-06-15T14:34:27.837565"
     },
     {
       "id": "0e33295124c2f01f",
@@ -120,7 +105,7 @@
         "GrETUA",
         "Concertos"
       ],
-      "scraped_at": "2026-06-14T10:53:45.233810"
+      "scraped_at": "2026-06-15T14:35:01.095117"
     },
     {
       "id": "b5f7d90c7d76042b",
@@ -135,7 +120,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-06-14T10:53:30.991113"
+      "scraped_at": "2026-06-15T14:34:27.838720"
     },
     {
       "id": "6647896e76ef5331",
@@ -165,7 +150,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-14T10:53:45.235861"
+      "scraped_at": "2026-06-15T14:35:01.096914"
     },
     {
       "id": "2fcb2d534fe713d6",
@@ -210,7 +195,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-14T10:53:45.237033"
+      "scraped_at": "2026-06-15T14:35:01.098002"
     },
     {
       "id": "c2e86ec5fb4f7675",
@@ -255,7 +240,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-14T10:53:30.991917"
+      "scraped_at": "2026-06-15T14:34:27.839709"
     },
     {
       "id": "c545ec69d31d8e3a",
@@ -330,7 +315,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-14T10:53:30.992712"
+      "scraped_at": "2026-06-15T14:34:27.841263"
     },
     {
       "id": "9e353eecbb48542e",
@@ -345,7 +330,7 @@
         "GrETUA",
         "Gastronomia"
       ],
-      "scraped_at": "2026-06-14T10:53:45.238003"
+      "scraped_at": "2026-06-15T14:35:01.099041"
     },
     {
       "id": "933ae7bed625b611",
@@ -390,7 +375,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-06-14T10:53:30.993503"
+      "scraped_at": "2026-06-15T14:34:27.842211"
     },
     {
       "id": "4ca78523d9db7f62",
@@ -405,7 +390,7 @@
         "GrETUA",
         "Literatura"
       ],
-      "scraped_at": "2026-06-14T10:53:45.238916"
+      "scraped_at": "2026-06-15T14:35:01.100037"
     },
     {
       "id": "a9a9c2d3d5f8ace1",
@@ -420,7 +405,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-14T10:53:30.994290"
+      "scraped_at": "2026-06-15T14:34:27.843210"
     },
     {
       "id": "2b6af9df70f13bc3",
@@ -435,7 +420,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-14T10:53:45.239771"
+      "scraped_at": "2026-06-15T14:35:01.101258"
     },
     {
       "id": "9d4b77f678f969ff",
@@ -459,13 +444,13 @@
       "end_date": "2026-07-19",
       "location": "Teatro Aveirense",
       "url": "https://www.teatroaveirense.pt/pt/evento/festival-dos-canais-2026/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/festival-dos-canais-2026_img69d6661369f43.jpg",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/festival-dos-canais-2026_img6a3007768b2c3.jpg",
       "source": "Teatro Aveirense",
       "tags": [
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-06-14T10:53:30.995072"
+      "scraped_at": "2026-06-15T14:34:27.844367"
     },
     {
       "id": "f5edc4976cb1161b",
@@ -480,7 +465,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-14T10:53:30.995882"
+      "scraped_at": "2026-06-15T14:34:27.846157"
     },
     {
       "id": "46279daf2fc8ed36",
@@ -510,7 +495,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-14T10:53:30.996639"
+      "scraped_at": "2026-06-15T14:34:27.847178"
     },
     {
       "id": "fbfb75fc567880a2",
@@ -540,7 +525,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-14T10:53:30.997443"
+      "scraped_at": "2026-06-15T14:34:27.848264"
     },
     {
       "id": "1a7555db91957df4",
@@ -555,7 +540,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-06-14T10:53:30.998359"
+      "scraped_at": "2026-06-15T14:34:27.849454"
     },
     {
       "id": "7f6b35e76515f00a",
@@ -570,7 +555,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-14T10:53:30.999231"
+      "scraped_at": "2026-06-15T14:34:27.850561"
     },
     {
       "id": "36daf0ddc68a12b6",
@@ -600,7 +585,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-06-14T10:53:31.000125"
+      "scraped_at": "2026-06-15T14:34:27.851999"
     },
     {
       "id": "6727fad7466088ed",
@@ -720,7 +705,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-14T10:53:31.000913"
+      "scraped_at": "2026-06-15T14:34:27.853550"
     },
     {
       "id": "edea3b59ba7328a7",
@@ -780,7 +765,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-14T10:53:31.001698"
+      "scraped_at": "2026-06-15T14:34:27.854575"
     },
     {
       "id": "9163f534eb4ea8c9",
