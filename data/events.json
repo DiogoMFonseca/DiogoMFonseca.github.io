@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-06-25T10:49:25.833299",
-  "total_events": 139,
+  "last_updated": "2026-06-26T10:57:11.827014",
+  "total_events": 137,
   "events": [
-    {
-      "id": "7ef03bacff339c58",
-      "title": "hOLD - São Castro e Teresa Alves da Silva",
-      "start_date": "2026-06-26",
-      "end_date": null,
-      "location": "Teatro Aveirense",
-      "url": "https://www.teatroaveirense.pt/pt/evento/hold/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/hold-sao-castro-e-teresa-alves-da-silva_img69d53208d0eca.jpg",
-      "source": "Teatro Aveirense",
-      "tags": [
-        "Teatro Aveirense",
-        "Dança"
-      ],
-      "scraped_at": "2026-06-25T10:48:52.501056"
-    },
-    {
-      "id": "38dc7b7191e1499a",
-      "title": "hOLD",
-      "start_date": "2026-06-26",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/hold/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/06/hold_1.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-06-24T11:11:00.551837"
-    },
     {
       "id": "c545ec69d31d8e3a",
       "title": "Uma aventura no ATLAS | Visita guiada",
@@ -135,7 +105,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-25T10:48:52.502989"
+      "scraped_at": "2026-06-26T10:56:38.479930"
     },
     {
       "id": "9e353eecbb48542e",
@@ -150,7 +120,7 @@
         "GrETUA",
         "Gastronomia"
       ],
-      "scraped_at": "2026-06-25T10:49:25.826973"
+      "scraped_at": "2026-06-26T10:57:11.820337"
     },
     {
       "id": "b822f79b5b374e63",
@@ -210,7 +180,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-25T10:48:52.503933"
+      "scraped_at": "2026-06-26T10:56:38.481078"
     },
     {
       "id": "cc21522cbced15e4",
@@ -270,7 +240,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-06-25T10:48:52.504767"
+      "scraped_at": "2026-06-26T10:56:38.482184"
     },
     {
       "id": "15d0b58778b82736",
@@ -300,7 +270,7 @@
         "GrETUA",
         "Literatura"
       ],
-      "scraped_at": "2026-06-25T10:49:25.830038"
+      "scraped_at": "2026-06-26T10:57:11.822762"
     },
     {
       "id": "b6f7a48840552950",
@@ -360,7 +330,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-25T10:48:52.505669"
+      "scraped_at": "2026-06-26T10:56:38.483652"
     },
     {
       "id": "fd285ca5af72da08",
@@ -450,7 +420,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-25T10:49:25.831152"
+      "scraped_at": "2026-06-26T10:57:11.824261"
     },
     {
       "id": "eba3db0074e2ade3",
@@ -825,7 +795,7 @@
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-06-25T10:48:52.506515"
+      "scraped_at": "2026-06-26T10:56:38.484709"
     },
     {
       "id": "33d8b957c0049457",
@@ -1044,13 +1014,13 @@
       "end_date": null,
       "location": "Teatro Aveirense",
       "url": "https://www.teatroaveirense.pt/pt/evento/territorio-ix/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/territorio-ix-estudios-victor-cordon_img69d533edc183b.jpg",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/territorio-ix-estudios-victor-cordon_img6a3d3e11e977d.jpg",
       "source": "Teatro Aveirense",
       "tags": [
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-25T10:48:52.507330"
+      "scraped_at": "2026-06-26T10:56:38.485896"
     },
     {
       "id": "ffb6c66142fc76f9",
@@ -1110,7 +1080,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-25T10:48:52.508168"
+      "scraped_at": "2026-06-26T10:56:38.487012"
     },
     {
       "id": "6a5e15e7649edcd9",
@@ -1215,7 +1185,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-25T10:48:52.508975"
+      "scraped_at": "2026-06-26T10:56:38.488078"
     },
     {
       "id": "5fce323acac98c57",
@@ -1245,7 +1215,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-06-25T10:48:52.509801"
+      "scraped_at": "2026-06-26T10:56:38.489061"
     },
     {
       "id": "7e73cdc4abad4c2a",
@@ -1290,7 +1260,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-25T10:48:52.510711"
+      "scraped_at": "2026-06-26T10:56:38.490093"
     },
     {
       "id": "43b5e19b3a700ffe",
@@ -1335,7 +1305,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-06-25T10:48:52.511536"
+      "scraped_at": "2026-06-26T10:56:38.491070"
     },
     {
       "id": "d136b6b93be53c07",
@@ -1854,13 +1824,13 @@
       "end_date": null,
       "location": "Teatro Aveirense",
       "url": "https://www.teatroaveirense.pt/pt/evento/schonbrunn-palace-orchestra-vienna/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/schonbrunn-palace-orchestra-vienna-from-strauss-to-lehar-an-evening-through-viennas-golden-age_img6a2ad469d4539.jpg",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/schonbrunn-palace-orchestra-vienna-from-strauss-to-lehar-an-evening-through-viennas-golden-age_img6a3d48b753c48.jpg",
       "source": "Teatro Aveirense",
       "tags": [
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-25T10:48:52.512299"
+      "scraped_at": "2026-06-26T10:56:38.492139"
     },
     {
       "id": "6678fd6677f8bb05",
@@ -1905,7 +1875,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-25T10:48:52.513097"
+      "scraped_at": "2026-06-26T10:56:38.493166"
     },
     {
       "id": "fd3cadc637f58088",
@@ -1950,7 +1920,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-25T10:48:52.513883"
+      "scraped_at": "2026-06-26T10:56:38.494187"
     },
     {
       "id": "83933991844bd6b2",
