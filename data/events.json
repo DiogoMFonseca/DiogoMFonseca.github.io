@@ -1,67 +1,7 @@
 {
-  "last_updated": "2026-06-26T10:57:11.827014",
-  "total_events": 137,
+  "last_updated": "2026-06-27T10:17:34.421756",
+  "total_events": 133,
   "events": [
-    {
-      "id": "c545ec69d31d8e3a",
-      "title": "Uma aventura no ATLAS | Visita guiada",
-      "start_date": "2026-06-27",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/uma-aventura-no-atlas-visita-guiada/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/09/MMF_LFA_20200902_037.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-06-24T11:11:00.552723"
-    },
-    {
-      "id": "3fb652f50e615b7a",
-      "title": "Com trapos e farrapos vamos fazer uma Boneca de meia e trapos!",
-      "start_date": "2026-06-27",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/com-trapos-e-farrapos-vamos-fazer-uma-boneca-de-meia-e-trapos/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/27_junho_mini_boneca_pano_1.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-06-24T11:11:00.553655"
-    },
-    {
-      "id": "bb19e4f3659c5824",
-      "title": "Simples Assim | Corisco & Paco Navarro",
-      "start_date": "2026-06-27",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/simples-assim-corisco-paco-navarro/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/06/simples_assim.png.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Musica"
-      ],
-      "scraped_at": "2026-06-24T11:11:00.554462"
-    },
-    {
-      "id": "e6219a070ce45495",
-      "title": "Sergio Lima: Territórios do Inconsciente",
-      "start_date": "2026-06-27",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/sergio-lima-territorios-do-inconsciente/",
-      "image_url": null,
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Exposicoes"
-      ],
-      "scraped_at": "2026-06-24T11:11:00.555372"
-    },
     {
       "id": "641e9480ab2af89b",
       "title": "Feira das Velharias | Junho",
@@ -94,7 +34,7 @@
     },
     {
       "id": "bfbf1e8c023e7c4d",
-      "title": "Cantar-o-Lar - Projeto de Arte Comunitária / 3ª edição",
+      "title": "Cantar-o-Lar - Projeto de Arte Comunitária",
       "start_date": "2026-06-28",
       "end_date": null,
       "location": "Teatro Aveirense",
@@ -105,7 +45,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-26T10:56:38.479930"
+      "scraped_at": "2026-06-27T10:17:01.102100"
     },
     {
       "id": "9e353eecbb48542e",
@@ -120,7 +60,7 @@
         "GrETUA",
         "Gastronomia"
       ],
-      "scraped_at": "2026-06-26T10:57:11.820337"
+      "scraped_at": "2026-06-27T10:17:34.416086"
     },
     {
       "id": "b822f79b5b374e63",
@@ -180,7 +120,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-26T10:56:38.481078"
+      "scraped_at": "2026-06-27T10:17:01.104213"
     },
     {
       "id": "cc21522cbced15e4",
@@ -240,7 +180,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-06-26T10:56:38.482184"
+      "scraped_at": "2026-06-27T10:17:01.105085"
     },
     {
       "id": "15d0b58778b82736",
@@ -270,7 +210,7 @@
         "GrETUA",
         "Literatura"
       ],
-      "scraped_at": "2026-06-26T10:57:11.822762"
+      "scraped_at": "2026-06-27T10:17:34.418400"
     },
     {
       "id": "b6f7a48840552950",
@@ -330,7 +270,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-26T10:56:38.483652"
+      "scraped_at": "2026-06-27T10:17:01.106100"
     },
     {
       "id": "fd285ca5af72da08",
@@ -420,7 +360,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-26T10:57:11.824261"
+      "scraped_at": "2026-06-27T10:17:34.419660"
     },
     {
       "id": "eba3db0074e2ade3",
@@ -795,7 +735,7 @@
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-06-26T10:56:38.484709"
+      "scraped_at": "2026-06-27T10:17:01.106878"
     },
     {
       "id": "33d8b957c0049457",
@@ -1020,7 +960,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-26T10:56:38.485896"
+      "scraped_at": "2026-06-27T10:17:01.107748"
     },
     {
       "id": "ffb6c66142fc76f9",
@@ -1080,7 +1020,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-26T10:56:38.487012"
+      "scraped_at": "2026-06-27T10:17:01.108626"
     },
     {
       "id": "6a5e15e7649edcd9",
@@ -1185,7 +1125,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-26T10:56:38.488078"
+      "scraped_at": "2026-06-27T10:17:01.109429"
     },
     {
       "id": "5fce323acac98c57",
@@ -1215,7 +1155,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-06-26T10:56:38.489061"
+      "scraped_at": "2026-06-27T10:17:01.110268"
     },
     {
       "id": "7e73cdc4abad4c2a",
@@ -1260,7 +1200,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-26T10:56:38.490093"
+      "scraped_at": "2026-06-27T10:17:01.111110"
     },
     {
       "id": "43b5e19b3a700ffe",
@@ -1305,7 +1245,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-06-26T10:56:38.491070"
+      "scraped_at": "2026-06-27T10:17:01.111947"
     },
     {
       "id": "d136b6b93be53c07",
@@ -1830,7 +1770,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-26T10:56:38.492139"
+      "scraped_at": "2026-06-27T10:17:01.112722"
     },
     {
       "id": "6678fd6677f8bb05",
@@ -1875,7 +1815,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-26T10:56:38.493166"
+      "scraped_at": "2026-06-27T10:17:01.113554"
     },
     {
       "id": "fd3cadc637f58088",
@@ -1920,7 +1860,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-26T10:56:38.494187"
+      "scraped_at": "2026-06-27T10:17:01.114336"
     },
     {
       "id": "83933991844bd6b2",
