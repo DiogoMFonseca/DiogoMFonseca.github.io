@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-06-28T10:32:05.357031",
-  "total_events": 131,
+  "last_updated": "2026-06-29T12:41:14.958695",
+  "total_events": 129,
   "events": [
-    {
-      "id": "933ae7bed625b611",
-      "title": "Tardes STEAM na CASA – Verão",
-      "start_date": "2026-06-29",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/tardes-steam-na-casa-verao/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/TardesSteam_agenda.jpg.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-06-28T10:32:01.922212"
-    },
-    {
-      "id": "1827fe3736ca1ed5",
-      "title": "Fiasco, Companhia Marimbondo | Prescrições Culturais",
-      "start_date": "2026-06-29",
-      "end_date": null,
-      "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/fiasco-companhia-marimbondo-prescricoes-culturais/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/05/29JUN26_Fiasco_Companhia_Marimbondo_1.png.webp",
-      "source": "AveiroOn",
-      "tags": [
-        "AveiroOn",
-        "Eventos"
-      ],
-      "scraped_at": "2026-06-28T10:32:01.922946"
-    },
     {
       "id": "9f1a01fbd5e268c8",
       "title": "Leibniz - Crónica de uma pintura perdida - Os Filmes das Nossas Terças",
@@ -45,7 +15,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-28T10:31:56.563029"
+      "scraped_at": "2026-06-29T12:40:41.438867"
     },
     {
       "id": "cc21522cbced15e4",
@@ -120,7 +90,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-06-28T10:31:56.564232"
+      "scraped_at": "2026-06-29T12:40:41.440152"
     },
     {
       "id": "15d0b58778b82736",
@@ -150,7 +120,7 @@
         "GrETUA",
         "Literatura"
       ],
-      "scraped_at": "2026-06-28T10:32:05.353653"
+      "scraped_at": "2026-06-29T12:41:14.953223"
     },
     {
       "id": "b6f7a48840552950",
@@ -210,7 +180,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-28T10:31:56.565321"
+      "scraped_at": "2026-06-29T12:40:41.441462"
     },
     {
       "id": "fd285ca5af72da08",
@@ -300,7 +270,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-28T10:32:05.354666"
+      "scraped_at": "2026-06-29T12:41:14.956279"
     },
     {
       "id": "eba3db0074e2ade3",
@@ -690,7 +660,7 @@
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-06-28T10:31:56.566247"
+      "scraped_at": "2026-06-29T12:40:41.442798"
     },
     {
       "id": "33d8b957c0049457",
@@ -930,7 +900,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-28T10:31:56.567098"
+      "scraped_at": "2026-06-29T12:40:41.443810"
     },
     {
       "id": "ffb6c66142fc76f9",
@@ -990,7 +960,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-28T10:31:56.568195"
+      "scraped_at": "2026-06-29T12:40:41.444896"
     },
     {
       "id": "6a5e15e7649edcd9",
@@ -1095,7 +1065,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-28T10:31:56.569230"
+      "scraped_at": "2026-06-29T12:40:41.446233"
     },
     {
       "id": "5fce323acac98c57",
@@ -1125,7 +1095,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-06-28T10:31:56.570198"
+      "scraped_at": "2026-06-29T12:40:41.447423"
     },
     {
       "id": "7e73cdc4abad4c2a",
@@ -1170,7 +1140,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-28T10:31:56.571423"
+      "scraped_at": "2026-06-29T12:40:41.448500"
     },
     {
       "id": "43b5e19b3a700ffe",
@@ -1215,7 +1185,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-06-28T10:31:56.572963"
+      "scraped_at": "2026-06-29T12:40:41.449704"
     },
     {
       "id": "d136b6b93be53c07",
@@ -1740,7 +1710,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-28T10:31:56.574382"
+      "scraped_at": "2026-06-29T12:40:41.450765"
     },
     {
       "id": "6678fd6677f8bb05",
@@ -1785,7 +1755,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-28T10:31:56.575699"
+      "scraped_at": "2026-06-29T12:40:41.451860"
     },
     {
       "id": "fd3cadc637f58088",
@@ -1830,7 +1800,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-28T10:31:56.577381"
+      "scraped_at": "2026-06-29T12:40:41.452905"
     },
     {
       "id": "83933991844bd6b2",
