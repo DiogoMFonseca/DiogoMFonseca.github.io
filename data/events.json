@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-06-29T12:41:14.958695",
-  "total_events": 129,
+  "last_updated": "2026-06-30T11:16:22.075896",
+  "total_events": 130,
   "events": [
-    {
-      "id": "9f1a01fbd5e268c8",
-      "title": "Leibniz - Crónica de uma pintura perdida - Os Filmes das Nossas Terças",
-      "start_date": "2026-06-30",
-      "end_date": null,
-      "location": "Teatro Aveirense",
-      "url": "https://www.teatroaveirense.pt/pt/evento/leibniz-cronica-de-uma-pintura-perdida-os-filmes-das-nossas-tercas/",
-      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/leibniz-cronica-de-uma-pintura-perdida-os-filmes-das-nossas-tercas_img6a2ac32e17f0a.jpg",
-      "source": "Teatro Aveirense",
-      "tags": [
-        "Teatro Aveirense",
-        "Cinema"
-      ],
-      "scraped_at": "2026-06-29T12:40:41.438867"
-    },
     {
       "id": "cc21522cbced15e4",
       "title": "Julho Florido | Oficinas com Vida",
@@ -90,7 +75,7 @@
         "Teatro Aveirense",
         "Musical"
       ],
-      "scraped_at": "2026-06-29T12:40:41.440152"
+      "scraped_at": "2026-06-30T11:15:48.696236"
     },
     {
       "id": "15d0b58778b82736",
@@ -120,7 +105,7 @@
         "GrETUA",
         "Literatura"
       ],
-      "scraped_at": "2026-06-29T12:41:14.953223"
+      "scraped_at": "2026-06-30T11:16:22.070244"
     },
     {
       "id": "b6f7a48840552950",
@@ -180,7 +165,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-29T12:40:41.441462"
+      "scraped_at": "2026-06-30T11:15:48.697217"
     },
     {
       "id": "fd285ca5af72da08",
@@ -258,6 +243,21 @@
       "scraped_at": "2026-06-28T10:32:01.933633"
     },
     {
+      "id": "05c5185a5629f747",
+      "title": "Magalhães - Os Filmes das Nossas Terças",
+      "start_date": "2026-07-07",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/magalhaes-os-filmes-das-nossas-tercas/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/magalhaes-os-filmes-das-nossas-tercas_img6a3d4d3373331.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Cinema"
+      ],
+      "scraped_at": "2026-06-30T11:15:48.698334"
+    },
+    {
       "id": "2b6af9df70f13bc3",
       "title": "Figuras de Graça #3 | Feliz Como Lázaro (2018)",
       "start_date": "2026-07-08",
@@ -270,7 +270,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-06-29T12:41:14.956279"
+      "scraped_at": "2026-06-30T11:16:22.073143"
     },
     {
       "id": "eba3db0074e2ade3",
@@ -660,7 +660,7 @@
         "Teatro Aveirense",
         "Festival"
       ],
-      "scraped_at": "2026-06-29T12:40:41.442798"
+      "scraped_at": "2026-06-30T11:15:48.699706"
     },
     {
       "id": "33d8b957c0049457",
@@ -843,6 +843,21 @@
       "scraped_at": "2026-06-28T10:32:01.966540"
     },
     {
+      "id": "90eacc1526d8a7cc",
+      "title": "Franz - Os Filmes das Nossas Terças",
+      "start_date": "2026-07-21",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/franz-os-filmes-das-nossas-tercas/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/franz-os-filmes-das-nossas-tercas_img6a3d4dd63db7e.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Cinema"
+      ],
+      "scraped_at": "2026-06-30T11:15:48.700772"
+    },
+    {
       "id": "4230ebf4be08fadd",
       "title": "Quintas com tricot e outras coisas",
       "start_date": "2026-07-23",
@@ -900,7 +915,7 @@
         "Teatro Aveirense",
         "Dança"
       ],
-      "scraped_at": "2026-06-29T12:40:41.443810"
+      "scraped_at": "2026-06-30T11:15:48.701889"
     },
     {
       "id": "ffb6c66142fc76f9",
@@ -960,7 +975,7 @@
         "Teatro Aveirense",
         "Cinema"
       ],
-      "scraped_at": "2026-06-29T12:40:41.444896"
+      "scraped_at": "2026-06-30T11:15:48.702896"
     },
     {
       "id": "6a5e15e7649edcd9",
@@ -1065,7 +1080,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-29T12:40:41.446233"
+      "scraped_at": "2026-06-30T11:15:48.704006"
     },
     {
       "id": "5fce323acac98c57",
@@ -1095,7 +1110,7 @@
         "Teatro Aveirense",
         "Teatro de Objetos"
       ],
-      "scraped_at": "2026-06-29T12:40:41.447423"
+      "scraped_at": "2026-06-30T11:15:48.705022"
     },
     {
       "id": "7e73cdc4abad4c2a",
@@ -1140,7 +1155,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-29T12:40:41.448500"
+      "scraped_at": "2026-06-30T11:15:48.706214"
     },
     {
       "id": "43b5e19b3a700ffe",
@@ -1185,7 +1200,7 @@
         "Teatro Aveirense",
         "Novo Circo"
       ],
-      "scraped_at": "2026-06-29T12:40:41.449704"
+      "scraped_at": "2026-06-30T11:15:48.707221"
     },
     {
       "id": "d136b6b93be53c07",
@@ -1710,7 +1725,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-29T12:40:41.450765"
+      "scraped_at": "2026-06-30T11:15:48.708137"
     },
     {
       "id": "6678fd6677f8bb05",
@@ -1755,7 +1770,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-29T12:40:41.451860"
+      "scraped_at": "2026-06-30T11:15:48.709096"
     },
     {
       "id": "fd3cadc637f58088",
@@ -1800,7 +1815,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-06-29T12:40:41.452905"
+      "scraped_at": "2026-06-30T11:15:48.710085"
     },
     {
       "id": "83933991844bd6b2",
