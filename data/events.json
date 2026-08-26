@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-25T08:51:33.377464",
-  "total_events": 40,
+  "last_updated": "2026-08-26T08:52:40.959843",
+  "total_events": 61,
   "events": [
     {
-      "id": "d9f673c59a3fb0d1",
-      "title": "Salinas no Pincel | Oficinas com Vida",
-      "start_date": "2026-08-26",
+      "id": "3bf319c7cddad255",
+      "title": "Quintas com tricot e outras coisas",
+      "start_date": "2026-08-27",
       "end_date": null,
       "location": "Aveiro",
-      "url": "https://aveiroon.cm-aveiro.pt/eventos/arte-com-sal-e-natureza-especial-dia-do-pai-oficinas-com-vida/",
-      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/08/Salinas-no-Pincel_Copyright-2024-Meri-Cherry_04.09.24.jpg.webp",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/quintas-com-tricot-e-outras-coisas-4/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/02/tricot_1-1.jpg.webp",
       "source": "AveiroOn",
       "tags": [
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.874081"
+      "scraped_at": "2026-08-26T08:52:37.721943"
     },
     {
       "id": "4c278767fd5b9d73",
@@ -30,7 +30,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.875787"
+      "scraped_at": "2026-08-26T08:52:37.722991"
     },
     {
       "id": "4e23d576263e1130",
@@ -45,7 +45,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.874911"
+      "scraped_at": "2026-08-26T08:52:37.723980"
     },
     {
       "id": "945c66e3f61f4dd5",
@@ -60,7 +60,37 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.876726"
+      "scraped_at": "2026-08-26T08:52:37.725017"
+    },
+    {
+      "id": "478045e6688fbb48",
+      "title": "Mamíferos e Pegadas da Ria | Oficinas com Vida",
+      "start_date": "2026-09-02",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/pegadas-da-ria-oficinas-com-vida/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/07/pegadas_mamiferos_2.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.726047"
+    },
+    {
+      "id": "05bfc375b6aee9f2",
+      "title": "Quintas com tricot e outras coisas",
+      "start_date": "2026-09-03",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/quintas-com-tricot-e-outras-coisas-7/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/Bonecos_neve_1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.727070"
     },
     {
       "id": "a3f9c3e4b680e2de",
@@ -75,7 +105,22 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.877620"
+      "scraped_at": "2026-08-26T08:52:37.729157"
+    },
+    {
+      "id": "0642691bbb52f75a",
+      "title": "MIP MOP: Música para Bebés por Beatriz Direito",
+      "start_date": "2026-09-05",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/mip-mop-musica-para-bebes-por-beatriz-direito/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/08/Beatriz-Direito_1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Infantil"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.728085"
     },
     {
       "id": "2d87f88a6342600d",
@@ -90,7 +135,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.878512"
+      "scraped_at": "2026-08-26T08:52:37.730159"
     },
     {
       "id": "004eed80e912b675",
@@ -105,7 +150,37 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.879369"
+      "scraped_at": "2026-08-26T08:52:37.732212"
+    },
+    {
+      "id": "9abecdaa855f4bef",
+      "title": "Dar asas às Garças | Oficinas com Vida",
+      "start_date": "2026-09-09",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/dar-asas-as-garcas-oficinas-com-vida/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/garcas.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.731069"
+    },
+    {
+      "id": "f79cda3f875c7309",
+      "title": "Quintas com tricot e outras coisas",
+      "start_date": "2026-09-10",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/quintas-com-tricot-e-outras-coisas/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/04/Tricot_1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.733243"
     },
     {
       "id": "ae6adfb2a72808a6",
@@ -120,7 +195,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-08-25T08:51:22.636611"
+      "scraped_at": "2026-08-26T08:52:31.149227"
     },
     {
       "id": "7a7c725e9e967bbe",
@@ -135,7 +210,52 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.880209"
+      "scraped_at": "2026-08-26T08:52:37.734494"
+    },
+    {
+      "id": "77a599a6dd1b94dd",
+      "title": "ContArtYoga por Carla Moreira",
+      "start_date": "2026-09-12",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/contartyoga-por-carla-moreira/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/06/Carla-Moreira_7.jpg",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Infantil"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.735503"
+    },
+    {
+      "id": "2e04a0d1f515fb3c",
+      "title": "Biblioteca Municipal Itinerante | Prescrições Culturais",
+      "start_date": "2026-09-16",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/prescricoes-culturais-biblioteca-municipal-itinerante-2/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/Biblioteca-Itenerante-0015-scaled.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Literatura"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.737623"
+    },
+    {
+      "id": "3c991a0fe8af40d3",
+      "title": "Insetos à Lupa | Oficinas com Vida",
+      "start_date": "2026-09-16",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/agentes-da-natureza-insetos-a-lupa/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/insetos.png.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.736564"
     },
     {
       "id": "a478d08df8ed8200",
@@ -150,7 +270,22 @@
         "Teatro Aveirense",
         "Oficina"
       ],
-      "scraped_at": "2026-08-25T08:51:22.638133"
+      "scraped_at": "2026-08-26T08:52:31.150829"
+    },
+    {
+      "id": "5b1762cf0a00636c",
+      "title": "Quintas com tricot e outras coisas",
+      "start_date": "2026-09-17",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/quintas-com-tricot-e-outras-coisas-2/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/02/tricot_1-1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.738724"
     },
     {
       "id": "997ba0809c2c1d67",
@@ -165,7 +300,37 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-08-25T08:51:22.639244"
+      "scraped_at": "2026-08-26T08:52:31.152552"
+    },
+    {
+      "id": "81f9eb54ffde67ed",
+      "title": "Sessão de contos e música para bebés por Tó Zé Novais e Sofia Morais",
+      "start_date": "2026-09-19",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/sessao-de-contos-e-musica-para-bebes-por-to-ze-novais-e-sofia-morais/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/08/To_Ze_Novais_Sofia_Morais_1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Infantil"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.739843"
+    },
+    {
+      "id": "e62f89a3483e5b07",
+      "title": "Quintas com tricot e outras coisas",
+      "start_date": "2026-09-24",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/quintas-com-tricot-e-outras-coisas-3/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/02/Tricot_4.jpg",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.740926"
     },
     {
       "id": "37626aedb79d4131",
@@ -180,7 +345,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-08-25T08:51:22.640296"
+      "scraped_at": "2026-08-26T08:52:31.154187"
     },
     {
       "id": "8f40c19d08345659",
@@ -195,7 +360,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-08-25T08:51:22.641363"
+      "scraped_at": "2026-08-26T08:52:31.155786"
     },
     {
       "id": "c948bb7ec785accf",
@@ -210,7 +375,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.899972"
+      "scraped_at": "2026-08-26T08:52:37.741988"
     },
     {
       "id": "3f0e22d5c6475585",
@@ -225,7 +390,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-08-25T08:51:29.900915"
+      "scraped_at": "2026-08-26T08:52:37.742913"
     },
     {
       "id": "f51e5daa9baffe14",
@@ -240,7 +405,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.901779"
+      "scraped_at": "2026-08-26T08:52:37.744101"
     },
     {
       "id": "082c8f15926c308a",
@@ -255,7 +420,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.903555"
+      "scraped_at": "2026-08-26T08:52:37.746225"
     },
     {
       "id": "561c1118ee7918d4",
@@ -270,7 +435,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-08-25T08:51:22.642335"
+      "scraped_at": "2026-08-26T08:52:31.156968"
     },
     {
       "id": "6678fd6677f8bb05",
@@ -285,7 +450,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-08-25T08:51:29.902684"
+      "scraped_at": "2026-08-26T08:52:37.745113"
     },
     {
       "id": "48a07ca0cafc14c0",
@@ -300,7 +465,22 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-08-25T08:51:29.904422"
+      "scraped_at": "2026-08-26T08:52:37.747282"
+    },
+    {
+      "id": "789731c9776cb7bc",
+      "title": "Sons da Ria: melodias de setembro | Oficinas com Vida",
+      "start_date": "2026-09-30",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/sons-da-ria-melodias-de-fevereiro-oficinas-com-vida/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/01/sons_da_ria_1.png.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.748249"
     },
     {
       "id": "d2da486611ae2f69",
@@ -315,7 +495,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-08-25T08:51:22.643246"
+      "scraped_at": "2026-08-26T08:52:31.158236"
     },
     {
       "id": "a06deadc8290f296",
@@ -330,7 +510,7 @@
         "Teatro Aveirense",
         "Oficina"
       ],
-      "scraped_at": "2026-08-25T08:51:22.644199"
+      "scraped_at": "2026-08-26T08:52:31.159837"
     },
     {
       "id": "80a1a366e6277c10",
@@ -345,7 +525,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-08-25T08:51:22.645069"
+      "scraped_at": "2026-08-26T08:52:31.161043"
     },
     {
       "id": "fafd47e144be8941",
@@ -360,7 +540,22 @@
         "Teatro Aveirense",
         "Oficina"
       ],
-      "scraped_at": "2026-08-25T08:51:22.646119"
+      "scraped_at": "2026-08-26T08:52:31.162730"
+    },
+    {
+      "id": "b2897eecc1b08eab",
+      "title": "Observação de aves: Rua do Sal | Oficinas com Vida",
+      "start_date": "2026-10-07",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/observacao-de-aves-rua-do-sal-oficinas-com-vida/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/08/Obs.-de-Aves-na-Rua-do-Sal-scaled.jpg",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.749374"
     },
     {
       "id": "edea3b59ba7328a7",
@@ -375,7 +570,37 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.905262"
+      "scraped_at": "2026-08-26T08:52:37.752105"
+    },
+    {
+      "id": "cf1957a07acba03f",
+      "title": "ContArtYoga por Carla Moreira",
+      "start_date": "2026-10-10",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/contartyoga-por-carla-moreira-2/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/06/Carla-Moreira_7.jpg",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Infantil"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.750952"
+    },
+    {
+      "id": "b342108fc2eb91e9",
+      "title": "Água Viva nas Marinhas | Oficinas com Vida",
+      "start_date": "2026-10-14",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/agua-viva-nas-marinhas-oficinas-com-vida/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/08/ha-vida-nas-aguas-das-marinhas-scaled.jpg",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.753203"
     },
     {
       "id": "9dcf5ae590b1d62e",
@@ -390,7 +615,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-08-25T08:51:22.647133"
+      "scraped_at": "2026-08-26T08:52:31.164397"
     },
     {
       "id": "67ebe8bbdf96eb93",
@@ -405,7 +630,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-08-25T08:51:29.906130"
+      "scraped_at": "2026-08-26T08:52:37.754299"
     },
     {
       "id": "7f23a492b91a4ffd",
@@ -420,7 +645,82 @@
         "AveiroOn",
         "Exposicoes"
       ],
-      "scraped_at": "2026-08-25T08:51:29.907002"
+      "scraped_at": "2026-08-26T08:52:37.756646"
+    },
+    {
+      "id": "6641112a25a5b848",
+      "title": "Sessão de contos e música para bebés por Tó Zé Novais e Sofia Morais",
+      "start_date": "2026-10-17",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/sessao-de-contos-e-musica-para-bebes-por-to-ze-novais-e-sofia-morais-2/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/08/To_Ze_Novais_Sofia_Morais_1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Infantil"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.755442"
+    },
+    {
+      "id": "4958dc2044248343",
+      "title": "Conhecer e Moldar: Cogumelos em Barro | Oficinas com Vida",
+      "start_date": "2026-10-21",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/conhecer-e-moldar-cogumelos-em-barro-oficinas-com-vida/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/02/Cogumelo_de_barro1.png.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.758581"
+    },
+    {
+      "id": "d2a740c0e3264a86",
+      "title": "Biblioteca Municipal Itinerante | Prescrições Culturais",
+      "start_date": "2026-10-21",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/biblioteca-municipal-itinerante-prescricoes-culturais-2/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/06/Biblioteca-Itenerante_1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Literatura"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.757562"
+    },
+    {
+      "id": "1462a484ac0e2540",
+      "title": "A Natureza no Papel | Oficinas com Vida",
+      "start_date": "2026-10-23",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/a-natureza-no-papel-oficinas-com-vida/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2025/08/natureza-no-papel-1-scaled.jpg",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.764369"
+    },
+    {
+      "id": "ebed6890bc136183",
+      "title": "MIP MOP: Música para Bebés por Beatriz Direito",
+      "start_date": "2026-10-24",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/mip-mop-musica-para-bebes-por-beatriz-direito-2/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/08/Beatriz-Direito_1.jpg.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Infantil"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.765603"
     },
     {
       "id": "fd3cadc637f58088",
@@ -435,7 +735,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.907874"
+      "scraped_at": "2026-08-26T08:52:37.766798"
     },
     {
       "id": "91cd2c522dca018c",
@@ -450,7 +750,22 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.908738"
+      "scraped_at": "2026-08-26T08:52:37.768793"
+    },
+    {
+      "id": "ca9b019f77346778",
+      "title": "Halloween com as Aranhas: Atelier de máscaras | Oficinas com Vida",
+      "start_date": "2026-10-28",
+      "end_date": null,
+      "location": "Aveiro",
+      "url": "https://aveiroon.cm-aveiro.pt/eventos/conhecer-e-moldar-cogumelos-em-barro-oficinas-com-vida-2/",
+      "image_url": "https://aveiroon.cm-aveiro.pt/wp-content/uploads/2026/08/mascaras_1.png.webp",
+      "source": "AveiroOn",
+      "tags": [
+        "AveiroOn",
+        "Eventos"
+      ],
+      "scraped_at": "2026-08-26T08:52:37.767859"
     },
     {
       "id": "53584efcd6d4bf5f",
@@ -465,7 +780,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-08-25T08:51:22.648123"
+      "scraped_at": "2026-08-26T08:52:31.165758"
     },
     {
       "id": "83933991844bd6b2",
@@ -480,7 +795,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-08-25T08:51:29.910554"
+      "scraped_at": "2026-08-26T08:52:37.769680"
     },
     {
       "id": "4af6ec18fb34f3f1",
@@ -495,7 +810,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-08-25T08:51:29.909593"
+      "scraped_at": "2026-08-26T08:52:37.770569"
     },
     {
       "id": "9163f534eb4ea8c9",
@@ -510,7 +825,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.911509"
+      "scraped_at": "2026-08-26T08:52:37.771501"
     },
     {
       "id": "595ca7702778e050",
@@ -525,7 +840,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.913088"
+      "scraped_at": "2026-08-26T08:52:37.772539"
     },
     {
       "id": "c1db4a502ca5c8b6",
@@ -540,7 +855,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:29.914601"
+      "scraped_at": "2026-08-26T08:52:37.773481"
     },
     {
       "id": "6fc08a0436734f89",
@@ -555,7 +870,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:30.189696"
+      "scraped_at": "2026-08-26T08:52:37.774390"
     },
     {
       "id": "bea52c23b1262ac5",
@@ -570,7 +885,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:30.191734"
+      "scraped_at": "2026-08-26T08:52:37.775459"
     },
     {
       "id": "80382f99214e106b",
@@ -585,7 +900,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:30.192692"
+      "scraped_at": "2026-08-26T08:52:37.776368"
     },
     {
       "id": "e1ae8eb0c41bd3ca",
@@ -600,7 +915,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-08-25T08:51:30.193749"
+      "scraped_at": "2026-08-26T08:52:37.777368"
     }
   ]
 }
