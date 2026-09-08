@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-07T14:10:37.385061",
-  "total_events": 65,
+  "last_updated": "2026-09-08T12:48:28.432255",
+  "total_events": 108,
   "events": [
+    {
+      "id": "a2d0a7e29c2f1573",
+      "title": "Arquitetas da Liberdade - Ciclo O Problema da Habitação",
+      "start_date": null,
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/arquitetas-da-liberdade/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/arquitetas-da-liberdade-ciclo-o-problema-da-habitacao_img6a7c78952da50.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Exposição"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.634868"
+    },
     {
       "id": "9abecdaa855f4bef",
       "title": "Dar asas às Garças | Oficinas com Vida",
@@ -15,7 +30,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.170101"
+      "scraped_at": "2026-09-08T12:48:25.265845"
     },
     {
       "id": "f79cda3f875c7309",
@@ -30,7 +45,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.171028"
+      "scraped_at": "2026-09-08T12:48:25.266654"
     },
     {
       "id": "ae6adfb2a72808a6",
@@ -45,7 +60,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-09-07T14:10:27.734207"
+      "scraped_at": "2026-09-08T12:48:16.614829"
     },
     {
       "id": "5d291a4c80d4ce10",
@@ -60,7 +75,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.172023"
+      "scraped_at": "2026-09-08T12:48:25.267521"
     },
     {
       "id": "7a7c725e9e967bbe",
@@ -75,7 +90,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.173845"
+      "scraped_at": "2026-09-08T12:48:25.269726"
     },
     {
       "id": "77a599a6dd1b94dd",
@@ -90,7 +105,7 @@
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-09-07T14:10:34.172949"
+      "scraped_at": "2026-09-08T12:48:25.268475"
     },
     {
       "id": "4a8480bfc67ef3a2",
@@ -105,7 +120,22 @@
         "GrETUA",
         "Exposições"
       ],
-      "scraped_at": "2026-09-07T14:10:37.378251"
+      "scraped_at": "2026-09-08T12:48:28.421018"
+    },
+    {
+      "id": "1a83ae82730f7396",
+      "title": "Calle Málaga - Os Filmes das Nossas Terças",
+      "start_date": "2026-09-15",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/calle-malaga/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/calle-malaga-os-filmes-das-nossas-tercas_img6a9edc3b21f6d.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Cinema"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.616836"
     },
     {
       "id": "2e04a0d1f515fb3c",
@@ -120,7 +150,7 @@
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-09-07T14:10:34.174860"
+      "scraped_at": "2026-09-08T12:48:25.270580"
     },
     {
       "id": "3c991a0fe8af40d3",
@@ -135,7 +165,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.176679"
+      "scraped_at": "2026-09-08T12:48:25.272277"
     },
     {
       "id": "a478d08df8ed8200",
@@ -150,7 +180,7 @@
         "Teatro Aveirense",
         "Oficina"
       ],
-      "scraped_at": "2026-09-07T14:10:27.735912"
+      "scraped_at": "2026-09-08T12:48:16.618245"
     },
     {
       "id": "589dcba192fc72c5",
@@ -165,7 +195,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.175765"
+      "scraped_at": "2026-09-08T12:48:25.271399"
     },
     {
       "id": "747c4e5ceb17e625",
@@ -180,7 +210,7 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-09-07T14:10:37.379959"
+      "scraped_at": "2026-09-08T12:48:28.422838"
     },
     {
       "id": "5b1762cf0a00636c",
@@ -195,7 +225,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.177586"
+      "scraped_at": "2026-09-08T12:48:25.273246"
     },
     {
       "id": "997ba0809c2c1d67",
@@ -210,7 +240,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-09-07T14:10:27.737369"
+      "scraped_at": "2026-09-08T12:48:16.619807"
     },
     {
       "id": "e6ad9af5da0ed022",
@@ -225,7 +255,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.178449"
+      "scraped_at": "2026-09-08T12:48:25.274117"
     },
     {
       "id": "81f9eb54ffde67ed",
@@ -240,7 +270,22 @@
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-09-07T14:10:34.179392"
+      "scraped_at": "2026-09-08T12:48:25.274959"
+    },
+    {
+      "id": "2255b251119c62e5",
+      "title": "La Bohéme de G. Puccini - Versão de Câmara de Melvin Tay",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/la-boheme-de-g-puccini/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/la-boheme-de-g-puccini-versao-de-camara-de-melvin-tay_img6a7c576bef0fa.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Ópera"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.620837"
     },
     {
       "id": "dd25eb10a77b24e6",
@@ -255,7 +300,22 @@
         "GrETUA",
         "Cinema e Vídeo"
       ],
-      "scraped_at": "2026-09-07T14:10:37.381766"
+      "scraped_at": "2026-09-08T12:48:28.424027"
+    },
+    {
+      "id": "f29b99db20018fb6",
+      "title": "Livros Restantes - Os Filmes das Nossas Terças",
+      "start_date": "2026-09-22",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/livros-restantes/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/livros-restantes-os-filmes-das-nossas-tercas_img6a9eddf0edddd.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Cinema"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.621878"
     },
     {
       "id": "e62f89a3483e5b07",
@@ -270,7 +330,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.180268"
+      "scraped_at": "2026-09-08T12:48:25.275792"
     },
     {
       "id": "37626aedb79d4131",
@@ -285,7 +345,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-09-07T14:10:27.738926"
+      "scraped_at": "2026-09-08T12:48:16.622865"
     },
     {
       "id": "8f40c19d08345659",
@@ -300,7 +360,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-09-07T14:10:27.740148"
+      "scraped_at": "2026-09-08T12:48:16.624057"
     },
     {
       "id": "92a5b7697cead9d5",
@@ -315,7 +375,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.182004"
+      "scraped_at": "2026-09-08T12:48:25.277633"
     },
     {
       "id": "a7ecd34eeb2ada84",
@@ -330,7 +390,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.181114"
+      "scraped_at": "2026-09-08T12:48:25.276687"
     },
     {
       "id": "c948bb7ec785accf",
@@ -345,7 +405,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.185804"
+      "scraped_at": "2026-09-08T12:48:25.279299"
     },
     {
       "id": "3f0e22d5c6475585",
@@ -360,7 +420,37 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.182913"
+      "scraped_at": "2026-09-08T12:48:25.278460"
+    },
+    {
+      "id": "f4946a7dbd8df389",
+      "title": "Para Instrução de Curiosos. Figuras negras, leituras brancas. - Conversa Red Cloud",
+      "start_date": "2026-09-26",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/para-instrucao-de-curiosos-figuras-negras-leituras-brancas-com-jose-alberto-ferreira/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/para-instrucao-de-curiosos-figuras-negras-leituras-brancas-conversa-red-cloud_img6a7de43b9cb2b.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Conversa"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.625102"
+    },
+    {
+      "id": "3695f39074892482",
+      "title": "Happy Birthday Mr. Mercury - Quinteto de Cordas + Piano / Orquestra Sinfónica de Lisboa",
+      "start_date": "2026-09-26",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/happy-birthday-mr-mercury/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/happy-birthday-mr-mercury-quinteto-de-cordas-piano-orquestra-sinfonica-de-lisboa_img6a7c58f4557ab.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.626342"
     },
     {
       "id": "f51e5daa9baffe14",
@@ -375,7 +465,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.187066"
+      "scraped_at": "2026-09-08T12:48:25.280106"
     },
     {
       "id": "082c8f15926c308a",
@@ -390,7 +480,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.189190"
+      "scraped_at": "2026-09-08T12:48:25.281925"
     },
     {
       "id": "561c1118ee7918d4",
@@ -405,7 +495,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-09-07T14:10:27.741274"
+      "scraped_at": "2026-09-08T12:48:16.627499"
     },
     {
       "id": "6678fd6677f8bb05",
@@ -420,7 +510,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-09-07T14:10:34.191659"
+      "scraped_at": "2026-09-08T12:48:25.283569"
     },
     {
       "id": "48a07ca0cafc14c0",
@@ -449,7 +539,7 @@
       "tags": [
         "AveiroOn"
       ],
-      "scraped_at": "2026-09-07T14:10:34.188132"
+      "scraped_at": "2026-09-08T12:48:25.280983"
     },
     {
       "id": "a9b08046923e5898",
@@ -464,7 +554,22 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.190453"
+      "scraped_at": "2026-09-08T12:48:25.282763"
+    },
+    {
+      "id": "1605c99de3db9be3",
+      "title": "Cartas Amarelas - Os Filmes das Nossas Terças",
+      "start_date": "2026-09-29",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/cartas-amarelas/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/cartas-amarelas-os-filmes-das-nossas-tercas_img6a9edeb4a2973.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Cinema"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.628527"
     },
     {
       "id": "789731c9776cb7bc",
@@ -479,7 +584,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.194747"
+      "scraped_at": "2026-09-08T12:48:25.290264"
     },
     {
       "id": "d2da486611ae2f69",
@@ -494,7 +599,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-09-07T14:10:27.742384"
+      "scraped_at": "2026-09-08T12:48:16.629577"
     },
     {
       "id": "2768f3885e0927ed",
@@ -509,7 +614,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.192840"
+      "scraped_at": "2026-09-08T12:48:25.284380"
     },
     {
       "id": "69959a1e888b10fa",
@@ -524,7 +629,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.193838"
+      "scraped_at": "2026-09-08T12:48:25.289312"
     },
     {
       "id": "a06deadc8290f296",
@@ -539,7 +644,22 @@
         "Teatro Aveirense",
         "Oficina"
       ],
-      "scraped_at": "2026-09-07T14:10:27.743583"
+      "scraped_at": "2026-09-08T12:48:16.630567"
+    },
+    {
+      "id": "2dd6d0e748b385e1",
+      "title": "Regresso às Jaulas | com Mike el Nite +  IBSXJAUR + Rufia Terno DJ Set + SoundPreta DJ▸",
+      "start_date": "2026-10-01",
+      "end_date": null,
+      "location": "GrETUA",
+      "url": "https://www.viralagenda.com/pt/events/1846188/regresso-as-jaulas-com-mike-el-nite-ibsxjaur-rufia-terno-dj-set-soundpreta-dj-set",
+      "image_url": "https://cdn.viralagenda.com/images/events/ext/1846188-8d380ff376c006d108ab8fbebe722f6c.jpeg",
+      "source": "GrETUA",
+      "tags": [
+        "GrETUA",
+        "Clubbing"
+      ],
+      "scraped_at": "2026-09-08T12:48:28.425072"
     },
     {
       "id": "80a1a366e6277c10",
@@ -554,7 +674,7 @@
         "Teatro Aveirense",
         "Teatro"
       ],
-      "scraped_at": "2026-09-07T14:10:27.745056"
+      "scraped_at": "2026-09-08T12:48:16.631723"
     },
     {
       "id": "fafd47e144be8941",
@@ -569,7 +689,22 @@
         "Teatro Aveirense",
         "Oficina"
       ],
-      "scraped_at": "2026-09-07T14:10:27.746137"
+      "scraped_at": "2026-09-08T12:48:16.632834"
+    },
+    {
+      "id": "2c395a9e3869d6e2",
+      "title": "Por Um Fio, de Daniel Seabra e Erva Daninha",
+      "start_date": "2026-10-06",
+      "end_date": null,
+      "location": "Universidade de Aveiro",
+      "url": "https://www.viralagenda.com/pt/events/1846189/por-um-fio-de-daniel-seabra-e-erva-daninha",
+      "image_url": "https://cdn.viralagenda.com/images/events/ext/1846189-0076a345abea3f41d3f576363770cb1e.jpeg",
+      "source": "GrETUA",
+      "tags": [
+        "GrETUA",
+        "Teatro e Dança"
+      ],
+      "scraped_at": "2026-09-08T12:48:28.426382"
     },
     {
       "id": "b2897eecc1b08eab",
@@ -584,7 +719,37 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.195752"
+      "scraped_at": "2026-09-08T12:48:25.291257"
+    },
+    {
+      "id": "0a8a6e04719986fa",
+      "title": "Sessão de Apresentação - Curso Formação Teatral 2026",
+      "start_date": "2026-10-07",
+      "end_date": null,
+      "location": "GrETUA",
+      "url": "https://www.viralagenda.com/pt/events/1846190/sessao-de-apresentacao-curso-formacao-teatral-2026",
+      "image_url": "https://cdn.viralagenda.com/images/events/ext/1846190-2ea4b04e55d06f619fb3ac21a272aeb2.jpeg",
+      "source": "GrETUA",
+      "tags": [
+        "GrETUA",
+        "Teatro e Dança"
+      ],
+      "scraped_at": "2026-09-08T12:48:28.427581"
+    },
+    {
+      "id": "6f5ed81d3eb5cd7b",
+      "title": "PRISMA 2026 - Art Light Tech",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-10",
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/prisma-2026/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/prisma-2026-art-light-tech_img6a7c5a2569fce.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Festival"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.633838"
     },
     {
       "id": "edea3b59ba7328a7",
@@ -599,7 +764,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.197733"
+      "scraped_at": "2026-09-08T12:48:25.293034"
     },
     {
       "id": "cf1957a07acba03f",
@@ -614,7 +779,7 @@
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-09-07T14:10:34.196705"
+      "scraped_at": "2026-09-08T12:48:25.292173"
     },
     {
       "id": "b342108fc2eb91e9",
@@ -629,7 +794,52 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.198669"
+      "scraped_at": "2026-09-08T12:48:25.293855"
+    },
+    {
+      "id": "d263db2ef23a4628",
+      "title": "Feedback, de CRL - Central Elétrica",
+      "start_date": "2026-10-14",
+      "end_date": null,
+      "location": "GrETUA",
+      "url": "https://www.viralagenda.com/pt/events/1846191/feedback-de-crl-central-eletrica",
+      "image_url": "https://cdn.viralagenda.com/images/events/ext/1846191-57d25a73479747f6001fd7054065c986.jpeg",
+      "source": "GrETUA",
+      "tags": [
+        "GrETUA",
+        "Teatro e Dança"
+      ],
+      "scraped_at": "2026-09-08T12:48:28.428968"
+    },
+    {
+      "id": "a2c8d08165e5213d",
+      "title": "Baile Tradicional Galego - Oficina \"Do Terreiro ao Mundo\"",
+      "start_date": "2026-10-15",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/baile-tradicional-galego-oficina-do-terreiro-ao-mundo/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/baile-tradicional-galego-oficina-do-terreiro-ao-mundo_img6a7de6c289b34.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Oficina"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.636408"
+    },
+    {
+      "id": "9e5cbe855d4f3dc7",
+      "title": "Do Terreiro ao Mundo - De Clara Andermatt para a Companhia Instável",
+      "start_date": "2026-10-16",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/do-terreiro-ao-mundo/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/do-terreiro-ao-mundo-de-clara-andermatt-para-a-companhia-instavel_img6a7c7a5571160.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Dança"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.638167"
     },
     {
       "id": "9dcf5ae590b1d62e",
@@ -644,7 +854,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-09-07T14:10:27.747345"
+      "scraped_at": "2026-09-08T12:48:16.639107"
     },
     {
       "id": "67ebe8bbdf96eb93",
@@ -659,7 +869,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-09-07T14:10:34.200650"
+      "scraped_at": "2026-09-08T12:48:25.295606"
     },
     {
       "id": "7f23a492b91a4ffd",
@@ -674,7 +884,7 @@
         "AveiroOn",
         "Exposicoes"
       ],
-      "scraped_at": "2026-09-07T14:10:34.199690"
+      "scraped_at": "2026-09-08T12:48:25.294696"
     },
     {
       "id": "6641112a25a5b848",
@@ -689,7 +899,22 @@
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-09-07T14:10:34.201665"
+      "scraped_at": "2026-09-08T12:48:25.296512"
+    },
+    {
+      "id": "9a7422bbc6854d90",
+      "title": "E as flores? - Joana Gama",
+      "start_date": "2026-10-18",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/e-as-flores/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/e-as-flores-joana-gama_img6a7c7b5a4dc50.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.640050"
     },
     {
       "id": "4958dc2044248343",
@@ -704,7 +929,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.202641"
+      "scraped_at": "2026-09-08T12:48:25.297402"
     },
     {
       "id": "d2a740c0e3264a86",
@@ -719,7 +944,22 @@
         "AveiroOn",
         "Literatura"
       ],
-      "scraped_at": "2026-09-07T14:10:34.203589"
+      "scraped_at": "2026-09-08T12:48:25.298299"
+    },
+    {
+      "id": "619098975ba26d7f",
+      "title": "Helena Caldeira - Novas Quintas",
+      "start_date": "2026-10-22",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/helena-caldeira-novas-quintas/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/helena-caldeira-novas-quintas_img6a7c7c124843b.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.641078"
     },
     {
       "id": "1462a484ac0e2540",
@@ -734,7 +974,22 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.204547"
+      "scraped_at": "2026-09-08T12:48:25.299113"
+    },
+    {
+      "id": "4c65dee323a9cd86",
+      "title": "FUNANIGHT | com Pedrinho Xalé + Luna do Mundo DJ Set + N.E.S.T.A. + Workshop de dança",
+      "start_date": "2026-10-23",
+      "end_date": null,
+      "location": "GrETUA",
+      "url": "https://www.viralagenda.com/pt/events/1846192/funanight-com-pedrinho-xale-luna-do-mundo-dj-set-n-e-s-t-a-workshop-de-danca",
+      "image_url": "https://cdn.viralagenda.com/images/events/ext/1846192-d712d0aa643e941d42e07da21cfb4857.jpeg",
+      "source": "GrETUA",
+      "tags": [
+        "GrETUA",
+        "Concertos"
+      ],
+      "scraped_at": "2026-09-08T12:48:28.430065"
     },
     {
       "id": "ebed6890bc136183",
@@ -749,7 +1004,22 @@
         "AveiroOn",
         "Infantil"
       ],
-      "scraped_at": "2026-09-07T14:10:34.205591"
+      "scraped_at": "2026-09-08T12:48:25.299996"
+    },
+    {
+      "id": "6e2b69eed9f3243c",
+      "title": "Uma Linha de Luz na Água [ESTREIA] - João Reis e Nuno Aroso",
+      "start_date": "2026-10-24",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/uma-linha-de-luz-na-agua/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/uma-linha-de-luz-na-agua-estreia-joao-reis-e-nuno-aroso_img6a7c7ceace9fe.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.642004"
     },
     {
       "id": "fd3cadc637f58088",
@@ -764,7 +1034,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.206603"
+      "scraped_at": "2026-09-08T12:48:25.300935"
     },
     {
       "id": "f0732d5ce6b1f17e",
@@ -779,7 +1049,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.207576"
+      "scraped_at": "2026-09-08T12:48:25.301803"
     },
     {
       "id": "91cd2c522dca018c",
@@ -794,7 +1064,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.210406"
+      "scraped_at": "2026-09-08T12:48:25.304429"
     },
     {
       "id": "ca9b019f77346778",
@@ -809,7 +1079,7 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.209464"
+      "scraped_at": "2026-09-08T12:48:25.303593"
     },
     {
       "id": "a434e8533e643d1d",
@@ -824,7 +1094,97 @@
         "AveiroOn",
         "Eventos"
       ],
-      "scraped_at": "2026-09-07T14:10:34.208499"
+      "scraped_at": "2026-09-08T12:48:25.302730"
+    },
+    {
+      "id": "bfbcc0e426b1bd4a",
+      "title": "Woyzeck - a partir de Georg Büchner",
+      "start_date": "2026-10-30",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/woyzeck/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/woyzeck-a-partir-de-georg-bu-chner_img6a7c7e10b40ef.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.642916"
+    },
+    {
+      "id": "e4ab794784826841",
+      "title": "Coelho Radioactivo - Apresenta ANTI-ONTEM",
+      "start_date": "2026-10-31",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/coelho-radioactivo/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/coelho-radioactivo-apresenta-anti-ontem_img6a7c7f18021a6.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.643916"
+    },
+    {
+      "id": "8382a04af7f5454b",
+      "title": "Ensemble Inverspace [ESTREIA NACIONAL] - Tubo de Ensaio #14",
+      "start_date": "2026-11-05",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/ensemble-inverspace-estreia-nacional/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/ensemble-inverspace-estreia-nacional-tubo-de-ensaio-14_img6a7c802fb9d02.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.645044"
+    },
+    {
+      "id": "0ef29ac07b5876a1",
+      "title": "Home - Francisco Sassetti / Ciclo O Problema da Habitação",
+      "start_date": "2026-11-06",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/home-francisco-sassetti-ciclo-o-problema-da-habitacao/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/home-francisco-sassetti-ciclo-o-problema-da-habitacao_img6a7c83dad2e67.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.645954"
+    },
+    {
+      "id": "f94edb1683c31546",
+      "title": "Cantar-o-Lar [ESTREIA] - Projeto de Arte Comunitária",
+      "start_date": "2026-11-08",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/cantar-o-lar-estreia/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/cantar-o-lar-estreia-projeto-de-arte-comunitaria_img6a7c866d3ea21.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.646926"
+    },
+    {
+      "id": "fdd9c8f8a8f72fee",
+      "title": "Bastien e Bastienne de W. A. Mozart - Uma ópera em marionetas e em português",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-13",
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/bastien-e-bastienne-escolas/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/bastien-e-bastienne-de-w-a-mozart-uma-opera-em-marionetas-e-em-portugues_img6a7c910eec7c4.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Ópera"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.648012"
     },
     {
       "id": "53584efcd6d4bf5f",
@@ -839,7 +1199,7 @@
         "Teatro Aveirense",
         "Música"
       ],
-      "scraped_at": "2026-09-07T14:10:27.748641"
+      "scraped_at": "2026-09-08T12:48:16.649288"
     },
     {
       "id": "83933991844bd6b2",
@@ -854,7 +1214,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-09-07T14:10:34.211317"
+      "scraped_at": "2026-09-08T12:48:25.305358"
     },
     {
       "id": "4af6ec18fb34f3f1",
@@ -869,7 +1229,7 @@
         "AveiroOn",
         "Musica"
       ],
-      "scraped_at": "2026-09-07T14:10:34.212343"
+      "scraped_at": "2026-09-08T12:48:25.306222"
     },
     {
       "id": "9163f534eb4ea8c9",
@@ -884,7 +1244,67 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.213265"
+      "scraped_at": "2026-09-08T12:48:25.307097"
+    },
+    {
+      "id": "2a3b18789201ca8b",
+      "title": "Bastien e Bastienne de W. A. Mozart - Uma ópera em marionetas e em português",
+      "start_date": "2026-11-14",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/bastien-e-bastienne-de-w-a-mozart/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/bastien-e-bastienne-de-w-a-mozart-uma-opera-em-marionetas-e-em-portugues_img6a7c8f161e269.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Ópera"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.650174"
+    },
+    {
+      "id": "27d6b9e6f626d4e7",
+      "title": "Entre Corpo, Voz, Memória - Oficina Palcos Instáveis",
+      "start_date": "2026-11-15",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/entre-corpo-voz-memoria/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/entre-corpo-voz-memoria-oficina-palcos-instaveis_img6a7de769eee49.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Oficina"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.651447"
+    },
+    {
+      "id": "38eaba9c6f16ecb3",
+      "title": "Songs of Ascencion - Beatriz Moreira, Iris Auguste e Giulia Micelli / Palcos Instáveis - Segunda Casa",
+      "start_date": "2026-11-19",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/songs-of-ascencion/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/songs-of-ascencion-beatriz-moreira-iris-auguste-e-giulia-micelli-palcos-instaveis-segunda-casa_img6a7c930c97916.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Dança"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.652448"
+    },
+    {
+      "id": "c96e5a39ddb0485e",
+      "title": "O Problema da Habitação [ESTREIA] - Direção de Jorge Louraço Figueira",
+      "start_date": "2026-11-21",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/o-problema-da-habitacao/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/o-problema-da-habitacao-estreia-direcao-de-jorge-louraco-figueira_img6a7d8c73041fc.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.653370"
     },
     {
       "id": "595ca7702778e050",
@@ -899,7 +1319,187 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.214194"
+      "scraped_at": "2026-09-08T12:48:25.308101"
+    },
+    {
+      "id": "e0bb4aa6f563b552",
+      "title": "Todos os sons vão dar à UA - Ensemble Efémero Internacional / Festivais de Outono 2026",
+      "start_date": "2026-11-25",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/todos-os-sons-vao-dar-a-ua/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/todos-os-sons-vao-dar-a-ua-ensemble-efemero-internacional-festivais-de-outono-2026_img6a7d8d7dc7859.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.654464"
+    },
+    {
+      "id": "81946512047080be",
+      "title": "Som da Água: uma parceria UA / UNESCO - Conversa Festivais de Outono",
+      "start_date": "2026-11-27",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/som-da-agua-uma-parceria-ua-unesco/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/som-da-agua-uma-parceria-ua-unesco-conversa-festivais-de-outono_img6a7de469e5614.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Conversa"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.655637"
+    },
+    {
+      "id": "7c4693ad992ef647",
+      "title": "O Som da Água: Música em estado líquido - Concerto de encerramento dos Festivais de Outono 2026",
+      "start_date": "2026-11-27",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/o-som-da-agua-musica-em-estado-liquido/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/o-som-da-agua-musica-em-estado-liquido-concerto-de-encerramento-dos-festivais-de-outono-2026_img6a7d8e68cac01.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.656568"
+    },
+    {
+      "id": "b463393072198df6",
+      "title": "Carolina Deslandes - Voz, Guitarra & Violoncelo",
+      "start_date": "2026-11-28",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/carolina-deslandes/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/carolina-deslandes-voz-guitarra-violoncelo_img6a9e9b3294b74.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.657608"
+    },
+    {
+      "id": "b3f1f4eb12d8463f",
+      "title": "Axiom Casino - Jonathan Uliel Saldanha",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-04",
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/axiom-casino/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/axiom-casino-jonathan-uliel-saldanha_img6a7d9c413baab.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Dança"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.658589"
+    },
+    {
+      "id": "bfccd6e1fb441cf1",
+      "title": "en.tre.nar.ra.ti.vas [ESTREIA] - Red Cloud Teatro de Marionetas",
+      "start_date": "2026-12-04",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/en-tre/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/en-tre-nar-ra-ti-vas-estreia-red-cloud-teatro-de-marionetas_img6a7d9fd356788.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro de Marionetas"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.660077"
+    },
+    {
+      "id": "b6825739e5efe990",
+      "title": "Fabulando no Escuro - Conversa Red Cloud",
+      "start_date": "2026-12-05",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/fabulando-no-escuro/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/fabulando-no-escuro-conversa-red-cloud_img6a7de4527d69f.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Conversa"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.661009"
+    },
+    {
+      "id": "d9e93cd506d169b7",
+      "title": "en.tre.nar.ra.ti.vas [ESTREIA] - Red Cloud Teatro de Marionetas",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/en-tre-nar-ra-ti-vas-estreia/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/en-tre-nar-ra-ti-vas-estreia-red-cloud-teatro-de-marionetas_img6a7d9e67c32e4.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro de Marionetas"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.662103"
+    },
+    {
+      "id": "6e50c38f7ae4cea3",
+      "title": "As mais belas coisas do mundo - Joana Providência",
+      "start_date": "2026-12-08",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/as-mais-belas-coisas-do-mundo/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/as-mais-belas-coisas-do-mundo-joana-providencia_img6a7daa8911d8e.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.663439"
+    },
+    {
+      "id": "19fb39b4f7c25ff0",
+      "title": "As mais belas coisas do mundo - Joana Providência",
+      "start_date": "2026-12-09",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/as-mais-belas/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/as-mais-belas-coisas-do-mundo-joana-providencia_img6a7dab32ea879.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.664335"
+    },
+    {
+      "id": "6969db6a5f143883",
+      "title": "Baleia Baleia Baleia - Novas Quintas",
+      "start_date": "2026-12-10",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/baleia-baleia-baleia/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/baleia-baleia-baleia-novas-quintas_img6a7dc4333372a.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.665322"
+    },
+    {
+      "id": "a41a80dfcba87828",
+      "title": "Flamingo - Remy Tiburg",
+      "start_date": "2026-12-11",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/flamingo/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/flamingo-remy-tiburg_img6a7dc5b072d02.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Dança"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.666254"
     },
     {
       "id": "c1db4a502ca5c8b6",
@@ -914,7 +1514,22 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.215243"
+      "scraped_at": "2026-09-08T12:48:25.309009"
+    },
+    {
+      "id": "b89f6fdc248a0aac",
+      "title": "Concerto Coral - Cantar o Natal - Conservatório de Música de Aveiro Calouste Gulbenkian",
+      "start_date": "2026-12-13",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/concerto-coral-cantar-o-natal/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/concerto-coral-cantar-o-natal-conservatorio-de-musica-de-aveiro-calouste-gulbenkian_img6a7dc66098ada.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.671986"
     },
     {
       "id": "6fc08a0436734f89",
@@ -929,7 +1544,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.216425"
+      "scraped_at": "2026-09-08T12:48:25.310444"
     },
     {
       "id": "bea52c23b1262ac5",
@@ -944,7 +1559,37 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.217510"
+      "scraped_at": "2026-09-08T12:48:25.311373"
+    },
+    {
+      "id": "0050b9c496f3edc9",
+      "title": "Começar tudo outra vez - Tonan Quito",
+      "start_date": "2026-12-19",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/comecar-tudo-outra-vez/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/comecar-tudo-outra-vez-tonan-quito_img6a7dc83c809e6.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Teatro"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.673068"
+    },
+    {
+      "id": "53f7f2bf4d770795",
+      "title": "A Poesia das Pequenas Coisas [ESTREIA] - Arte no Tempo",
+      "start_date": "2026-12-20",
+      "end_date": null,
+      "location": "Teatro Aveirense",
+      "url": "https://www.teatroaveirense.pt/pt/evento/a-poesia-das-pequenas-coisas-estreia/",
+      "image_url": "https://www.teatroaveirense.pt/imagens/eventos/a-poesia-das-pequenas-coisas-estreia-arte-no-tempo_img6a7dc98835f08.jpg",
+      "source": "Teatro Aveirense",
+      "tags": [
+        "Teatro Aveirense",
+        "Música"
+      ],
+      "scraped_at": "2026-09-08T12:48:16.674099"
     },
     {
       "id": "80382f99214e106b",
@@ -959,7 +1604,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.218573"
+      "scraped_at": "2026-09-08T12:48:25.312212"
     },
     {
       "id": "e1ae8eb0c41bd3ca",
@@ -974,7 +1619,7 @@
         "AveiroOn",
         "Feiras"
       ],
-      "scraped_at": "2026-09-07T14:10:34.219614"
+      "scraped_at": "2026-09-08T12:48:25.313003"
     }
   ]
 }
